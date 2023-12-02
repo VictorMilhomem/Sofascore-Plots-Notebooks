@@ -4,4 +4,4 @@ Notebooks for creating players percentile pizza plots from Sofascore
 
 ## Example Plot
 
-![German Cano Percentile](saved\cano_percentile.png)
+![German Cano Percentile](src\saved\cano_percentile.png)
