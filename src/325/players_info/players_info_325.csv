@@ -1,0 +1,725 @@
+name,slug,shortName,position,height,preferredFoot,userCount,player.id,shirtNumber,dateOfBirth,contractUntil,team.id,proposedMarketValue,country.alpha2,country.name,proposedMarketValueRaw.value,proposedMarketValueRaw.currency,player.image
+Danilo Fernandes,danilo-fernandes,D. Fernandes,G,189.0,Right,135,145054,1.0,1988-04-03,2023-12-31,1955,360000.0,BR,Brazil,360000.0,EUR,https://api.sofascore.app/api/v1/player/145054/image
+Pedro Morisco,pedro-morisco,Pedro Morisco,G,191.0,Right,16,1507616,72.0,2004-01-10,,1982,,BR,Brazil,,EUR,https://api.sofascore.app/api/v1/player/1507616/image
+John,john,John,G,192.0,Right,237,840103,25.0,1996-02-13,2024-06-30,2831,970000.0,BR,Brazil,970000.0,EUR,https://api.sofascore.app/api/v1/player/840103/image
+Raphael Veiga,raphael-veiga,Raphael Veiga,M,176.0,Left,7424,840020,23.0,1995-06-19,2026-12-31,1963,15300000.0,BR,Brazil,15300000.0,EUR,https://api.sofascore.app/api/v1/player/840020/image
+Hulk,hulk,Hulk,F,180.0,Left,9558,34705,7.0,1986-07-25,2026-12-31,1977,2200000.0,BR,Brazil,2200000.0,EUR,https://api.sofascore.app/api/v1/player/34705/image
+Caíque,caique,Caíque,G,198.0,Right,154,839514,31.0,1997-07-31,2023-12-31,5926,280000.0,BR,Brazil,280000.0,EUR,https://api.sofascore.app/api/v1/player/839514/image
+Eduardo Bauermann,eduardo-bauermann,E. Bauermann,D,186.0,Both,211,358530,,1996-02-13,,241802,1500000.0,BR,Brazil,1500000.0,EUR,https://api.sofascore.app/api/v1/player/358530/image
+Adriel,adriel,Adriel,G,195.0,Right,207,1106840,35.0,2001-01-14,2024-07-01,1955,1300000.0,BR,Brazil,1300000.0,EUR,https://api.sofascore.app/api/v1/player/1106840/image
+Léo Linck,leo-linck,L. Linck,G,194.0,Right,112,1119887,24.0,2001-03-03,2024-12-31,1967,825000.0,BR,Brazil,825000.0,EUR,https://api.sofascore.app/api/v1/player/1119887/image
+Dudu,dudu,Dudu,M,167.0,Right,4022,147464,7.0,1992-01-07,2026-01-31,1963,8700000.0,BR,Brazil,8700000.0,EUR,https://api.sofascore.app/api/v1/player/147464/image
+Luis Suárez,luis-suarez,L. Suárez,F,182.0,Right,67176,16943,9.0,1987-01-24,2023-12-31,5926,3600000.0,UY,Uruguay,3600000.0,EUR,https://api.sofascore.app/api/v1/player/16943/image
+Marcelo Lomba,marcelo-lomba,M. Lomba,G,187.0,Right,486,34141,42.0,1986-12-18,2023-12-31,1963,270000.0,BR,Brazil,270000.0,EUR,https://api.sofascore.app/api/v1/player/34141/image
+Tiquinho Soares,tiquinho-soares,T. Soares,F,187.0,Right,4253,789100,9.0,1991-01-17,2024-12-31,1958,4099999.0,BR,Brazil,4099999.0,EUR,https://api.sofascore.app/api/v1/player/789100/image
+Giorgian De Arrascaeta,giorgian-de-arrascaeta,G. De Arrascaeta,M,173.0,Right,15068,333587,14.0,1994-06-01,2026-12-31,5981,16399999.0,UY,Uruguay,16399999.0,EUR,https://api.sofascore.app/api/v1/player/333587/image
+Robert Arboleda,robert-arboleda,R. Arboleda,D,187.0,Right,1472,338937,5.0,1991-10-22,2024-12-31,1981,1500000.0,EC,Ecuador,1500000.0,EUR,https://api.sofascore.app/api/v1/player/338937/image
+Agustín Rossi,agustin-rossi,Agustín Rossi,G,190.0,Right,1358,1140986,17.0,1995-08-21,2027-12-31,5981,6200000.0,AR,Argentina,6200000.0,EUR,https://api.sofascore.app/api/v1/player/1140986/image
+Matheus Cunha,matheus-cunha,Matheus Cunha,G,193.0,Right,1562,1105835,25.0,2001-05-24,2025-12-31,5981,2900000.0,BR,Brazil,2900000.0,EUR,https://api.sofascore.app/api/v1/player/1105835/image
+Vitor Bueno,vitor-bueno,Vitor Bueno,M,183.0,Right,617,808785,8.0,1994-09-05,2024-12-31,1967,1500000.0,BR,Brazil,1500000.0,EUR,https://api.sofascore.app/api/v1/player/808785/image
+Anderson,anderson,Anderson,G,190.0,Left,114,942061,98.0,1998-03-05,2024-12-31,1954,185000.0,BR,Brazil,185000.0,EUR,https://api.sofascore.app/api/v1/player/942061/image
+Mauricio Kozlinski,mauricio-kozlinski,Mauricio Kozlinski,G,190.0,Right,55,879859,30.0,1991-06-18,2023-12-31,2020,380000.0,BR,Brazil,380000.0,EUR,https://api.sofascore.app/api/v1/player/879859/image
+Matheus Mendes,matheus-mendes,M. Mendes,G,194.0,Both,137,1018555,31.0,1999-03-10,2026-12-31,1977,260000.0,BR,Brazil,260000.0,EUR,https://api.sofascore.app/api/v1/player/1018555/image
+Moisés,moises,Moisés,F,177.0,Right,417,1046501,10.0,1996-09-02,,1947,1400000.0,BR,Brazil,1400000.0,EUR,https://api.sofascore.app/api/v1/player/1046501/image
+Alef Manga,manga-alef,A. Manga,M,190.0,Right,501,954719,11.0,1994-11-29,2025-12-31,1982,2100000.0,BR,Brazil,2100000.0,EUR,https://api.sofascore.app/api/v1/player/954719/image
+Pablo Vegetti,pablo-vegetti,Pablo Vegetti,F,187.0,Right,2050,583974,99.0,1988-10-15,2025-06-30,1974,485000.0,AR,Argentina,485000.0,EUR,https://api.sofascore.app/api/v1/player/583974/image
+Lucas Veríssimo,lucas-verissimo,L. Veríssimo,D,188.0,Right,1928,826343,3.0,1995-07-02,2024-06-30,1957,6200000.0,BR,Brazil,6200000.0,EUR,https://api.sofascore.app/api/v1/player/826343/image
+Lucas Evangelista,lucas-evangelista,L. Evangelista,M,181.0,Left,519,331397,8.0,1995-05-06,2026-06-30,1999,3800000.0,BR,Brazil,3800000.0,EUR,https://api.sofascore.app/api/v1/player/331397/image
+Paulinho,paulinho,Paulinho,F,175.0,Right,4253,885179,10.0,2000-07-15,2026-12-31,1977,9600000.0,BR,Brazil,9600000.0,EUR,https://api.sofascore.app/api/v1/player/885179/image
+Mauricio Lemos,mauricio-lemos,M. Lemos,D,186.0,Right,549,385916,28.0,1995-12-28,2025-12-31,1977,1400000.0,UY,Uruguay,1400000.0,EUR,https://api.sofascore.app/api/v1/player/385916/image
+Lucas Silva,lucas-silva,L. Silva,M,182.0,Right,524,245159,16.0,1993-02-16,2024-12-31,1954,720000.0,BR,Brazil,720000.0,EUR,https://api.sofascore.app/api/v1/player/245159/image
+Juninho Capixaba,juninho-capixaba,Juninho Capixaba,D,176.0,Left,549,870556,29.0,1997-07-06,2026-12-31,1999,1200000.0,BR,Brazil,1200000.0,EUR,https://api.sofascore.app/api/v1/player/870556/image
+Fernando Miguel,fernando-miguel,F. Miguel,G,191.0,Left,202,358418,16.0,1985-02-02,2023-12-31,2020,140000.0,BR,Brazil,140000.0,EUR,https://api.sofascore.app/api/v1/player/358418/image
+Marlon,marlon,Marlon,D,178.0,Left,537,870787,3.0,1997-05-20,2024-12-31,1954,3900000.0,BR,Brazil,3900000.0,EUR,https://api.sofascore.app/api/v1/player/870787/image
+Cleiton,cleiton,Cleiton,G,190.0,Right,343,844576,1.0,1997-08-19,2024-12-31,1999,4400000.0,BR,Brazil,4400000.0,EUR,https://api.sofascore.app/api/v1/player/844576/image
+Jonathan Calleri,jonathan-calleri,J. Calleri,F,181.0,Right,4579,340519,9.0,1993-09-23,2026-12-31,1981,4200000.0,AR,Argentina,4200000.0,EUR,https://api.sofascore.app/api/v1/player/340519/image
+Éverson,everson,Éverson,G,192.0,Right,602,870748,22.0,1990-07-22,2025-12-31,1977,2100000.0,BR,Brazil,2100000.0,EUR,https://api.sofascore.app/api/v1/player/870748/image
+Luan,luan,Luan,D,186.0,Right,687,250351,13.0,1993-05-10,2024-12-31,1963,1800000.0,BR,Brazil,1800000.0,EUR,https://api.sofascore.app/api/v1/player/250351/image
+Léo Ortiz,leo-ortiz,L. Ortiz,D,185.0,Right,542,869643,3.0,1996-01-03,2026-12-31,1999,5800000.0,BR,Brazil,5800000.0,EUR,https://api.sofascore.app/api/v1/player/869643/image
+Léo Pereira,leo-pereira,Léo Pereira,D,189.0,Left,1519,358548,4.0,1996-01-31,2027-12-31,5981,3700000.0,BR,Brazil,3700000.0,EUR,https://api.sofascore.app/api/v1/player/358548/image
+Fabrício Bruno,fabricio-bruno,Fabrício Bruno,D,192.0,Right,1268,840220,15.0,1996-02-12,2025-12-31,5981,3300000.0,BR,Brazil,3300000.0,EUR,https://api.sofascore.app/api/v1/player/840220/image
+Mayke,mayke,Mayke,D,178.0,Right,845,273329,12.0,1992-11-10,2024-12-31,1963,2200000.0,BR,Brazil,2200000.0,EUR,https://api.sofascore.app/api/v1/player/273329/image
+Fábio,fabio,Fábio,G,188.0,Right,808,17785,1.0,1980-09-30,2023-12-31,1961,210000.0,BR,Brazil,210000.0,EUR,https://api.sofascore.app/api/v1/player/17785/image
+Jhon Arias,jhon-arias,J. Arias,M,170.0,Right,2133,844096,21.0,1997-09-21,2026-08-31,1961,8600000.0,CO,Colombia,8600000.0,EUR,https://api.sofascore.app/api/v1/player/844096/image
+Marcos Felipe,marcos-felipe,Marcos Felipe,G,189.0,Right,258,358524,22.0,1996-04-13,2027-12-31,1955,1400000.0,BR,Brazil,1400000.0,EUR,https://api.sofascore.app/api/v1/player/358524/image
+Marcos Rocha,marcos-rocha,Marcos Rocha,D,176.0,Right,906,82576,2.0,1988-12-11,2023-12-31,1963,920000.0,BR,Brazil,920000.0,EUR,https://api.sofascore.app/api/v1/player/82576/image
+Lucas Perri,lucas-perri,L. Perri,G,196.0,Right,1386,871290,12.0,1997-12-10,2025-06-30,1958,4600000.0,BR,Brazil,4600000.0,EUR,https://api.sofascore.app/api/v1/player/871290/image
+Cauly,cauly,Cauly,M,175.0,Both,824,255873,8.0,1995-09-15,2026-12-31,1955,2600000.0,BR,Brazil,2600000.0,EUR,https://api.sofascore.app/api/v1/player/255873/image
+Adson,adson,Adson,M,171.0,Left,1048,1105970,20.0,2000-10-06,2028-06-30,1647,5600000.0,BR,Brazil,5600000.0,EUR,https://api.sofascore.app/api/v1/player/1105970/image
+Róger Guedes,roger-guedes,Róger Guedes,F,182.0,Right,5993,777341,96.0,1996-10-02,2027-06-30,40660,9300000.0,BR,Brazil,9300000.0,EUR,https://api.sofascore.app/api/v1/player/777341/image
+Maurício Antônio,mauricio-antonio,M. Antônio,D,183.0,Right,33,583824,5.0,1992-02-06,2025-12-31,1982,415000.0,BR,Brazil,415000.0,EUR,https://api.sofascore.app/api/v1/player/583824/image
+Felipe Jonatan,felipe-jonatan,F. Jonatan,D,176.0,Left,325,931574,3.0,1998-02-15,2025-02-28,1968,2400000.0,BR,Brazil,2400000.0,EUR,https://api.sofascore.app/api/v1/player/931574/image
+Cipriano,cipriano,Cipriano,D,195.0,Left,30,1111123,38.0,2002-11-09,,1999,,BR,Brazil,,EUR,https://api.sofascore.app/api/v1/player/1111123/image
+Maicon,maicon,Maicon,D,191.0,Right,505,44691,4.0,1988-09-14,2023-12-31,1974,340000.0,BR,Brazil,340000.0,EUR,https://api.sofascore.app/api/v1/player/44691/image
+Joaquim,joaquim,Joaquim,D,187.0,Right,372,1047740,28.0,1998-12-28,2026-12-31,1968,680000.0,BR,Brazil,680000.0,EUR,https://api.sofascore.app/api/v1/player/1047740/image
+Rafael Cabral,rafael-cabral,Rafael Cabral,G,186.0,Right,351,124980,1.0,1990-05-20,2024-12-31,1954,505000.0,BR,Brazil,505000.0,EUR,https://api.sofascore.app/api/v1/player/124980/image
+Bitello,bitello,Bitello,M,179.0,Right,1412,1106839,89.0,2000-01-07,2028-06-30,2315,7800000.0,BR,Brazil,7800000.0,EUR,https://api.sofascore.app/api/v1/player/1106839/image
+Murillo,murillo,Murillo,D,183.0,Left,1442,1199282,40.0,2002-07-04,2028-06-30,14,8700000.0,BR,Brazil,8700000.0,EUR,https://api.sofascore.app/api/v1/player/1199282/image
+Murilo,murilo,Murilo,D,188.0,Right,1124,874729,26.0,1997-03-27,2026-12-31,1963,9200000.0,BR,Brazil,9200000.0,EUR,https://api.sofascore.app/api/v1/player/874729/image
+Renê,rene,Renê,D,174.0,Left,636,243113,6.0,1992-09-14,2024-12-31,1966,930000.0,BR,Brazil,930000.0,EUR,https://api.sofascore.app/api/v1/player/243113/image
+Gerson,gerson,Gerson,M,185.0,Left,8025,611876,20.0,1997-05-20,2027-12-31,5981,15500000.0,BR,Brazil,15500000.0,EUR,https://api.sofascore.app/api/v1/player/611876/image
+Adryelson,adryelson,Adryelson,D,184.0,Right,816,795261,34.0,1998-03-23,2025-12-31,1958,4700000.0,BR,Brazil,4700000.0,EUR,https://api.sofascore.app/api/v1/player/795261/image
+Brayan Ceballos,brayan-ceballos,B. Ceballos,D,189.0,Right,143,1129429,25.0,2001-05-24,2024-12-31,6105,820000.0,CO,Colombia,820000.0,EUR,https://api.sofascore.app/api/v1/player/1129429/image
+Weverton,weverton,Weverton,G,189.0,Right,2553,243529,21.0,1987-12-13,2024-12-31,1963,2700000.0,BR,Brazil,2700000.0,EUR,https://api.sofascore.app/api/v1/player/243529/image
+Franco Cristaldo,franco-cristaldo,Franco Cristaldo,M,175.0,Right,1200,558820,19.0,1996-08-15,2026-12-31,5926,7200000.0,AR,Argentina,7200000.0,EUR,https://api.sofascore.app/api/v1/player/558820/image
+André,andre,André,M,176.0,Right,3894,1035996,7.0,2001-07-16,2026-12-31,1961,15500000.0,BR,Brazil,15500000.0,EUR,https://api.sofascore.app/api/v1/player/1035996/image
+Helinho,helinho,Helinho,M,175.0,Left,501,906837,11.0,2000-04-25,2026-12-31,1999,5400000.0,BR,Brazil,5400000.0,EUR,https://api.sofascore.app/api/v1/player/906837/image
+Alan Franco,alan-franco,Alan Franco,D,183.0,Right,574,875402,28.0,1996-10-11,2025-12-31,1981,2100000.0,AR,Argentina,2100000.0,EUR,https://api.sofascore.app/api/v1/player/875402/image
+Jandrei,jandrei,Jandrei,G,186.0,Right,421,874979,93.0,1993-03-01,2026-12-31,1981,680000.0,BR,Brazil,680000.0,EUR,https://api.sofascore.app/api/v1/player/874979/image
+Bruno Rodrigues,bruno-rodrigues,Bruno Rodrigues,F,177.0,Right,900,817650,9.0,1997-03-07,2023-12-31,1954,2700000.0,BR,Brazil,2700000.0,EUR,https://api.sofascore.app/api/v1/player/817650/image
+Marcelo,marcelo,Marcelo,D,174.0,Left,32275,17787,12.0,1988-05-12,2024-12-31,1961,1700000.0,BR,Brazil,1700000.0,EUR,https://api.sofascore.app/api/v1/player/17787/image
+Guilherme Marques,guilherme-marques,Guilherme Marques,M,174.0,Left,339,109610,60.0,1991-05-21,2023-12-31,1960,1100000.0,BR,Brazil,1100000.0,EUR,https://api.sofascore.app/api/v1/player/109610/image
+Gustavo Sauer,gustavo-sauer,Gustavo Sauer,M,181.0,Left,280,904505,11.0,1993-04-30,2024-06-30,3064,2000000.0,BR,Brazil,2000000.0,EUR,https://api.sofascore.app/api/v1/player/904505/image
+Richard Cândido,richard-candido,Richard Cândido,M,191.0,Right,274,897617,25.0,1994-02-18,2025-06-30,6362,1500000.0,BR,Brazil,1500000.0,EUR,https://api.sofascore.app/api/v1/player/897617/image
+Eduardo Santos,eduardo-santos,Eduardo,D,196.0,Right,89,925189,12.0,1997-11-28,2023-12-31,1999,875000.0,BR,Brazil,875000.0,EUR,https://api.sofascore.app/api/v1/player/925189/image
+Víctor Cuesta,victor-cuesta,Víctor Cuesta,D,187.0,Left,718,587148,15.0,1988-11-19,2024-12-31,1958,945000.0,AR,Argentina,945000.0,EUR,https://api.sofascore.app/api/v1/player/587148/image
+Lucas Beraldo,lucas-beraldo,Lucas Beraldo,D,182.0,Left,1273,1108441,35.0,2003-11-24,2026-06-30,1981,5500000.0,BR,Brazil,5500000.0,EUR,https://api.sofascore.app/api/v1/player/1108441/image
+Léo Jardim,leo-jardim,L. Jardim,G,188.0,Right,762,595598,1.0,1995-03-20,2025-12-31,1974,2800000.0,BR,Brazil,2800000.0,EUR,https://api.sofascore.app/api/v1/player/595598/image
+Tadeu,tadeu,Tadeu,G,184.0,Right,341,552172,23.0,1992-02-04,2026-12-31,1960,2100000.0,BR,Brazil,2100000.0,EUR,https://api.sofascore.app/api/v1/player/552172/image
+Rossi,rossi,Rossi,M,170.0,Right,424,243425,31.0,1993-04-22,2023-12-31,1974,875000.0,BR,Brazil,875000.0,EUR,https://api.sofascore.app/api/v1/player/243425/image
+Cássio,cassio,Cássio,G,195.0,Left,2355,27756,12.0,1987-06-06,2024-12-31,1957,680000.0,BR,Brazil,680000.0,EUR,https://api.sofascore.app/api/v1/player/27756/image
+Reinaldo,reinaldo,Reinaldo,D,178.0,Left,821,243109,6.0,1989-09-28,2024-12-31,5926,930000.0,BR,Brazil,930000.0,EUR,https://api.sofascore.app/api/v1/player/243109/image
+Keno,keno,Keno,M,174.0,Right,1051,787607,11.0,1989-09-10,2025-12-31,1961,1100000.0,BR,Brazil,1100000.0,EUR,https://api.sofascore.app/api/v1/player/787607/image
+Pedrinho,pedrinho,Pedrinho,M,172.0,Left,1338,874030,38.0,1998-04-13,2024-06-30,1977,7800000.0,BR,Brazil,7800000.0,EUR,https://api.sofascore.app/api/v1/player/874030/image
+Ganso,ganso,Ganso,M,184.0,Left,1728,116853,10.0,1989-10-12,2025-12-31,1961,670000.0,BR,Brazil,670000.0,EUR,https://api.sofascore.app/api/v1/player/116853/image
+Renato Augusto,renato-augusto,Renato Augusto,M,185.0,Right,3247,34152,8.0,1988-02-08,2023-12-31,1957,1400000.0,BR,Brazil,1400000.0,EUR,https://api.sofascore.app/api/v1/player/34152/image
+Nathan Silva,nathan-silva,Nathan Silva,D,182.0,Right,333,841129,6.0,1997-05-06,2027-06-30,1933,4700000.0,BR,Brazil,4700000.0,EUR,https://api.sofascore.app/api/v1/player/841129/image
+João Paulo,joao-paulo,J. Paulo,G,188.0,Right,933,795177,34.0,1995-06-29,2027-12-31,1968,6700000.0,BR,Brazil,6700000.0,EUR,https://api.sofascore.app/api/v1/player/795177/image
+Jory,jory,Jory,G,190.0,Right,31,839762,12.0,1996-03-13,2025-12-31,1973,310000.0,BR,Brazil,310000.0,EUR,https://api.sofascore.app/api/v1/player/839762/image
+Artur,artur,Artur,M,168.0,Left,2210,841128,14.0,1998-02-15,2027-12-31,1963,9600000.0,BR,Brazil,9600000.0,EUR,https://api.sofascore.app/api/v1/player/841128/image
+Rafinha,rafinha,Rafinha,D,172.0,Right,1642,12634,13.0,1985-09-07,2024-12-31,1981,195000.0,BR,Brazil,195000.0,EUR,https://api.sofascore.app/api/v1/player/12634/image
+Tinga,tinga,Tinga,D,179.0,Right,245,330057,2.0,1993-09-01,2026-04-30,2020,1100000.0,BR,Brazil,1100000.0,EUR,https://api.sofascore.app/api/v1/player/330057/image
+Marlon Freitas,marlon-freitas,Marlon Freitas,M,185.0,Right,373,840202,17.0,1995-03-27,2025-12-31,1958,2900000.0,BR,Brazil,2900000.0,EUR,https://api.sofascore.app/api/v1/player/840202/image
+Nikão,nikao,Nikão,M,174.0,Left,457,139300,10.0,1992-07-29,2023-12-31,1954,2200000.0,BR,Brazil,2200000.0,EUR,https://api.sofascore.app/api/v1/player/139300/image
+David Luiz,david-luiz,D. Luiz,D,189.0,Right,5401,21300,23.0,1987-04-22,2023-12-31,5981,540000.0,BR,Brazil,540000.0,EUR,https://api.sofascore.app/api/v1/player/21300/image
+Guilherme Arana,guilherme-arana,G. Arana,D,176.0,Left,2113,1127439,13.0,1997-04-14,2027-12-31,1977,10600000.0,BR,Brazil,10600000.0,EUR,https://api.sofascore.app/api/v1/player/1127439/image
+Walter,walter,Walter,G,188.0,Right,275,329055,1.0,1987-11-18,2024-12-31,49202,230000.0,BR,Brazil,230000.0,EUR,https://api.sofascore.app/api/v1/player/329055/image
+Fernando,fernando,Fernando,D,181.0,Left,105,1017746,6.0,1999-09-14,2026-12-31,1967,495000.0,BR,Brazil,495000.0,EUR,https://api.sofascore.app/api/v1/player/1017746/image
+Erick,erick,Erick,M,176.0,Right,311,874063,26.0,1997-11-14,2026-01-31,1967,4099999.0,BR,Brazil,4099999.0,EUR,https://api.sofascore.app/api/v1/player/874063/image
+Denilson,denilson,Denilson,M,180.0,Right,157,1175760,27.0,2001-03-23,2027-12-31,49202,620000.0,BR,Brazil,620000.0,EUR,https://api.sofascore.app/api/v1/player/1175760/image
+Matheus Fernandes,matheus-fernandes,Matheus Fernandes,M,183.0,Right,986,840150,35.0,1998-06-30,2023-12-31,1999,1400000.0,BR,Brazil,1400000.0,EUR,https://api.sofascore.app/api/v1/player/840150/image
+Eduardo Sasha,eduardo-sasha,E. Sasha,F,173.0,Right,953,143846,19.0,1992-02-24,2025-12-31,1999,2000000.0,BR,Brazil,2000000.0,EUR,https://api.sofascore.app/api/v1/player/143846/image
+Lucas Oliveira,lucas-oliveira,Lucas Oliveira,D,187.0,Right,200,867907,6.0,1996-02-02,2025-12-31,1954,2700000.0,BR,Brazil,2700000.0,EUR,https://api.sofascore.app/api/v1/player/867907/image
+Gonzalo Mastriani,gonzalo-mastriani,G. Mastriani,F,180.0,Left,593,345847,17.0,1993-04-28,2025-12-31,1973,855000.0,UY,Uruguay,855000.0,EUR,https://api.sofascore.app/api/v1/player/345847/image
+Deyverson,deyverson,Deyverson,F,185.0,Left,1811,270287,16.0,1991-05-08,2024-12-31,49202,970000.0,BR,Brazil,970000.0,EUR,https://api.sofascore.app/api/v1/player/270287/image
+Marcos Leonardo,marcos-leonardo,M. Leonardo,F,174.0,Right,5527,1047227,9.0,2003-05-02,2026-12-31,1968,17700000.0,BR,Brazil,17700000.0,EUR,https://api.sofascore.app/api/v1/player/1047227/image
+Ruan Assis,ruan-assis,Ruan Assis,M,,,15,1495892,97.0,2004-04-20,,1982,,BR,Brazil,,EUR,https://api.sofascore.app/api/v1/player/1495892/image
+Gabriel Xavier,gabriel-xavier,G. Xavier,D,190.0,Right,101,1117710,3.0,2001-05-06,2025-12-31,1955,220000.0,BR,Brazil,220000.0,EUR,https://api.sofascore.app/api/v1/player/1117710/image
+Moreira,moreira,Moreira,D,175.0,Right,326,1175765,30.0,2004-05-21,2027-06-30,1981,1900000.0,BR,Brazil,1900000.0,EUR,https://api.sofascore.app/api/v1/player/1175765/image
+Vitor Eudes,vitor-eudes,Vitor Eudes,G,195.0,Right,115,927666,98.0,1998-10-21,2025-12-31,1961,92000.0,BR,Brazil,92000.0,EUR,https://api.sofascore.app/api/v1/player/927666/image
+Luis Fernando,luis-fernando,L. Fernando,F,,,71,1585334,26.0,2005-04-12,,1954,,BR,Brazil,,EUR,https://api.sofascore.app/api/v1/player/1585334/image
+Biel,biel,Biel,F,169.0,Right,540,1106140,10.0,2001-04-01,2028-12-31,1955,2400000.0,BR,Brazil,2400000.0,EUR,https://api.sofascore.app/api/v1/player/1106140/image
+Everton,everton,Everton,F,174.0,Right,5930,386198,11.0,1996-03-22,2026-06-30,5981,8199999.0,BR,Brazil,8199999.0,EUR,https://api.sofascore.app/api/v1/player/386198/image
+Bento,bento,Bento,G,190.0,Right,929,1016104,1.0,1999-06-10,2026-12-31,1967,8600000.0,BR,Brazil,8600000.0,EUR,https://api.sofascore.app/api/v1/player/1016104/image
+Zé Ricardo,ze-ricardo,Zé Ricardo,M,175.0,Right,109,943044,5.0,1999-02-03,,87202,480000.0,BR,Brazil,480000.0,EUR,https://api.sofascore.app/api/v1/player/943044/image
+Fernandinho,fernandinho,Fernandinho,M,179.0,Right,2703,13630,5.0,1985-05-04,2024-12-31,1967,620000.0,BR,Brazil,620000.0,EUR,https://api.sofascore.app/api/v1/player/13630/image
+Pedro Henrique,pedro-henrique,P. Henrique,D,188.0,Right,340,551774,34.0,1995-10-02,2024-12-31,1967,3200000.0,BR,Brazil,3200000.0,EUR,https://api.sofascore.app/api/v1/player/551774/image
+Lucas Lima,lucas-lima,L. Lima,M,176.0,Left,972,244589,23.0,1990-07-09,2025-04-30,1968,910000.0,BR,Brazil,910000.0,EUR,https://api.sofascore.app/api/v1/player/244589/image
+Pablo Maia,pablo-maia,P. Maia,M,178.0,Right,932,1120721,29.0,2002-01-10,2027-12-31,1981,6800000.0,BR,Brazil,6800000.0,EUR,https://api.sofascore.app/api/v1/player/1120721/image
+Gil,gil,Gil,D,191.0,Right,993,106402,4.0,1987-06-12,2023-12-31,1957,515000.0,BR,Brazil,515000.0,EUR,https://api.sofascore.app/api/v1/player/106402/image
+Agustín Canobbio,agustin-canobbio,A. Canobbio,M,175.0,Right,946,846413,14.0,1998-10-01,2026-12-31,1967,4099999.0,UY,Uruguay,4099999.0,EUR,https://api.sofascore.app/api/v1/player/846413/image
+Wanderson,wanderson,Wanderson,M,175.0,Right,645,247483,11.0,1994-10-07,2025-12-31,1966,8700000.0,BR,Brazil,8700000.0,EUR,https://api.sofascore.app/api/v1/player/247483/image
+Maurício,mauricio,Maurício,M,174.0,Left,750,986233,27.0,2001-06-22,2027-12-31,1966,6300000.0,BR,Brazil,6300000.0,EUR,https://api.sofascore.app/api/v1/player/986233/image
+Tomás Cuello,tomas-cuello,Tomás Cuello,M,176.0,Right,356,871273,28.0,2000-03-05,2025-12-31,1967,3300000.0,AR,Argentina,3300000.0,EUR,https://api.sofascore.app/api/v1/player/871273/image
+Luciano Castan,luciano-castan,Luciano Castan,D,187.0,Left,171,845110,4.0,1989-09-13,2023-12-31,1954,275000.0,BR,Brazil,275000.0,EUR,https://api.sofascore.app/api/v1/player/845110/image
+Sander,sander,Sander,D,177.0,Left,133,795014,6.0,1990-10-03,2024-12-31,1960,270000.0,BR,Brazil,270000.0,EUR,https://api.sofascore.app/api/v1/player/795014/image
+Yeferson Soteldo,yeferson-soteldo,Y. Soteldo,M,160.0,Right,2810,789960,10.0,1997-06-30,2027-06-30,1968,4600000.0,VE,Venezuela,4600000.0,EUR,https://api.sofascore.app/api/v1/player/789960/image
+Thiago Heleno,thiago-heleno,T. Heleno,D,185.0,Right,247,33106,44.0,1988-09-17,2024-12-31,1967,650000.0,BR,Brazil,650000.0,EUR,https://api.sofascore.app/api/v1/player/33106/image
+Gabriel Menino,gabriel-menino,Gabriel Menino,M,176.0,Right,1891,974556,25.0,2000-09-29,2025-12-31,1963,10400000.0,BR,Brazil,10400000.0,EUR,https://api.sofascore.app/api/v1/player/974556/image
+Joaquín Piquerez,joaquin-piquerez,J. Piquerez,D,183.0,Left,1809,881110,22.0,1998-08-24,2025-12-31,1963,9400000.0,UY,Uruguay,9400000.0,EUR,https://api.sofascore.app/api/v1/player/881110/image
+Nino,nino,Nino,D,188.0,Right,1286,870788,33.0,1997-04-10,2024-12-31,1961,6600000.0,BR,Brazil,6600000.0,EUR,https://api.sofascore.app/api/v1/player/870788/image
+Jean Lucas,jean-lucas,J. Lucas,M,181.0,Right,907,927975,8.0,1998-06-22,2027-12-31,1968,4900000.0,BR,Brazil,4900000.0,EUR,https://api.sofascore.app/api/v1/player/927975/image
+Mathias Villasanti,mathias-villasanti,M. Villasanti,M,178.0,Right,891,1139775,20.0,1997-01-24,2024-12-31,5926,7200000.0,PY,Paraguay,7200000.0,EUR,https://api.sofascore.app/api/v1/player/1139775/image
+Alan Patrick,alan-patrick,A. Patrick,M,177.0,Right,1098,124997,10.0,1991-05-13,2025-04-30,1966,4300000.0,BR,Brazil,4300000.0,EUR,https://api.sofascore.app/api/v1/player/124997/image
+Vítor Jacaré,vitor-jacare,Vítor Jacaré,M,178.0,Right,442,1019652,29.0,1999-10-24,2024-12-31,1955,1400000.0,BR,Brazil,1400000.0,EUR,https://api.sofascore.app/api/v1/player/1019652/image
+Rafael,rafael,Rafael,G,192.0,Left,661,33132,23.0,1989-06-23,2025-12-31,1981,370000.0,BR,Brazil,370000.0,EUR,https://api.sofascore.app/api/v1/player/33132/image
+Matheus Bidú,matheus-bidu,Matheus Bidú,D,172.0,Left,658,981703,21.0,1999-05-04,2025-12-31,1957,2100000.0,BR,Brazil,2100000.0,EUR,https://api.sofascore.app/api/v1/player/981703/image
+Kaique Rocha,kaique-rocha,Kaique Rocha,D,195.0,Right,147,963990,4.0,2001-02-28,2026-12-31,1967,960000.0,BR,Brazil,960000.0,EUR,https://api.sofascore.app/api/v1/player/963990/image
+Matheus Pereira,matheus-pereira,M. Pereira,M,175.0,Left,1927,377238,96.0,1996-05-05,2024-06-30,1954,6800000.0,BR,Brazil,6800000.0,EUR,https://api.sofascore.app/api/v1/player/377238/image
+Vitor Roque,vitor-roque,Vitor Roque,F,172.0,Right,16971,1150391,9.0,2005-02-28,2027-05-31,1967,33000000.0,BR,Brazil,33000000.0,EUR,https://api.sofascore.app/api/v1/player/1150391/image
+Paulo Henrique,paulo-henrique,P. Henrique,D,175.0,Right,217,1021721,96.0,1996-07-25,2023-12-31,1974,290000.0,BR,Brazil,290000.0,EUR,https://api.sofascore.app/api/v1/player/1021721/image
+Allyson,allyson,Allyson,D,184.0,Right,54,809194,34.0,1990-10-23,2024-12-31,49202,120000.0,BR,Brazil,120000.0,EUR,https://api.sofascore.app/api/v1/player/809194/image
+Dudu,dudu,Dudu,D,175.0,Right,152,859083,20.0,1997-05-30,2025-12-31,2020,1300000.0,BR,Brazil,1300000.0,EUR,https://api.sofascore.app/api/v1/player/859083/image
+Hugo,hugo,Hugo,D,179.0,Left,116,1017827,66.0,1997-08-29,2023-12-31,1960,480000.0,BR,Brazil,480000.0,EUR,https://api.sofascore.app/api/v1/player/1017827/image
+Vitor Mendes,vitor-mendes,Vitor Mendes,D,186.0,Right,160,988873,,1999-02-13,,241802,340000.0,BR,Brazil,340000.0,EUR,https://api.sofascore.app/api/v1/player/988873/image
+Calebe,calebe,Calebe,M,173.0,Left,312,1046796,27.0,2000-04-30,2024-12-31,2020,2400000.0,BR,Brazil,2400000.0,EUR,https://api.sofascore.app/api/v1/player/1046796/image
+Rubens,rubens,Rubens,D,178.0,Left,411,1093196,44.0,2001-06-21,2025-12-31,1977,3800000.0,BR,Brazil,3800000.0,EUR,https://api.sofascore.app/api/v1/player/1093196/image
+Khellven,khellven,Khellven,D,176.0,Right,452,984896,2.0,2001-02-25,2028-06-30,2325,7200000.0,BR,Brazil,7200000.0,EUR,https://api.sofascore.app/api/v1/player/984896/image
+Rezende,rezende,Rezende,M,186.0,Left,203,868030,5.0,1995-01-02,2025-12-31,1955,775000.0,BR,Brazil,775000.0,EUR,https://api.sofascore.app/api/v1/player/868030/image
+Fabricio Bustos,fabricio-bustos,Fabricio Bustos,D,167.0,Right,483,850023,16.0,1996-04-28,2024-12-31,1966,6300000.0,AR,Argentina,6300000.0,EUR,https://api.sofascore.app/api/v1/player/850023/image
+Filipe Luís,filipe-luis,F. Luís,D,181.0,Left,2908,26029,16.0,1985-08-09,2023-12-31,5981,285000.0,BR,Brazil,285000.0,EUR,https://api.sofascore.app/api/v1/player/26029/image
+Gustavo Gómez,gustavo-gomez,G. Gómez,D,185.0,Right,2650,220833,15.0,1993-05-06,2026-12-31,1963,8000000.0,PY,Paraguay,8000000.0,EUR,https://api.sofascore.app/api/v1/player/220833/image
+Raniele,raniele,Raniele,M,184.0,Right,216,866392,14.0,1996-12-31,2026-12-31,49202,1100000.0,BR,Brazil,1100000.0,EUR,https://api.sofascore.app/api/v1/player/866392/image
+Lucas Halter,lucas-halter,L. Halter,D,187.0,Right,263,905450,3.0,2000-05-02,2023-12-31,1960,2900000.0,BR,Brazil,2900000.0,EUR,https://api.sofascore.app/api/v1/player/905450/image
+Tomás Rincón,tomas-rincon,T. Rincón,M,175.0,Right,1175,46798,25.0,1988-01-13,2024-12-31,1968,840000.0,VE,Venezuela,840000.0,EUR,https://api.sofascore.app/api/v1/player/46798/image
+Pablo,pablo,Pablo,F,185.0,Right,663,374486,92.0,1992-06-23,2023-12-31,1967,970000.0,BR,Brazil,970000.0,EUR,https://api.sofascore.app/api/v1/player/374486/image
+Clayson,clayson,Clayson,F,166.0,Both,210,811308,29.0,1995-03-19,2025-12-31,49202,775000.0,BR,Brazil,775000.0,EUR,https://api.sofascore.app/api/v1/player/811308/image
+Tomás Pochettino,tomas-pochettino,T. Pochettino,M,178.0,Right,414,824626,7.0,1996-02-01,2025-12-31,2020,1900000.0,AR,Argentina,1900000.0,EUR,https://api.sofascore.app/api/v1/player/824626/image
+James Rodríguez,james-rodriguez,James Rodríguez,M,180.0,Left,28887,107414,19.0,1991-07-12,2025-06-30,1981,5800000.0,CO,Colombia,5800000.0,EUR,https://api.sofascore.app/api/v1/player/107414/image
+Germán Cano,german-cano,G. Cano,F,176.0,Right,6493,33238,14.0,1988-01-02,2025-12-31,1961,1900000.0,AR,Argentina,1900000.0,EUR,https://api.sofascore.app/api/v1/player/33238/image
+Johnny,johnny,Johnny,M,182.0,Right,795,990169,30.0,2001-09-20,2026-12-31,1966,4700000.0,US,USA,4700000.0,EUR,https://api.sofascore.app/api/v1/player/990169/image
+Otávio,otavio,Otávio,M,173.0,Right,392,552686,5.0,1994-05-04,2026-06-30,1977,4300000.0,BR,Brazil,4300000.0,EUR,https://api.sofascore.app/api/v1/player/552686/image
+Lima,lima,Lima,M,181.0,Right,525,807850,45.0,1996-06-11,2025-12-31,1961,1400000.0,BR,Brazil,1400000.0,EUR,https://api.sofascore.app/api/v1/player/807850/image
+Luan Cândido,luan-candido,L. Cândido,D,187.0,Left,400,905459,36.0,2001-02-02,2026-12-31,1999,5700000.0,BR,Brazil,5700000.0,EUR,https://api.sofascore.app/api/v1/player/905459/image
+Diego Costa,diego-costa,D. Costa,D,184.0,Right,809,995293,4.0,1999-07-21,2024-12-31,1981,3800000.0,BR,Brazil,3800000.0,EUR,https://api.sofascore.app/api/v1/player/995293/image
+Bruno Pacheco,bruno-pacheco,Bruno Pacheco,D,174.0,Left,259,870691,6.0,1991-12-08,2024-12-31,2020,630000.0,BR,Brazil,630000.0,EUR,https://api.sofascore.app/api/v1/player/870691/image
+William,william,William,D,176.0,Right,316,604274,12.0,1995-04-03,2023-12-31,1954,1800000.0,BR,Brazil,1800000.0,EUR,https://api.sofascore.app/api/v1/player/604274/image
+Marcelino Moreno,marcelino-moreno,M. Moreno,M,175.0,Right,297,848472,10.0,1995-06-25,2026-12-31,1982,4500000.0,AR,Argentina,4500000.0,EUR,https://api.sofascore.app/api/v1/player/848472/image
+Everaldo,everaldo,Everaldo,F,181.0,Right,519,386212,9.0,1991-07-05,2025-12-31,1955,870000.0,BR,Brazil,870000.0,EUR,https://api.sofascore.app/api/v1/player/386212/image
+Fernando Sobral,fernando-sobral,F. Sobral,M,178.0,Right,361,931479,88.0,1994-12-17,2026-12-31,49202,1900000.0,BR,Brazil,1900000.0,EUR,https://api.sofascore.app/api/v1/player/931479/image
+Pablo Ceppelini,pablo-ceppelini,P. Ceppelini,M,178.0,Right,150,146599,,1991-09-11,,241802,515000.0,UY,Uruguay,515000.0,EUR,https://api.sofascore.app/api/v1/player/146599/image
+Zé Welison,ze-welison,Zé Welison,M,177.0,Right,233,551422,17.0,1995-03-11,2026-12-31,2020,745000.0,BR,Brazil,745000.0,EUR,https://api.sofascore.app/api/v1/player/551422/image
+Victor Sá,victor-sa,Victor Sá,M,178.0,Both,600,799634,7.0,1994-03-27,2025-12-31,1958,1900000.0,BR,Brazil,1900000.0,EUR,https://api.sofascore.app/api/v1/player/799634/image
+Filipe Machado,filipe-machado,Filipe Machado,M,174.0,Right,243,844601,23.0,1996-01-20,2024-12-31,1954,1000000.0,BR,Brazil,1000000.0,EUR,https://api.sofascore.app/api/v1/player/844601/image
+Endrick,endrick,Endrick,F,173.0,Left,33529,1174937,9.0,2006-07-21,2025-06-30,1963,26000000.0,BR,Brazil,26000000.0,EUR,https://api.sofascore.app/api/v1/player/1174937/image
+Gabriel Pec,gabriel-pec,G. Pec,F,172.0,Left,1383,995072,11.0,2001-02-11,2027-12-31,1974,3100000.0,BR,Brazil,3100000.0,EUR,https://api.sofascore.app/api/v1/player/995072/image
+Yuri Alberto,yuri-alberto,Yuri Alberto,F,183.0,Right,6039,905463,9.0,2001-03-18,2027-12-31,1957,16500000.0,BR,Brazil,16500000.0,EUR,https://api.sofascore.app/api/v1/player/905463/image
+Stiven Mendoza,stiven-mendoza,S. Mendoza,M,171.0,Left,846,354510,20.0,1992-06-27,2025-12-31,1968,1200000.0,CO,Colombia,1200000.0,EUR,https://api.sofascore.app/api/v1/player/354510/image
+Zé Rafael,ze-rafael,Z. Rafael,M,175.0,Right,1303,329069,8.0,1993-06-16,2025-12-31,1963,4700000.0,BR,Brazil,4700000.0,EUR,https://api.sofascore.app/api/v1/player/329069/image
+Matheus Peixoto,matheus-peixoto,Matheus Peixoto,F,190.0,Right,268,880169,18.0,1995-11-16,2023-12-31,7314,1500000.0,BR,Brazil,1500000.0,EUR,https://api.sofascore.app/api/v1/player/880169/image
+Alan,alan,Alan,F,178.0,Right,285,36684,,1989-07-10,,241802,325000.0,CN,China,325000.0,EUR,https://api.sofascore.app/api/v1/player/36684/image
+Estêvão,estevao,Estêvão,M,176.0,Left,116,1116660,26.0,2002-02-03,2026-06-30,1966,290000.0,BR,Brazil,290000.0,EUR,https://api.sofascore.app/api/v1/player/1116660/image
+Gatito Fernández,gatito-fernandez,G. Fernández,G,191.0,Right,440,840027,1.0,1988-03-29,2024-12-31,1958,440000.0,PY,Paraguay,440000.0,EUR,https://api.sofascore.app/api/v1/player/840027/image
+Arthur Wenderroscky,arthur-wenderroscky,A. Wenderroscky,M,172.0,Left,176,1382913,28.0,2005-02-24,,199294,270000.0,BR,Brazil,270000.0,EUR,https://api.sofascore.app/api/v1/player/1382913/image
+Gabriel Grando,gabriel-grando,Gabriel Grando,G,192.0,Right,538,1111770,12.0,2000-03-29,2025-12-31,5926,2300000.0,BR,Brazil,2300000.0,EUR,https://api.sofascore.app/api/v1/player/1111770/image
+Luciano,luciano,Luciano,F,181.0,Left,2627,282557,10.0,1993-05-18,2024-12-31,1981,2700000.0,BR,Brazil,2700000.0,EUR,https://api.sofascore.app/api/v1/player/282557/image
+Igor Gomes,igor-gomes,I. Gomes,M,182.0,Right,644,913598,17.0,1999-03-17,2026-12-31,1977,4600000.0,BR,Brazil,4600000.0,EUR,https://api.sofascore.app/api/v1/player/913598/image
+Caetano,caetano,Caetano,D,182.0,Left,479,959006,14.0,1999-06-24,2024-12-31,1957,1600000.0,BR,Brazil,1600000.0,EUR,https://api.sofascore.app/api/v1/player/959006/image
+Allano,allano,Allano,F,182.0,Left,92,796925,77.0,1995-04-24,2024-12-31,1960,380000.0,BR,Brazil,380000.0,EUR,https://api.sofascore.app/api/v1/player/796925/image
+Julián Palacios,julian-palacios,J. Palacios,M,172.0,Right,168,1005177,10.0,1999-02-04,2023-12-31,1960,580000.0,AR,Argentina,580000.0,EUR,https://api.sofascore.app/api/v1/player/1005177/image
+Caio Alexandre,caio-alexandre,Caio Alexandre,M,174.0,Right,323,1008832,8.0,1999-02-24,2023-12-31,2020,2600000.0,BR,Brazil,2600000.0,EUR,https://api.sofascore.app/api/v1/player/1008832/image
+Dimitri Payet,dimitri-payet,D. Payet,M,175.0,Both,7302,14216,10.0,1987-03-29,2025-06-30,1974,1700000.0,FR,France,1700000.0,EUR,https://api.sofascore.app/api/v1/player/14216/image
+Bruno Fuchs,bruno-fuchs,Bruno Fuchs,D,190.0,Right,427,973737,3.0,1999-04-01,2023-12-31,1977,1900000.0,BR,Brazil,1900000.0,EUR,https://api.sofascore.app/api/v1/player/973737/image
+Ayrton Lucas,ayrton-lucas,Ayrton Lucas,D,180.0,Left,2496,818473,6.0,1997-06-19,2027-12-31,5981,8400000.0,BR,Brazil,8400000.0,EUR,https://api.sofascore.app/api/v1/player/818473/image
+Christian,christian,Christian,M,178.0,Right,297,981733,88.0,2000-12-19,2024-12-31,1967,7500000.0,BR,Brazil,7500000.0,EUR,https://api.sofascore.app/api/v1/player/981733/image
+Neris,neris,Neris,D,190.0,Right,109,840247,27.0,1992-06-17,2024-12-31,1954,750000.0,BR,Brazil,750000.0,EUR,https://api.sofascore.app/api/v1/player/840247/image
+Bruno Henrique,bruno-henrique,Bruno Henrique,M,180.0,Right,359,345113,8.0,1989-10-21,2025-12-31,1966,770000.0,BR,Brazil,770000.0,EUR,https://api.sofascore.app/api/v1/player/345113/image
+Cacá,caca,Cacá,D,185.0,Right,174,929200,25.0,1999-04-25,2024-06-30,1967,620000.0,BR,Brazil,620000.0,EUR,https://api.sofascore.app/api/v1/player/929200/image
+Ramiro,ramiro,Ramiro,M,167.0,Right,298,330693,17.0,1993-05-22,2024-12-31,1954,1500000.0,BR,Brazil,1500000.0,EUR,https://api.sofascore.app/api/v1/player/330693/image
+Adyson,adyson,Adyson,F,168.0,Left,75,1175259,44.0,2005-09-22,2025-12-31,1973,920000.0,BR,Brazil,920000.0,EUR,https://api.sofascore.app/api/v1/player/1175259/image
+Pablo,pablo,Pablo,D,188.0,Right,818,243735,30.0,1991-06-21,2025-12-31,5981,1900000.0,BR,Brazil,1900000.0,EUR,https://api.sofascore.app/api/v1/player/243735/image
+Pepê,pepe,Pepê,M,183.0,Right,549,946945,23.0,1998-01-06,2025-12-31,5926,1900000.0,BR,Brazil,1900000.0,EUR,https://api.sofascore.app/api/v1/player/946945/image
+Hugo,hugo,Hugo,D,175.0,Left,203,1018915,16.0,2001-09-20,2024-12-31,1958,1900000.0,BR,Brazil,1900000.0,EUR,https://api.sofascore.app/api/v1/player/1018915/image
+Mateus Pasinato,mateus-pasinato,Mateus Pasinato,G,192.0,Right,104,914169,14.0,1992-06-28,2024-12-31,1973,325000.0,BR,Brazil,325000.0,EUR,https://api.sofascore.app/api/v1/player/914169/image
+Marllon,marllon,Marllon,D,184.0,Right,92,221206,4.0,1992-04-16,2023-12-31,49202,480000.0,BR,Brazil,480000.0,EUR,https://api.sofascore.app/api/v1/player/221206/image
+Thaciano,thaciano,Thaciano,M,182.0,Right,408,872039,16.0,1995-05-12,2025-12-31,1955,775000.0,BR,Brazil,775000.0,EUR,https://api.sofascore.app/api/v1/player/872039/image
+Gabriel Pires,gabriel-pires,G. Pires,M,186.0,Left,493,178407,14.0,1993-09-18,2023-12-31,1958,3800000.0,BR,Brazil,3800000.0,EUR,https://api.sofascore.app/api/v1/player/178407/image
+Cristian Pavón,cristian-pavon,C. Pavón,M,169.0,Right,1638,358956,9.0,1996-01-21,2025-06-30,1977,3700000.0,AR,Argentina,3700000.0,EUR,https://api.sofascore.app/api/v1/player/358956/image
+Gabriel Vasconcelos,gabriel-vasconcelos,Gabriel Vasconcelos,G,193.0,Right,188,147467,1.0,1992-09-27,2026-12-31,1982,1500000.0,BR,Brazil,1500000.0,EUR,https://api.sofascore.app/api/v1/player/147467/image
+Hyoran,hyoran,Hyoran,M,174.0,Right,425,551348,20.0,1993-05-25,2023-12-31,1977,2600000.0,BR,Brazil,2600000.0,EUR,https://api.sofascore.app/api/v1/player/551348/image
+Wellington Rato,wellington-rato,W. Rato,M,172.0,Left,735,865356,27.0,1992-06-28,2025-12-31,1981,1100000.0,BR,Brazil,1100000.0,EUR,https://api.sofascore.app/api/v1/player/865356/image
+Sergio Rochet,sergio-rochet,Sergio Rochet,G,190.0,Right,1042,581060,33.0,1993-03-23,2026-12-31,1966,3300000.0,UY,Uruguay,3300000.0,EUR,https://api.sofascore.app/api/v1/player/581060/image
+Martín Benítez,martin-benitez,M. Benítez,M,173.0,Right,613,155715,10.0,1994-06-17,2025-12-31,1973,1500000.0,AR,Argentina,1500000.0,EUR,https://api.sofascore.app/api/v1/player/155715/image
+Alisson,alisson,Alisson,M,174.0,Right,732,291723,25.0,1993-06-25,2024-12-31,1981,470000.0,BR,Brazil,470000.0,EUR,https://api.sofascore.app/api/v1/player/291723/image
+Samuel Xavier,xavier-samuel,S. Xavier,D,166.0,Right,386,795773,2.0,1990-06-06,2024-12-31,1961,460000.0,BR,Brazil,460000.0,EUR,https://api.sofascore.app/api/v1/player/795773/image
+Ademir,ademir,Ademir,F,172.0,Left,546,922546,7.0,1995-02-16,2025-12-31,1955,3600000.0,BR,Brazil,3600000.0,EUR,https://api.sofascore.app/api/v1/player/922546/image
+Ruan Oliveira,ruan-oliveira,Ruan Oliveira,M,176.0,Right,290,1047656,33.0,2000-03-23,2023-12-31,1957,545000.0,BR,Brazil,545000.0,EUR,https://api.sofascore.app/api/v1/player/1047656/image
+João Ricardo,joao-ricardo,J. Ricardo,G,188.0,Right,204,839761,1.0,1988-09-06,2024-12-31,2020,375000.0,BR,Brazil,375000.0,EUR,https://api.sofascore.app/api/v1/player/839761/image
+Pedro,pedro,Pedro,F,186.0,Right,14019,840219,9.0,1997-06-20,2027-12-31,5981,21000000.0,BR,Brazil,21000000.0,EUR,https://api.sofascore.app/api/v1/player/840219/image
+Islam Slimani,islam-slimani,I. Slimani,F,188.0,Right,8838,238708,9.0,1988-06-18,2024-12-31,1982,1600000.0,DZ,Algeria,1600000.0,EUR,https://api.sofascore.app/api/v1/player/238708/image
+Danielzinho,danielzinho,Danielzinho,M,173.0,Right,263,840218,55.0,1996-01-11,2024-12-31,1961,1400000.0,BR,Brazil,1400000.0,EUR,https://api.sofascore.app/api/v1/player/840218/image
+Breno Lopes,breno-lopes,Breno Lopes,F,178.0,Right,685,937552,19.0,1996-01-24,2024-12-31,1963,1400000.0,BR,Brazil,1400000.0,EUR,https://api.sofascore.app/api/v1/player/937552/image
+Fagner,fagner,Fagner,D,168.0,Right,1645,25554,23.0,1989-06-11,2024-12-31,1957,870000.0,BR,Brazil,870000.0,EUR,https://api.sofascore.app/api/v1/player/25554/image
+Imanol Machuca,imanol-machuca,I. Machuca,M,169.0,Right,379,974698,39.0,2000-01-15,2027-12-31,2020,2600000.0,AR,Argentina,2600000.0,EUR,https://api.sofascore.app/api/v1/player/974698/image
+Patryck,patryck,Patryck,D,180.0,Left,454,1002528,36.0,2003-01-18,2027-04-30,1981,1400000.0,BR,Brazil,1400000.0,EUR,https://api.sofascore.app/api/v1/player/1002528/image
+Jair,jair,Jair,M,178.0,Right,549,268419,8.0,1994-08-28,2025-12-31,1974,4900000.0,BR,Brazil,4900000.0,EUR,https://api.sofascore.app/api/v1/player/268419/image
+Aloísio,aloisio,Aloísio,F,175.0,Right,270,243497,99.0,1988-06-19,2023-12-31,1973,210000.0,CN,China,210000.0,EUR,https://api.sofascore.app/api/v1/player/243497/image
+Luan Patrick,luan-patrick,Luan Patrick,D,190.0,Right,151,1002565,30.0,2002-01-20,2023-12-31,1999,1400000.0,BR,Brazil,1400000.0,EUR,https://api.sofascore.app/api/v1/player/1002565/image
+Emmanuel Martínez,emmanuel-martinez,E. Martinez,M,177.0,Right,247,794312,5.0,1994-06-04,2025-12-31,1973,1100000.0,AR,Argentina,1100000.0,EUR,https://api.sofascore.app/api/v1/player/794312/image
+Willian Oliveira,willian-oliveira,Willian Oliveira,M,179.0,Right,89,295167,12.0,1993-05-16,2023-12-31,1960,530000.0,BR,Brazil,530000.0,EUR,https://api.sofascore.app/api/v1/player/295167/image
+Eduardo,eduardo,Eduardo,M,184.0,Right,920,76507,33.0,1989-10-17,2024-12-31,1958,1500000.0,BR,Brazil,1500000.0,EUR,https://api.sofascore.app/api/v1/player/76507/image
+Thiago Galhardo,thiago-galhardo,T. Galhardo,F,182.0,Right,1276,165677,91.0,1989-07-20,2025-12-31,2020,1000000.0,BR,Brazil,1000000.0,EUR,https://api.sofascore.app/api/v1/player/165677/image
+Leonardo Fernández,leonardo-fernandez,Leonardo Fernández,M,166.0,Left,773,846411,17.0,1998-11-08,2024-06-30,1961,6800000.0,UY,Uruguay,6800000.0,EUR,https://api.sofascore.app/api/v1/player/846411/image
+Matheus Nascimento,matheus-nascimento,Matheus Nascimento,F,182.0,Right,1245,1047683,90.0,2004-03-03,2025-12-31,1958,8700000.0,BR,Brazil,8700000.0,EUR,https://api.sofascore.app/api/v1/player/1047683/image
+Kayque,kayque,Kayque,M,176.0,Right,74,1101437,62.0,2000-07-07,2024-06-30,204219,1600000.0,BR,Brazil,1600000.0,EUR,https://api.sofascore.app/api/v1/player/1101437/image
+Mariano,mariano,Mariano,D,177.0,Right,337,40076,25.0,1986-06-23,2023-12-31,1977,325000.0,BR,Brazil,325000.0,EUR,https://api.sofascore.app/api/v1/player/40076/image
+Paulinho,paulinho,Paulinho,M,181.0,Right,2675,115183,15.0,1988-07-25,2023-12-31,1957,740000.0,BR,Brazil,740000.0,EUR,https://api.sofascore.app/api/v1/player/115183/image
+Matheus Martinelli,martinelli-matheus,M. Martinelli,M,176.0,Right,694,1067671,8.0,2001-10-05,2025-12-31,1961,5200000.0,BR,Brazil,5200000.0,EUR,https://api.sofascore.app/api/v1/player/1067671/image
+Hércules,hercules,Hércules,M,178.0,Right,244,1104068,35.0,2000-10-20,2024-12-31,2020,3100000.0,BR,Brazil,3100000.0,EUR,https://api.sofascore.app/api/v1/player/1104068/image
+Vitor Hugo,vitor-hugo,V. Hugo,D,187.0,Left,318,794838,31.0,1991-05-20,2026-12-31,1955,3200000.0,BR,Brazil,3200000.0,EUR,https://api.sofascore.app/api/v1/player/794838/image
+Erick Pulgar,erick-pulgar,E. Pulgar,M,186.0,Right,3187,590262,5.0,1994-01-15,2025-12-31,5981,6500000.0,CL,Chile,6500000.0,EUR,https://api.sofascore.app/api/v1/player/590262/image
+Emanuel Brítez,emanuel-britez,Emanuel Brítez,D,178.0,Right,200,789395,19.0,1992-03-26,2025-12-31,2020,820000.0,AR,Argentina,820000.0,EUR,https://api.sofascore.app/api/v1/player/789395/image
+Messias,messias,Messias,D,192.0,Right,240,839765,24.0,1994-11-03,2025-12-31,1968,880000.0,BR,Brazil,880000.0,EUR,https://api.sofascore.app/api/v1/player/839765/image
+Gary Medel,gary-medel,G. Medel,D,171.0,Right,2006,22975,17.0,1987-08-03,2024-12-31,1974,735000.0,CL,Chile,735000.0,EUR,https://api.sofascore.app/api/v1/player/22975/image
+Everton Ribeiro,everton-ribeiro,Everton Ribeiro,M,174.0,Left,5453,145063,7.0,1989-04-10,2023-12-31,5981,3100000.0,BR,Brazil,3100000.0,EUR,https://api.sofascore.app/api/v1/player/145063/image
+Ferreira,ferreira,Ferreira,F,175.0,Right,845,998499,10.0,1997-12-31,2024-12-31,5926,4800000.0,BR,Brazil,4800000.0,EUR,https://api.sofascore.app/api/v1/player/998499/image
+Mateusinho,mateusinho,Mateusinho,D,175.0,Right,57,1107069,98.0,1998-10-07,2027-12-31,49202,775000.0,BR,Brazil,775000.0,EUR,https://api.sofascore.app/api/v1/player/1107069/image
+Luiz Araújo,luiz-araujo,L. Araújo,M,175.0,Left,1928,840451,31.0,1996-06-02,2027-12-31,5981,6200000.0,BR,Brazil,6200000.0,EUR,https://api.sofascore.app/api/v1/player/840451/image
+Kanu,kanu,Kanu,D,186.0,Right,253,871705,4.0,1997-03-07,2027-12-31,1955,3300000.0,BR,Brazil,3300000.0,EUR,https://api.sofascore.app/api/v1/player/871705/image
+Wellington Silva,wellington-silva,Wellington Silva,M,170.0,Right,106,121264,11.0,1993-01-06,2023-12-31,49202,470000.0,BR,Brazil,470000.0,EUR,https://api.sofascore.app/api/v1/player/121264/image
+Deivid Washington,deivid-washington,D. Washington,F,186.0,Right,2495,1485371,36.0,2005-06-05,2030-06-30,38,9400000.0,BR,Brazil,9400000.0,EUR,https://api.sofascore.app/api/v1/player/1485371/image
+Alan Empereur,alan-empereur,A. Empereur,D,186.0,Left,206,373740,33.0,1994-03-10,2024-12-31,49202,690000.0,BR,Brazil,690000.0,EUR,https://api.sofascore.app/api/v1/player/373740/image
+José López,jose-lopez,José López,F,188.0,Left,1183,1094179,18.0,2000-12-06,2027-06-30,1963,7400000.0,AR,Argentina,7400000.0,EUR,https://api.sofascore.app/api/v1/player/1094179/image
+Gustavo Martins,gustavo-martins,G. Martins,D,191.0,Right,182,1105796,53.0,2002-08-11,2025-12-31,5926,515000.0,BR,Brazil,515000.0,EUR,https://api.sofascore.app/api/v1/player/1105796/image
+Lucas Esquivel,lucas-esquivel,Lucas Esquivel,D,183.0,Left,486,1087079,37.0,2001-10-14,2028-06-30,1967,1500000.0,AR,Argentina,1500000.0,EUR,https://api.sofascore.app/api/v1/player/1087079/image
+Rikelme,rikelme,Rikelme,D,184.0,Left,160,1102383,20.0,2003-07-16,2025-12-31,49202,970000.0,BR,Brazil,970000.0,EUR,https://api.sofascore.app/api/v1/player/1102383/image
+Tchê Tchê,tche-tche,Tchê Tchê,M,175.0,Right,726,840398,6.0,1992-08-30,2025-12-31,1958,1700000.0,BR,Brazil,1700000.0,EUR,https://api.sofascore.app/api/v1/player/840398/image
+Erick Marcus,erick-marcus,Erick Marcus,F,172.0,Right,281,1403439,16.0,2004-03-01,2027-12-31,1974,1000000.0,BR,Brazil,1000000.0,EUR,https://api.sofascore.app/api/v1/player/1403439/image
+Luís Henrique,luis-henrique,Luís Henrique,F,181.0,Right,1194,977679,11.0,2001-12-14,2023-12-31,1958,6500000.0,BR,Brazil,6500000.0,EUR,https://api.sofascore.app/api/v1/player/977679/image
+Leonardo Realpe,leonardo-realpe,L. Realpe,D,186.0,Right,291,977676,2.0,2001-02-26,2026-12-31,1999,960000.0,EC,Ecuador,960000.0,EUR,https://api.sofascore.app/api/v1/player/977676/image
+Kaiky Naves,kaiky-naves,Kaiky Naves,D,186.0,Both,427,1167068,34.0,2002-05-08,2027-12-31,1963,1400000.0,BR,Brazil,1400000.0,EUR,https://api.sofascore.app/api/v1/player/1167068/image
+Matheuzinho,matheuzinho,Matheuzinho,D,171.0,Right,1492,931540,34.0,2000-09-08,2026-12-31,5981,6200000.0,BR,Brazil,6200000.0,EUR,https://api.sofascore.app/api/v1/player/931540/image
+Gabriel Moscardo,gabriel-moscardo,Gabriel Moscardo,M,185.0,Right,2123,1485309,44.0,2005-09-28,2026-07-31,1957,1600000.0,BR,Brazil,1600000.0,EUR,https://api.sofascore.app/api/v1/player/1485309/image
+Lucas Sasha,lucas-sasha,L. Sasha,M,177.0,Right,164,123225,88.0,1990-03-01,2024-06-30,2020,710000.0,BR,Brazil,710000.0,EUR,https://api.sofascore.app/api/v1/player/123225/image
+Robson,robson,Robson,M,179.0,Right,272,850987,30.0,1991-05-30,2024-12-31,1982,775000.0,BR,Brazil,775000.0,EUR,https://api.sofascore.app/api/v1/player/850987/image
+Madson,madson,Madson,D,182.0,Right,240,243439,22.0,1992-01-13,2024-12-31,1967,725000.0,BR,Brazil,725000.0,EUR,https://api.sofascore.app/api/v1/player/243439/image
+Juan Martín Lucero,juan-martin-lucero,Juan Martín Lucero,F,179.0,Right,781,359024,9.0,1991-11-30,2025-12-31,2020,1200000.0,AR,Argentina,1200000.0,EUR,https://api.sofascore.app/api/v1/player/359024/image
+Benjamin Kuscevic,benjamin-kuscevic,B. Kuscevic,D,185.0,Right,934,590324,13.0,1996-05-02,2026-12-31,1982,1200000.0,CL,Chile,1200000.0,EUR,https://api.sofascore.app/api/v1/player/590324/image
+Rodrigo Battaglia,rodrigo-battaglia,R. Battaglia,M,187.0,Right,456,158257,21.0,1991-07-12,2024-12-31,1977,1600000.0,AR,Argentina,1600000.0,EUR,https://api.sofascore.app/api/v1/player/158257/image
+Caio Paulista,caio-paulista,C. Paulista,D,184.0,Left,699,931591,38.0,1998-05-11,2023-12-31,1981,2900000.0,BR,Brazil,2900000.0,EUR,https://api.sofascore.app/api/v1/player/931591/image
+Alexandre Pato,alexandre-pato,A. Pato,F,180.0,Right,2731,32164,12.0,1989-09-02,2023-12-31,1981,765000.0,BR,Brazil,765000.0,EUR,https://api.sofascore.app/api/v1/player/32164/image
+David Duarte,david-duarte,David Duarte,D,192.0,Right,108,810715,33.0,1995-01-24,2023-12-31,1955,925000.0,BR,Brazil,925000.0,EUR,https://api.sofascore.app/api/v1/player/810715/image
+Rony,rony,Rony,F,167.0,Right,3752,835260,10.0,1995-05-11,2026-12-31,1963,13900000.0,BR,Brazil,13900000.0,EUR,https://api.sofascore.app/api/v1/player/835260/image
+Thiago Borbas,thiago-borbas,T. Borbas,F,181.0,Right,661,1018547,18.0,2002-04-07,2027-12-31,1999,3800000.0,UY,Uruguay,3800000.0,EUR,https://api.sofascore.app/api/v1/player/1018547/image
+Júnior Santos,junior-santos,Júnior Santos,M,188.0,Right,520,922559,37.0,1994-10-11,2025-12-31,1958,900000.0,BR,Brazil,900000.0,EUR,https://api.sofascore.app/api/v1/player/922559/image
+Yago Pikachu,yago-pikachu,Y. Pikachu,M,170.0,Right,905,363688,22.0,1992-06-05,2024-12-31,2020,1300000.0,BR,Brazil,1300000.0,EUR,https://api.sofascore.app/api/v1/player/363688/image
+Gilberto,gilberto,Gilberto,F,178.0,Right,817,158561,99.0,1989-06-05,2024-06-30,1954,665000.0,BR,Brazil,665000.0,EUR,https://api.sofascore.app/api/v1/player/158561/image
+Victor Hugo,victor-hugo,V. Hugo,M,184.0,Left,1518,1170954,29.0,2004-05-11,2027-07-31,5981,3100000.0,BR,Brazil,3100000.0,EUR,https://api.sofascore.app/api/v1/player/1170954/image
+Jemerson,jemerson,Jemerson,D,184.0,Right,457,328519,34.0,1992-08-24,2024-12-31,1977,1800000.0,BR,Brazil,1800000.0,EUR,https://api.sofascore.app/api/v1/player/328519/image
+Léo,leo,Léo,D,183.0,Left,552,360940,3.0,1996-03-06,2025-12-31,1974,3400000.0,BR,Brazil,3400000.0,EUR,https://api.sofascore.app/api/v1/player/360940/image
+Rodrigo Varanda,rodrigo-varanda,Rodrigo Varanda,F,178.0,Right,163,1105305,65.0,2003-03-11,2023-12-31,1973,730000.0,BR,Brazil,730000.0,EUR,https://api.sofascore.app/api/v1/player/1105305/image
+Ronald,ronald,Ronald,M,186.0,Right,186,1587711,35.0,2003-02-11,2025-12-31,5926,825000.0,BR,Brazil,825000.0,EUR,https://api.sofascore.app/api/v1/player/1587711/image
+Luciano Juba,luciano-juba,L. Juba,M,176.0,Left,596,1017264,46.0,1999-08-29,2027-12-31,1955,1900000.0,BR,Brazil,1900000.0,EUR,https://api.sofascore.app/api/v1/player/1017264/image
+Gabriel Carabajal,gabriel-carabajal,Gabriel Carabajal,M,178.0,Right,127,830742,11.0,1991-12-09,2024-06-30,1941,555000.0,AR,Argentina,555000.0,EUR,https://api.sofascore.app/api/v1/player/830742/image
+Bastos,bastos,Bastos,D,184.0,Right,756,215956,23.0,1991-03-27,2024-12-31,1958,1100000.0,AO,Angola,1100000.0,EUR,https://api.sofascore.app/api/v1/player/215956/image
+Rafael,rafael,Rafael,D,172.0,Right,538,39623,2.0,1990-07-09,2023-12-31,1958,755000.0,BR,Brazil,755000.0,EUR,https://api.sofascore.app/api/v1/player/39623/image
+Rodrigo Moledo,rodrigo-moledo,R. Moledo,D,188.0,Right,260,72080,4.0,1987-10-27,2023-12-31,1966,485000.0,BR,Brazil,485000.0,EUR,https://api.sofascore.app/api/v1/player/72080/image
+Lucão,lucao,Lucão,D,,,16,1410337,45.0,1998-03-25,,1999,,,,,EUR,https://api.sofascore.app/api/v1/player/1410337/image
+Miguel Terceros,miguel-terceros,Miguel Terceros,M,178.0,Left,338,1159656,47.0,2004-04-25,2027-07-31,1968,320000.0,BO,Bolivia,320000.0,EUR,https://api.sofascore.app/api/v1/player/1159656/image
+Carlos Miguel,carlos-miguel,C. Miguel,G,204.0,Left,777,973738,22.0,1998-10-09,2025-12-31,1957,1100000.0,BR,Brazil,1100000.0,EUR,https://api.sofascore.app/api/v1/player/973738/image
+Gabriel Dias,gabriel-dias,G. Dias,D,183.0,Right,128,870697,13.0,1994-05-10,2023-12-31,1974,775000.0,BR,Brazil,775000.0,EUR,https://api.sofascore.app/api/v1/player/870697/image
+Fellipe Bastos,fellipe-bastos,F. Bastos,M,178.0,Right,92,42109,90.0,1990-02-01,,7315,155000.0,BR,Brazil,155000.0,EUR,https://api.sofascore.app/api/v1/player/42109/image
+Rafael Gava,rafael-gava,R. Gava,M,178.0,Right,76,870920,23.0,1993-05-20,2024-12-31,7315,720000.0,BR,Brazil,720000.0,EUR,https://api.sofascore.app/api/v1/player/870920/image
+Nathan Camargo,nathan-camargo,Nathan Camargo,M,177.0,Right,27,1199453,48.0,2005-07-25,,1999,,BR,Brazil,,EUR,https://api.sofascore.app/api/v1/player/1199453/image
+André Dhominique,andre-dhominique,André Dhominique,D,178.0,Right,217,1177384,13.0,2003-10-07,2027-09-30,1955,730000.0,BR,Brazil,730000.0,EUR,https://api.sofascore.app/api/v1/player/1177384/image
+Leonel Di Plácido,leonel-di-placido,Leonel Di Plácido,D,173.0,Right,285,546338,24.0,1994-01-28,2023-12-31,1958,735000.0,AR,Argentina,735000.0,EUR,https://api.sofascore.app/api/v1/player/546338/image
+Guga,guga,Guga,D,173.0,Right,560,928134,23.0,1998-08-29,2026-12-31,1961,3400000.0,BR,Brazil,3400000.0,EUR,https://api.sofascore.app/api/v1/player/928134/image
+Vitinho,vitinho,Vitinho,F,181.0,Right,388,982405,28.0,1999-04-01,2024-06-30,1999,4900000.0,BR,Brazil,4900000.0,EUR,https://api.sofascore.app/api/v1/player/982405/image
+Matheus Gonçalves,matheus-goncalves,Matheus Gonçalves,F,175.0,Left,1129,1175553,25.0,2005-05-18,2023-12-31,1999,1400000.0,BR,Brazil,1400000.0,EUR,https://api.sofascore.app/api/v1/player/1175553/image
+Ángel Romero,angel-romero,Ángel Romero,F,177.0,Right,1509,1197041,11.0,1992-07-04,2024-12-31,1957,1400000.0,PY,Paraguay,1400000.0,EUR,https://api.sofascore.app/api/v1/player/1197041/image
+Paulinho Paula,paulinho-paula,Paulinho Paula,M,173.0,Right,417,879902,18.0,1997-01-08,2025-12-31,1974,970000.0,BR,Brazil,970000.0,EUR,https://api.sofascore.app/api/v1/player/879902/image
+Lucas Piton,lucas-piton,Lucas Piton,D,176.0,Left,810,982174,6.0,2000-10-09,2026-12-31,1974,5700000.0,BR,Brazil,5700000.0,EUR,https://api.sofascore.app/api/v1/player/982174/image
+Andrey,andrey,Andrey,M,176.0,Right,274,822513,7.0,1998-02-15,2025-12-31,1982,2700000.0,BR,Brazil,2700000.0,EUR,https://api.sofascore.app/api/v1/player/822513/image
+Maycon,maycon,Maycon,M,175.0,Left,927,831778,7.0,1997-07-15,2023-12-31,1957,4900000.0,BR,Brazil,4900000.0,EUR,https://api.sofascore.app/api/v1/player/831778/image
+Everton Morelli,everton-morelli,E. Morelli,M,185.0,Right,86,928137,40.0,1997-11-04,2023-12-31,1960,370000.0,BR,Brazil,370000.0,EUR,https://api.sofascore.app/api/v1/player/928137/image
+Marcos Paulo,marcos-paulo,M. Paulo,M,186.0,Right,913,962027,32.0,2001-02-01,2026-06-30,1981,3700000.0,PT,Portugal,3700000.0,EUR,https://api.sofascore.app/api/v1/player/962027/image
+Serginho,serginho,Serginho,M,180.0,Right,232,849301,70.0,1995-04-06,2025-12-31,1974,1300000.0,BR,Brazil,1300000.0,EUR,https://api.sofascore.app/api/v1/player/849301/image
+Júlio César,julio-cesar,Júlio César,D,186.0,Right,20,1185832,18.0,2003-09-29,,1973,,BR,Brazil,,EUR,https://api.sofascore.app/api/v1/player/1185832/image
+Jhon Jhon,jhon-jhon,Jhon Jhon,M,178.0,Right,492,1167069,40.0,2002-09-09,2027-12-31,1963,2600000.0,BR,Brazil,2600000.0,EUR,https://api.sofascore.app/api/v1/player/1167069/image
+Luca Orellano,luca-orellano,L. Orellano,F,170.0,Left,749,965764,14.0,2000-03-22,2025-12-31,1974,4099999.0,AR,Argentina,4099999.0,EUR,https://api.sofascore.app/api/v1/player/965764/image
+Nonato,nonato,Nonato,M,174.0,Right,420,922566,7.0,1998-03-03,2024-07-31,1968,1900000.0,BR,Brazil,1900000.0,EUR,https://api.sofascore.app/api/v1/player/922566/image
+Bruno Gomes,bruno-gomes,Bruno Gomes,M,175.0,Right,260,995071,6.0,2001-04-04,2027-12-31,1982,2100000.0,BR,Brazil,2100000.0,EUR,https://api.sofascore.app/api/v1/player/995071/image
+Wesley,wesley,Wesley,F,175.0,Right,684,985766,11.0,1999-03-30,2026-12-31,1954,5900000.0,BR,Brazil,5900000.0,EUR,https://api.sofascore.app/api/v1/player/985766/image
+Bruno Alves,bruno-alves,B. Alves,D,184.0,Right,424,551810,34.0,1991-04-16,2023-12-31,5926,745000.0,BR,Brazil,745000.0,EUR,https://api.sofascore.app/api/v1/player/551810/image
+Zé Ivaldo,ze-ivaldo,Zé Ivaldo,D,185.0,Right,145,844602,3.0,1997-02-21,2023-12-31,1967,2900000.0,BR,Brazil,2900000.0,EUR,https://api.sofascore.app/api/v1/player/844602/image
+Igor Rabello,igor-rabello,I. Rabello,D,190.0,Right,313,753662,16.0,1995-04-28,2025-12-31,1977,2700000.0,BR,Brazil,2700000.0,EUR,https://api.sofascore.app/api/v1/player/753662/image
+Puma Rodríguez,puma-rodriguez,Puma Rodríguez,D,183.0,Right,553,877591,2.0,1997-03-14,2025-12-31,1974,3100000.0,UY,Uruguay,3100000.0,EUR,https://api.sofascore.app/api/v1/player/877591/image
+John Kennedy,john-kennedy,John Kennedy,F,181.0,Right,1638,1087399,9.0,2002-05-18,2026-12-31,1961,3900000.0,BR,Brazil,3900000.0,EUR,https://api.sofascore.app/api/v1/player/1087399/image
+Matheus Bianqui,matheus-bianqui,M. Bianqui,M,187.0,Right,97,981746,17.0,1998-01-31,2023-12-31,1982,660000.0,BR,Brazil,660000.0,EUR,https://api.sofascore.app/api/v1/player/981746/image
+Diego Costa,diego-costa,Diego Costa,F,187.0,Right,5828,21212,19.0,1988-10-07,2023-12-31,1958,2100000.0,ES,Spain,2100000.0,EUR,https://api.sofascore.app/api/v1/player/21212/image
+Rodrigo Nestor,rodrigo-nestor,R. Nestor,M,174.0,Left,1015,905461,11.0,2000-08-09,2028-02-28,1981,7400000.0,BR,Brazil,7400000.0,EUR,https://api.sofascore.app/api/v1/player/905461/image
+Michel Araújo,michel-araujo,M. Araújo,M,178.0,Left,588,924857,15.0,1996-09-28,2024-12-31,1981,2100000.0,UY,Uruguay,2100000.0,EUR,https://api.sofascore.app/api/v1/player/924857/image
+Bruno Henrique,bruno-henrique,Bruno Henrique,F,184.0,Right,8530,795291,27.0,1990-12-30,2023-12-31,5981,2600000.0,BR,Brazil,2600000.0,EUR,https://api.sofascore.app/api/v1/player/795291/image
+Titi,titi,Titi,D,187.0,Left,236,243435,4.0,1988-03-12,2024-12-31,2020,210000.0,BR,Brazil,210000.0,EUR,https://api.sofascore.app/api/v1/player/243435/image
+Bruno Melo,bruno-melo,Bruno Melo,D,183.0,Left,156,870851,19.0,1992-10-26,2023-12-31,1960,550000.0,BR,Brazil,550000.0,EUR,https://api.sofascore.app/api/v1/player/870851/image
+Sorriso,sorriso,Sorriso,F,175.0,Right,268,1105595,27.0,2001-02-23,2026-12-31,1999,1400000.0,BR,Brazil,1400000.0,EUR,https://api.sofascore.app/api/v1/player/1105595/image
+João Neto,joao-neto,João Neto,F,,,59,1110033,35.0,2003-07-10,,1961,,BR,Brazil,,EUR,https://api.sofascore.app/api/v1/player/1110033/image
+Eduardo Vargas,eduardo-vargas,E. Vargas,F,175.0,Right,1560,37006,11.0,1989-11-20,2024-12-31,1977,1600000.0,CL,Chile,1600000.0,EUR,https://api.sofascore.app/api/v1/player/37006/image
+Walter Kannemann,walter-kannemann,W. Kannemann,D,183.0,Left,844,249647,4.0,1991-03-14,2025-12-31,5926,1100000.0,AR,Argentina,1100000.0,EUR,https://api.sofascore.app/api/v1/player/249647/image
+Welington,welington,Welington,D,175.0,Left,523,1009920,6.0,2001-02-19,2024-12-31,1981,2900000.0,BR,Brazil,2900000.0,EUR,https://api.sofascore.app/api/v1/player/1009920/image
+Léo Mana,leo-mana,L. Mana,D,179.0,Right,193,1170769,13.0,2004-04-06,2026-04-30,72016,135000.0,BR,Brazil,135000.0,EUR,https://api.sofascore.app/api/v1/player/1170769/image
+Danilo Barbosa,danilo-barbosa,Danilo Barbosa,M,182.0,Right,326,330063,5.0,1996-02-28,2025-06-30,1958,2100000.0,BR,Brazil,2100000.0,EUR,https://api.sofascore.app/api/v1/player/330063/image
+Bruno Zapelli,bruno-zapelli,Bruno Zapelli,M,181.0,Right,922,1092354,10.0,2002-05-16,2028-07-01,1967,5800000.0,AR,Argentina,5800000.0,EUR,https://api.sofascore.app/api/v1/player/1092354/image
+Matheus Jussa,matheus-jussa,Matheus Jussa,M,183.0,Left,150,794849,18.0,1996-03-22,2023-12-31,1954,1300000.0,BR,Brazil,1300000.0,EUR,https://api.sofascore.app/api/v1/player/794849/image
+Allan,allan,Allan,M,172.0,Left,1226,828839,21.0,1997-03-03,2027-12-31,5981,6300000.0,BR,Brazil,6300000.0,EUR,https://api.sofascore.app/api/v1/player/828839/image
+Juninho,juninho,Juninho,M,173.0,Right,250,330691,8.0,1987-10-23,2024-12-31,1973,315000.0,BR,Brazil,315000.0,EUR,https://api.sofascore.app/api/v1/player/330691/image
+Felipe Melo,felipe-melo,F. Melo,D,183.0,Right,1209,4811,30.0,1983-06-26,2024-12-31,1961,160000.0,BR,Brazil,160000.0,EUR,https://api.sofascore.app/api/v1/player/4811/image
+Julio Furch,julio-furch,J. Furch,F,189.0,Right,339,787551,11.0,1989-07-29,2025-06-30,1968,1100000.0,AR,Argentina,1100000.0,EUR,https://api.sofascore.app/api/v1/player/787551/image
+Everaldo,everaldo,Everaldo,M,172.0,Right,172,923951,37.0,1994-05-28,2025-12-31,1973,1000000.0,BR,Brazil,1000000.0,EUR,https://api.sofascore.app/api/v1/player/923951/image
+Bruno Praxedes,bruno-praxedes,B. Praxedes,M,186.0,Left,521,1018093,21.0,2002-02-08,2023-12-31,1974,5600000.0,BR,Brazil,5600000.0,EUR,https://api.sofascore.app/api/v1/player/1018093/image
+Marlon Lopes,marlon-lopes,Marlon,D,177.0,Left,124,870933,6.0,1994-02-13,2025-12-31,1973,670000.0,BR,Brazil,670000.0,EUR,https://api.sofascore.app/api/v1/player/870933/image
+Pedro Raul,pedro-raul,Pedro Raul,F,191.0,Right,1742,866911,9.0,1996-11-05,,1931,4900000.0,BR,Brazil,4900000.0,EUR,https://api.sofascore.app/api/v1/player/866911/image
+Bruno Uvini,bruno-uvini,Bruno Uvini,D,187.0,Right,196,158267,15.0,1991-06-03,2023-12-31,5926,485000.0,BR,Brazil,485000.0,EUR,https://api.sofascore.app/api/v1/player/158267/image
+Thiago Santos,thiago-santos,Thiago Santos,M,181.0,Right,251,378590,29.0,1989-09-05,2024-12-31,1961,260000.0,BR,Brazil,260000.0,EUR,https://api.sofascore.app/api/v1/player/378590/image
+Sidimar,sidimar,Sidimar,D,185.0,Right,44,312072,4.0,1992-07-09,2024-12-31,1960,320000.0,BR,Brazil,320000.0,EUR,https://api.sofascore.app/api/v1/player/312072/image
+Lucas Barbosa,lucas-barbosa,L. Barbosa,M,193.0,Left,157,1067641,21.0,2001-02-22,2026-07-31,1968,1000000.0,BR,Brazil,1000000.0,EUR,https://api.sofascore.app/api/v1/player/1067641/image
+Marçal,marcal,Marçal,D,178.0,Left,523,143593,21.0,1989-02-19,2024-12-31,1958,970000.0,BR,Brazil,970000.0,EUR,https://api.sofascore.app/api/v1/player/143593/image
+Ricardo Silva,ricardo-silva,R. Silva,D,190.0,Left,59,599700,45.0,1992-08-13,2023-12-31,1973,280000.0,BR,Brazil,280000.0,EUR,https://api.sofascore.app/api/v1/player/599700/image
+Fábio Santos,fabio-santos,Fábio Santos,D,179.0,Left,876,35519,6.0,1985-09-16,2023-12-31,1957,210000.0,BR,Brazil,210000.0,EUR,https://api.sofascore.app/api/v1/player/35519/image
+Rafael Ratão,rafael-ratao,R. Ratão,F,182.0,Right,508,352838,11.0,1995-11-30,2026-12-31,1955,2300000.0,BR,Brazil,2300000.0,EUR,https://api.sofascore.app/api/v1/player/352838/image
+Rômulo,romulo,Rômulo,M,182.0,Right,155,989384,40.0,2000-03-01,2023-12-31,1966,210000.0,BR,Brazil,210000.0,EUR,https://api.sofascore.app/api/v1/player/989384/image
+Rayan,rayan,Rayan,F,185.0,Left,881,1464966,77.0,2006-08-03,2025-12-31,1974,1500000.0,BR,Brazil,1500000.0,EUR,https://api.sofascore.app/api/v1/player/1464966/image
+Matías Galarza,matias-galarza,Matías Galarza,M,175.0,Left,462,1105836,8.0,2002-02-11,2024-12-31,3210,920000.0,PY,Paraguay,920000.0,EUR,https://api.sofascore.app/api/v1/player/1105836/image
+Vanderlan,vanderlan,Vanderlan,D,183.0,Left,636,1067640,6.0,2002-09-07,2027-12-31,1963,3600000.0,BR,Brazil,3600000.0,EUR,https://api.sofascore.app/api/v1/player/1067640/image
+Pedrinho,pedrinho,Pedrinho,D,177.0,Left,154,1100817,23.0,2002-07-11,2028-06-30,3313,970000.0,BR,Brazil,970000.0,EUR,https://api.sofascore.app/api/v1/player/1100817/image
+Henry Mosquera,henry-mosquera,H. Mosquera,M,175.0,Right,249,1170680,16.0,2001-11-15,2027-12-31,1999,1400000.0,CO,Colombia,1400000.0,EUR,https://api.sofascore.app/api/v1/player/1170680/image
+Luis Guilherme,luis-guilherme,Luis Guilherme,F,175.0,Left,1100,1464248,31.0,2006-02-09,2026-06-30,1963,7300000.0,BR,Brazil,7300000.0,EUR,https://api.sofascore.app/api/v1/player/1464248/image
+Natanael,natanael,Natanael,D,172.0,Right,206,1046805,16.0,2002-01-05,2025-12-31,1982,2300000.0,BR,Brazil,2300000.0,EUR,https://api.sofascore.app/api/v1/player/1046805/image
+Enner Valencia,enner-valencia,Enner Valencia,F,178.0,Right,7568,106456,13.0,1989-11-04,2026-06-30,1966,3400000.0,EC,Ecuador,3400000.0,EUR,https://api.sofascore.app/api/v1/player/106456/image
+André Henrique,andre-henrique,A. Henrique,F,189.0,Right,173,1463912,77.0,2001-12-17,2023-12-31,5926,530000.0,BR,Brazil,530000.0,EUR,https://api.sofascore.app/api/v1/player/1463912/image
+Giuliano,giuliano,Giuliano,M,172.0,Right,1235,90862,20.0,1990-05-31,2023-12-31,1957,1200000.0,BR,Brazil,1200000.0,EUR,https://api.sofascore.app/api/v1/player/90862/image
+Marinho,marinho,Marinho,M,169.0,Left,2481,798127,12.0,1990-05-29,2025-12-31,2020,970000.0,BR,Brazil,970000.0,EUR,https://api.sofascore.app/api/v1/player/798127/image
+Nicolás Hernández,nicolas-hernandez,N. Hernández,D,180.0,Left,276,887155,22.0,1998-01-18,2024-12-31,1966,775000.0,CO,Colombia,775000.0,EUR,https://api.sofascore.app/api/v1/player/887155/image
+Edenilson,edenilson,Edenilson,M,175.0,Right,680,221636,8.0,1989-12-18,2024-12-31,1977,1700000.0,BR,Brazil,1700000.0,EUR,https://api.sofascore.app/api/v1/player/221636/image
+Gabriel Baralhas,gabriel-baralhas,Gabriel Baralhas,M,178.0,Right,190,922575,8.0,1998-10-10,2023-12-31,7314,965000.0,BR,Brazil,965000.0,EUR,https://api.sofascore.app/api/v1/player/922575/image
+Matheus Babi,matheus-babi,Matheus Babi,F,191.0,Right,369,1007431,9.0,1997-07-18,2023-12-31,1960,1600000.0,BR,Brazil,1600000.0,EUR,https://api.sofascore.app/api/v1/player/1007431/image
+Guilherme Augusto,guilherme-augusto,Guilherme Augusto,M,178.0,Right,286,844605,29.0,1995-04-13,2023-12-31,2020,825000.0,BR,Brazil,825000.0,EUR,https://api.sofascore.app/api/v1/player/844605/image
+Derik Lacerda,derik-lacerda,D. Lacerda,F,190.0,Right,99,994190,22.0,1999-09-27,2023-12-31,49202,485000.0,BR,Brazil,485000.0,EUR,https://api.sofascore.app/api/v1/player/994190/image
+Vinícius,vinicius,Vinícius,M,180.0,Right,145,124807,7.0,1993-08-03,2025-12-31,1960,1100000.0,BR,Brazil,1100000.0,EUR,https://api.sofascore.app/api/v1/player/124807/image
+Gabriel Boschilia,gabriel-boschilia,G. Boschilia,M,173.0,Left,253,358540,35.0,1996-03-05,,1982,1600000.0,BR,Brazil,1600000.0,EUR,https://api.sofascore.app/api/v1/player/358540/image
+Alex Nascimento,alex-nascimento,A. Nascimento,D,189.0,Left,143,931556,31.0,1999-05-10,2024-12-31,1968,630000.0,BR,Brazil,630000.0,EUR,https://api.sofascore.app/api/v1/player/931556/image
+Yani Quintero,yani-quintero,Yani Quintero,D,182.0,Right,44,1000298,14.0,2002-02-17,2023-12-31,223387,160000.0,CO,Colombia,160000.0,EUR,https://api.sofascore.app/api/v1/player/1000298/image
+Jamerson,jamerson,Jamerson,D,177.0,Left,101,972373,83.0,1998-09-09,2025-12-31,1982,1100000.0,BR,Brazil,1100000.0,EUR,https://api.sofascore.app/api/v1/player/972373/image
+Alex Teixeira,alex-teixeira,A. Teixeira,F,173.0,Both,917,39649,7.0,1990-01-06,2023-12-31,1974,955000.0,BR,Brazil,955000.0,EUR,https://api.sofascore.app/api/v1/player/39649/image
+Lucas Moura,lucas-moura,L. Moura,M,172.0,Right,7123,149710,7.0,1992-08-13,2023-12-31,1981,6400000.0,BR,Brazil,6400000.0,EUR,https://api.sofascore.app/api/v1/player/149710/image
+Lucas Crispim,lucas-crispim,L. Crispim,M,178.0,Right,275,795178,10.0,1994-04-19,2023-12-31,2020,2100000.0,BR,Brazil,2100000.0,EUR,https://api.sofascore.app/api/v1/player/795178/image
+Wesley França,wesley-franca,W. França,D,173.0,Right,1074,1134200,43.0,2003-09-06,2025-12-31,5981,2700000.0,BR,Brazil,2700000.0,EUR,https://api.sofascore.app/api/v1/player/1134200/image
+Natan,natan,Natan,D,188.0,Left,1721,1015287,3.0,2001-02-06,2028-06-30,2714,10500000.0,BR,Brazil,10500000.0,EUR,https://api.sofascore.app/api/v1/player/1015287/image
+Talisson,talisson,Talisson,F,,,36,1463902,21.0,2002-05-21,,1999,,BR,Brazil,,EUR,https://api.sofascore.app/api/v1/player/1463902/image
+Marlon Gomes,marlon-gomes,M. Gomes,M,176.0,Right,1129,1105833,25.0,2003-12-14,2026-12-31,1974,4099999.0,BR,Brazil,4099999.0,EUR,https://api.sofascore.app/api/v1/player/1105833/image
+Zé Gabriel,ze-gabriel,Zé Gabriel,M,184.0,Right,286,988852,23.0,1999-01-21,2023-12-31,1974,1600000.0,BR,Brazil,1600000.0,EUR,https://api.sofascore.app/api/v1/player/988852/image
+Matheus Alexandre,matheus-alexandre,M. Alexandre,D,188.0,Right,119,953736,2.0,1999-04-07,2023-12-31,49202,830000.0,BR,Brazil,830000.0,EUR,https://api.sofascore.app/api/v1/player/953736/image
+Matías Zaracho,matias-zaracho,M. Zaracho,M,171.0,Right,1274,859970,15.0,1998-03-10,2025-12-31,1977,10400000.0,AR,Argentina,10400000.0,EUR,https://api.sofascore.app/api/v1/player/859970/image
+Bruninho,bruninho,Bruninho,F,174.0,Right,317,1124246,17.0,2003-03-14,2025-09-30,1999,2700000.0,BR,Brazil,2700000.0,EUR,https://api.sofascore.app/api/v1/player/1124246/image
+João Magno,joao-magno,João Magno,F,195.0,Left,79,945307,45.0,1997-02-15,2024-12-31,1960,210000.0,BR,Brazil,210000.0,EUR,https://api.sofascore.app/api/v1/player/945307/image
+Diogo Barbosa,diogo-barbosa,Diogo Barbosa,D,180.0,Left,310,243107,16.0,1992-08-17,2024-12-31,1961,910000.0,BR,Brazil,910000.0,EUR,https://api.sofascore.app/api/v1/player/243107/image
+Alex Santana,alex-santana,Alex Santana,M,182.0,Right,219,358166,80.0,1995-05-13,2026-06-30,1967,2100000.0,BR,Brazil,2100000.0,EUR,https://api.sofascore.app/api/v1/player/358166/image
+Charles Aránguiz,charles-aranguiz,C. Aránguiz,M,171.0,Right,2187,18304,20.0,1989-04-17,2025-06-30,1966,2700000.0,CL,Chile,2700000.0,EUR,https://api.sofascore.app/api/v1/player/18304/image
+Ignacio Laquintana,ignacio-laquintana,I. Laquintana,M,177.0,Right,207,948004,33.0,1999-02-01,2027-12-31,1999,970000.0,UY,Uruguay,970000.0,EUR,https://api.sofascore.app/api/v1/player/948004/image
+Philipe Sampaio,philipe-sampaio,P. Sampaio,D,191.0,Right,169,588996,94.0,1994-11-11,2024-12-31,1958,580000.0,BR,Brazil,580000.0,EUR,https://api.sofascore.app/api/v1/player/588996/image
+Gabriel,gabriel,Gabriel,M,171.0,Right,401,242052,23.0,1992-07-10,2025-12-31,1966,1900000.0,BR,Brazil,1900000.0,EUR,https://api.sofascore.app/api/v1/player/242052/image
+Dieguinho,dieguinho,Dieguinho,M,175.0,Right,72,1016930,20.0,1995-10-31,2024-12-31,1960,970000.0,BR,Brazil,970000.0,EUR,https://api.sofascore.app/api/v1/player/1016930/image
+Nicolás Acevedo,nicolas-acevedo,Nicolás Acevedo,M,173.0,Right,296,959620,26.0,1999-04-14,2025-12-31,1955,4700000.0,UY,Uruguay,4700000.0,EUR,https://api.sofascore.app/api/v1/player/959620/image
+Mateus Vital,mateus-vital,Mateus Vital,M,175.0,Right,659,823653,7.0,1998-02-12,2025-12-31,1954,3100000.0,BR,Brazil,3100000.0,EUR,https://api.sofascore.app/api/v1/player/823653/image
+Léo Cittadini,leo-cittadini,L. Cittadini,M,178.0,Left,197,332171,18.0,1994-02-27,2025-12-31,1955,1900000.0,BR,Brazil,1900000.0,EUR,https://api.sofascore.app/api/v1/player/332171/image
+Maximiliano Silvera,maximiliano-silvera,M. Silvera,F,176.0,Right,152,1121489,17.0,1997-09-05,2023-12-31,1968,825000.0,UY,Uruguay,825000.0,EUR,https://api.sofascore.app/api/v1/player/1121489/image
+Nathan,nathan,Nathan,M,177.0,Right,347,358538,14.0,1996-03-13,2025-12-31,5926,1800000.0,BR,Brazil,1800000.0,EUR,https://api.sofascore.app/api/v1/player/358538/image
+Fábio,fabio,Fábio,D,172.0,Right,379,40677,2.0,1990-07-09,2024-12-31,5926,950000.0,BR,Brazil,950000.0,EUR,https://api.sofascore.app/api/v1/player/40677/image
+Diogo Oliveira,diogo-oliveira,Diogo Oliveira,F,194.0,Right,113,1018176,18.0,1996-12-04,2023-12-31,1982,950000.0,BR,Brazil,950000.0,EUR,https://api.sofascore.app/api/v1/player/1018176/image
+Alan Franco,alan-franco,Alan Franco,M,174.0,Right,599,822729,23.0,1998-08-21,2024-06-30,1977,3200000.0,EC,Ecuador,3200000.0,EUR,https://api.sofascore.app/api/v1/player/822729/image
+Daniel Ruiz,daniel-ruiz,D. Ruiz,M,171.0,Left,818,1098305,18.0,2001-07-30,2025-12-31,6117,4300000.0,CO,Colombia,4300000.0,EUR,https://api.sofascore.app/api/v1/player/1098305/image
+Yago Felipe,yago-felipe,Yago Felipe,M,174.0,Right,168,552164,20.0,1995-02-03,2025-12-31,1955,1900000.0,BR,Brazil,1900000.0,EUR,https://api.sofascore.app/api/v1/player/552164/image
+Anderson Oliveira,anderson-oliveira,Anderson Oliveira,F,169.0,Right,82,931538,70.0,1998-07-16,2025-06-30,1960,390000.0,BR,Brazil,390000.0,EUR,https://api.sofascore.app/api/v1/player/931538/image
+Victor Luis,victor-luis,Victor Luis,D,180.0,Left,254,252781,26.0,1993-06-23,2024-12-31,1982,860000.0,BR,Brazil,860000.0,EUR,https://api.sofascore.app/api/v1/player/252781/image
+Ângelo,angelo,Ângelo,M,173.0,Left,6542,1086455,23.0,2004-12-21,2024-06-30,1659,16200000.0,BR,Brazil,16200000.0,EUR,https://api.sofascore.app/api/v1/player/1086455/image
+Gabriel Mercado,gabriel-mercado,Gabriel Mercado,D,180.0,Right,480,128376,25.0,1987-03-18,2023-12-31,1966,270000.0,AR,Argentina,270000.0,EUR,https://api.sofascore.app/api/v1/player/128376/image
+Danilo Avelar,danilo-avelar,Danilo Avelar,D,184.0,Left,206,121221,22.0,1989-06-09,2023-12-31,1973,230000.0,BR,Brazil,230000.0,EUR,https://api.sofascore.app/api/v1/player/121221/image
+Vina,vina,Vina,M,177.0,Right,1261,1101714,29.0,1991-04-15,2024-06-30,168086,1100000.0,BR,Brazil,1100000.0,EUR,https://api.sofascore.app/api/v1/player/1101714/image
+Silvio Romero,silvio-romero,S. Romero,F,175.0,Right,287,174937,18.0,1988-07-22,2023-12-31,2020,825000.0,AR,Argentina,825000.0,EUR,https://api.sofascore.app/api/v1/player/174937/image
+Richard Ríos,richard-rios,R. Ríos,M,185.0,Both,1956,1015292,27.0,2000-06-02,2026-12-31,1963,2700000.0,CO,Colombia,2700000.0,EUR,https://api.sofascore.app/api/v1/player/1015292/image
+Gilberto,gilberto,Gilberto,D,181.0,Right,928,261687,2.0,1993-03-07,2026-06-30,1955,4200000.0,BR,Brazil,4200000.0,EUR,https://api.sofascore.app/api/v1/player/261687/image
+Felipe Carballo,felipe-carballo,F. Carballo,M,177.0,Right,555,805038,8.0,1996-10-04,2026-12-31,5926,4600000.0,UY,Uruguay,4600000.0,EUR,https://api.sofascore.app/api/v1/player/805038/image
+Matías Segovia,matias-segovia,Matías Segovia,M,165.0,Left,1190,988622,10.0,2003-01-04,2026-12-31,1958,3600000.0,PY,Paraguay,3600000.0,EUR,https://api.sofascore.app/api/v1/player/988622/image
+Aderlan,aderlan,Aderlan,D,180.0,Right,164,584432,13.0,1990-08-18,2024-12-31,1999,735000.0,BR,Brazil,735000.0,EUR,https://api.sofascore.app/api/v1/player/584432/image
+Renzo Saravia,renzo-saravia,R. Saravia,D,178.0,Right,573,315916,26.0,1993-06-16,2025-12-31,1977,2000000.0,AR,Argentina,2000000.0,EUR,https://api.sofascore.app/api/v1/player/315916/image
+Juan,juan,Juan,F,176.0,Right,411,1009928,31.0,2002-03-07,2024-12-31,1981,1100000.0,BR,Brazil,1100000.0,EUR,https://api.sofascore.app/api/v1/player/1009928/image
+Rafael Elias,rafael-elias,Rafael Elias,F,179.0,Left,277,928527,40.0,1999-04-12,2026-12-31,1954,3200000.0,BR,Brazil,3200000.0,EUR,https://api.sofascore.app/api/v1/player/928527/image
+Henrique Dourado,henrique-dourado,Henrique,F,184.0,Left,371,329219,9.0,1989-09-15,,21845,185000.0,BR,Brazil,185000.0,EUR,https://api.sofascore.app/api/v1/player/329219/image
+Robert,robert,Robert,F,174.0,Right,76,1500254,80.0,2005-05-13,2027-12-31,200655,260000.0,BR,Brazil,260000.0,EUR,https://api.sofascore.app/api/v1/player/1500254/image
+David Braz,david-braz,D. Braz,D,187.0,Right,294,46942,44.0,1987-05-21,2024-06-30,1961,160000.0,BR,Brazil,160000.0,EUR,https://api.sofascore.app/api/v1/player/46942/image
+Rafael Bilú,rafael-bilu,Rafael Bilú,F,174.0,Both,108,959005,31.0,1999-04-21,2024-04-30,1954,270000.0,BR,Brazil,270000.0,EUR,https://api.sofascore.app/api/v1/player/959005/image
+Matheus Carvalho,matheus-carvalho,Matheus Carvalho,M,174.0,Left,104,1391962,85.0,2002-03-18,2024-04-30,1974,110000.0,BR,Brazil,110000.0,EUR,https://api.sofascore.app/api/v1/player/1391962/image
+Bruno Viana,bruno-viana,Bruno Viana,D,187.0,Right,279,804703,36.0,1995-02-05,2024-06-30,168086,1700000.0,BR,Brazil,1700000.0,EUR,https://api.sofascore.app/api/v1/player/804703/image
+Breno Herculano,breno-herculano,B. Herculano,F,189.0,Right,17,1018671,18.0,1999-02-16,2025-12-31,1960,105000.0,BR,Brazil,105000.0,EUR,https://api.sofascore.app/api/v1/player/1018671/image
+Marlon,marlon,Marlon,D,182.0,Right,536,331853,4.0,1995-09-07,2024-06-30,1961,6200000.0,BR,Brazil,6200000.0,EUR,https://api.sofascore.app/api/v1/player/331853/image
+Daniel Jr,daniel-jr,Daniel Jr,M,177.0,Left,130,1172052,11.0,2002-05-09,2024-06-30,5131,1500000.0,BR,Brazil,1500000.0,EUR,https://api.sofascore.app/api/v1/player/1172052/image
+Alexandre Jesus,alexandre-jesus,Alexandre Jesus,F,184.0,Right,53,1016865,20.0,2001-09-16,2025-12-31,1961,160000.0,BR,Brazil,160000.0,EUR,https://api.sofascore.app/api/v1/player/1016865/image
+Keiller,keiller,Keiller,G,193.0,Right,185,840082,1.0,1996-10-29,2026-12-31,1966,1400000.0,BR,Brazil,1400000.0,EUR,https://api.sofascore.app/api/v1/player/840082/image
+Jadsom,jadsom,Jadsom,M,176.0,Right,195,964127,5.0,2001-05-20,2025-12-31,1999,2900000.0,BR,Brazil,2900000.0,EUR,https://api.sofascore.app/api/v1/player/964127/image
+Isidro Pitta,isidro-pitta,Isidro Pitta,F,183.0,Right,448,979861,9.0,1999-08-14,2026-12-31,49202,2600000.0,PY,Paraguay,2600000.0,EUR,https://api.sofascore.app/api/v1/player/979861/image
+Henrique,henrique,Henrique,D,185.0,Right,125,37288,3.0,1986-10-14,,1982,135000.0,BR,Brazil,135000.0,EUR,https://api.sofascore.app/api/v1/player/37288/image
+Fausto Vera,fausto-vera,Fausto Vera,M,181.0,Right,1664,930690,5.0,2000-03-26,2026-12-31,1957,6700000.0,AR,Argentina,6700000.0,EUR,https://api.sofascore.app/api/v1/player/930690/image
+Jonathan Cafú,jonathan-cafu,Jonathan Cafú,F,175.0,Right,210,790103,7.0,1991-07-10,2023-12-31,49202,485000.0,BR,Brazil,485000.0,EUR,https://api.sofascore.app/api/v1/player/790103/image
+Carlos Alberto,carlos-alberto,Carlos Alberto,F,179.0,Right,164,1008700,27.0,2002-04-14,2023-12-31,1958,1300000.0,BR,Brazil,1300000.0,EUR,https://api.sofascore.app/api/v1/player/1008700/image
+Alan Kardec,alan-kardec,Alan Kardec,F,185.0,Right,410,39656,14.0,1989-01-12,2024-12-31,1977,450000.0,BR,Brazil,450000.0,EUR,https://api.sofascore.app/api/v1/player/39656/image
+Kayky,kayky,Kayky,M,175.0,Left,2093,1106151,37.0,2003-06-11,2023-12-31,1955,7600000.0,BR,Brazil,7600000.0,EUR,https://api.sofascore.app/api/v1/player/1106151/image
+Jean Dias,jean-dias,J. Dias,M,170.0,Right,65,1047201,38.0,1990-10-22,2023-12-31,1966,570000.0,BR,Brazil,570000.0,EUR,https://api.sofascore.app/api/v1/player/1047201/image
+Matheus França,matheus-franca,Matheus França,F,184.0,Right,2506,1116593,11.0,2004-04-01,2028-06-30,7,15500000.0,BR,Brazil,15500000.0,EUR,https://api.sofascore.app/api/v1/player/1116593/image
+Alemão,alemao,Alemão,F,182.0,Right,515,981604,14.0,1998-04-01,2024-06-30,2851,3300000.0,BR,Brazil,3300000.0,EUR,https://api.sofascore.app/api/v1/player/981604/image
+Ryan,ryan,Ryan,D,177.0,Left,63,1086990,66.0,2002-05-14,2023-12-31,1955,485000.0,BR,Brazil,485000.0,EUR,https://api.sofascore.app/api/v1/player/1086990/image
+Pedro Henrique,pedro-henrique,P. Henrique,M,179.0,Right,453,219190,28.0,1990-06-16,2024-06-30,1966,1800000.0,BR,Brazil,1800000.0,EUR,https://api.sofascore.app/api/v1/player/219190/image
+David Terans,david-terans,David Terans,M,176.0,Left,945,586662,80.0,1994-08-11,2026-06-30,1936,3700000.0,UY,Uruguay,3700000.0,EUR,https://api.sofascore.app/api/v1/player/586662/image
+João Pedro,joao-pedro,João Pedro,D,179.0,Right,351,605528,18.0,1996-11-15,2023-12-31,5926,865000.0,BR,Brazil,865000.0,EUR,https://api.sofascore.app/api/v1/player/605528/image
+Pedro Geromel,pedro-geromel,P. Geromel,D,190.0,Right,578,13338,3.0,1985-09-21,2023-12-31,5926,230000.0,BR,Brazil,230000.0,EUR,https://api.sofascore.app/api/v1/player/13338/image
+Talles Costa,talles-costa,T. Costa,M,176.0,Right,407,1002360,37.0,2002-08-02,2024-12-31,1981,1900000.0,BR,Brazil,1900000.0,EUR,https://api.sofascore.app/api/v1/player/1002360/image
+Robson Bambu,robson-bambu,R. Bambu,D,184.0,Right,347,923186,30.0,1997-11-12,2023-12-31,1974,2400000.0,BR,Brazil,2400000.0,EUR,https://api.sofascore.app/api/v1/player/923186/image
+Eric Ramires,eric-ramires,Eric Ramires,M,172.0,Right,312,950545,7.0,2000-08-10,2026-12-31,1999,4099999.0,BR,Brazil,4099999.0,EUR,https://api.sofascore.app/api/v1/player/950545/image
+David,david,David,F,179.0,Right,559,840291,22.0,1995-10-17,2023-12-31,1981,1600000.0,BR,Brazil,1600000.0,EUR,https://api.sofascore.app/api/v1/player/840291/image
+Mateus Henrique,mateus-henrique,Mateus Henrique,M,178.0,Right,42,1175493,36.0,2002-10-02,2025-12-31,1973,155000.0,BR,Brazil,155000.0,EUR,https://api.sofascore.app/api/v1/player/1175493/image
+Luiz Adriano,luiz-adriano,L. Adriano,F,183.0,Right,748,39438,9.0,1987-04-12,2023-12-31,1966,380000.0,BR,Brazil,380000.0,EUR,https://api.sofascore.app/api/v1/player/39438/image
+Yony González,yony-gonzalez,Y. González,F,182.0,Right,356,351432,15.0,1994-07-11,2024-12-31,1961,650000.0,CO,Colombia,650000.0,EUR,https://api.sofascore.app/api/v1/player/351432/image
+Alê,ale,Alê,M,184.0,Right,107,869564,16.0,1990-06-06,2025-12-31,1973,315000.0,BR,Brazil,315000.0,EUR,https://api.sofascore.app/api/v1/player/869564/image
+Isaac,isaac,Isaac,F,,,92,1464519,32.0,2004-04-24,2027-12-31,199294,97000.0,BR,Brazil,97000.0,EUR,https://api.sofascore.app/api/v1/player/1464519/image
+Filipe Augusto,filipe-augusto,Filipe Augusto,M,182.0,Left,97,254561,5.0,1993-08-12,2023-12-31,49202,750000.0,BR,Brazil,750000.0,EUR,https://api.sofascore.app/api/v1/player/254561/image
+Victor Cantillo,victor-cantillo,Victor Cantillo,M,182.0,Right,865,355802,24.0,1993-10-15,2023-12-31,1957,970000.0,CO,Colombia,970000.0,EUR,https://api.sofascore.app/api/v1/player/355802/image
+Luan,luan,Luan,F,180.0,Right,1352,386210,7.0,1993-03-27,2023-12-31,5926,485000.0,BR,Brazil,485000.0,EUR,https://api.sofascore.app/api/v1/player/386210/image
+Matheus Araújo,matheus-araujo,Matheus Araújo,M,176.0,Right,461,1002617,30.0,2002-05-22,2024-12-31,1957,1900000.0,BR,Brazil,1900000.0,EUR,https://api.sofascore.app/api/v1/player/1002617/image
+Cuiabano,cuiabano,Cuiabano,D,179.0,Left,230,1160554,54.0,2003-02-16,2024-12-31,5926,1000000.0,BR,Brazil,1000000.0,EUR,https://api.sofascore.app/api/v1/player/1160554/image
+Felipe Azevedo,felipe-azevedo,Felipe Azevedo,F,175.0,Right,142,166471,11.0,1987-01-10,2023-12-31,1973,145000.0,BR,Brazil,145000.0,EUR,https://api.sofascore.app/api/v1/player/166471/image
+Gonzalo Escobar,gonzalo-escobar,G. Escobar,D,171.0,Left,91,840500,33.0,1997-03-16,2024-12-31,2020,620000.0,AR,Argentina,620000.0,EUR,https://api.sofascore.app/api/v1/player/840500/image
+Figueiredo,figueiredo,Figueiredo,F,178.0,Right,482,1105790,15.0,2001-08-14,2026-12-31,1974,1800000.0,BR,Brazil,1800000.0,EUR,https://api.sofascore.app/api/v1/player/1105790/image
+Henrique Almeida,henrique-almeida,Henrique,F,177.0,Right,96,39402,91.0,1991-05-27,2024-12-31,2021,290000.0,BR,Brazil,290000.0,EUR,https://api.sofascore.app/api/v1/player/39402/image
+Thiago Maia,thiago-maia,Thiago Maia,M,179.0,Left,1502,358550,8.0,1997-03-23,2026-12-31,5981,5700000.0,BR,Brazil,5700000.0,EUR,https://api.sofascore.app/api/v1/player/358550/image
+Andrés Hurtado,andres-hurtado,Andrés Hurtado,D,178.0,Right,304,987589,34.0,2001-12-23,2026-12-31,1999,1600000.0,EC,Ecuador,1600000.0,EUR,https://api.sofascore.app/api/v1/player/987589/image
+Roni,roni,Roni,M,174.0,Right,526,1046440,29.0,1999-04-15,2024-12-31,1957,4099999.0,BR,Brazil,4099999.0,EUR,https://api.sofascore.app/api/v1/player/1046440/image
+Maurício Garcez,mauricio-garcez,Maurício Garcez,F,183.0,Right,109,1050353,33.0,1997-03-16,2023-12-31,1982,970000.0,BR,Brazil,970000.0,EUR,https://api.sofascore.app/api/v1/player/1050353/image
+Pedro,pedro,Pedro,F,170.0,Right,767,1199285,27.0,2006-02-05,2026-03-31,1957,6400000.0,BR,Brazil,6400000.0,EUR,https://api.sofascore.app/api/v1/player/1199285/image
+Jhegson Méndez,jhegson-mendez,J. Méndez,M,180.0,Right,687,590150,21.0,1997-04-26,2025-12-31,1981,2700000.0,EC,Ecuador,2700000.0,EUR,https://api.sofascore.app/api/v1/player/590150/image
+Rodrigo Pinho,rodrigo-pinho,Rodrigo Pinho,F,185.0,Left,305,801339,9.0,1991-05-30,2025-06-30,1982,1300000.0,BR,Brazil,1300000.0,EUR,https://api.sofascore.app/api/v1/player/801339/image
+Willian,willian,Willian,F,171.0,Right,568,146308,11.0,1986-11-19,2023-12-31,1967,290000.0,BR,Brazil,290000.0,EUR,https://api.sofascore.app/api/v1/player/146308/image
+Vinicius Mingotti,vinicius-mingotti,Vinicius Mingotti,F,185.0,Right,107,989407,21.0,2000-01-07,2023-12-31,1955,675000.0,BR,Brazil,675000.0,EUR,https://api.sofascore.app/api/v1/player/989407/image
+Everton Galdino,everton-galdino,Everton Galdino,M,177.0,Left,188,871162,13.0,1997-03-17,2023-12-31,5926,930000.0,BR,Brazil,930000.0,EUR,https://api.sofascore.app/api/v1/player/871162/image
+Romarinho,romarinho,Romarinho,M,168.0,Right,139,870578,11.0,1994-03-01,2024-12-31,2020,47000.0,BR,Brazil,47000.0,EUR,https://api.sofascore.app/api/v1/player/870578/image
+Chrystian Barletta,chrystian-barletta,Chrystian Barletta,F,178.0,Left,590,1035765,30.0,2001-07-05,2028-06-30,2001,920000.0,BR,Brazil,920000.0,EUR,https://api.sofascore.app/api/v1/player/1035765/image
+Santos,santos,Santos,G,188.0,Right,1414,166491,1.0,1990-03-17,2025-12-31,5981,2100000.0,BR,Brazil,2100000.0,EUR,https://api.sofascore.app/api/v1/player/166491/image
+Carlos De Pena,carlos-de-pena,Carlos De Pena,M,177.0,Left,416,311394,14.0,1992-03-11,2024-12-31,1966,3800000.0,UY,Uruguay,3800000.0,EUR,https://api.sofascore.app/api/v1/player/311394/image
+Gabriel Inocêncio,gabriel-inocencio,Gabriel Inocêncio,D,175.0,Right,78,1047680,12.0,1994-08-20,2023-12-31,1968,97000.0,BR,Brazil,97000.0,EUR,https://api.sofascore.app/api/v1/player/1047680/image
+Nicolas,nicolas,Nicolas,D,180.0,Left,118,841336,30.0,1997-02-24,2025-12-31,1973,1400000.0,BR,Brazil,1400000.0,EUR,https://api.sofascore.app/api/v1/player/841336/image
+Ronald,ronald,Ronald,M,171.0,Right,102,931521,8.0,1997-06-18,2023-12-31,49202,775000.0,BR,Brazil,775000.0,EUR,https://api.sofascore.app/api/v1/player/931521/image
+Jesé Rodríguez,jese-rodriguez,Jesé,F,178.0,Right,1178,110781,,1993-02-26,,1982,970000.0,ES,Spain,970000.0,EUR,https://api.sofascore.app/api/v1/player/110781/image
+Diego Rosa,diego-rosa,D. Rosa,M,180.0,Right,345,1002415,17.0,2002-10-12,2027-12-31,1955,1800000.0,BR,Brazil,1800000.0,EUR,https://api.sofascore.app/api/v1/player/1002415/image
+Maguinho,maguinho,Maguinho,D,175.0,Right,114,871209,2.0,1992-01-06,2024-12-31,1960,410000.0,BR,Brazil,410000.0,EUR,https://api.sofascore.app/api/v1/player/871209/image
+Juan Cazares,juan-cazares,J. Cazares,M,170.0,Right,534,158411,80.0,1992-04-03,2023-12-31,1973,700000.0,EC,Ecuador,700000.0,EUR,https://api.sofascore.app/api/v1/player/158411/image
+Lucas Pires,lucas-pires,L. Pires,D,182.0,Left,333,1136896,33.0,2001-03-24,2024-06-30,4488,2200000.0,BR,Brazil,2200000.0,EUR,https://api.sofascore.app/api/v1/player/1136896/image
+Lucas Fernandes,lucas-fernandes,Lucas Fernandes,M,176.0,Right,330,837871,18.0,1997-09-20,2026-12-31,1958,1800000.0,BR,Brazil,1800000.0,EUR,https://api.sofascore.app/api/v1/player/837871/image
+Matías Rojas,matias-rojas,Matías Rojas,F,180.0,Left,2638,846280,10.0,1995-11-03,2026-06-30,1957,5600000.0,PY,Paraguay,5600000.0,EUR,https://api.sofascore.app/api/v1/player/846280/image
+Iury Castilho,iury-castilho,Iury Castilho,F,185.0,Right,102,795020,7.0,1995-09-06,2024-12-31,1962,720000.0,BR,Brazil,720000.0,EUR,https://api.sofascore.app/api/v1/player/795020/image
+Hugo Mallo,hugo-mallo,H. Mallo,D,174.0,Right,354,83506,2.0,1991-06-22,2024-07-31,1966,2900000.0,ES,Spain,2900000.0,EUR,https://api.sofascore.app/api/v1/player/83506/image
+Raí Ramos,rai-ramos,R. Ramos,D,179.0,Right,171,879591,34.0,1994-05-06,2025-12-31,1981,480000.0,BR,Brazil,480000.0,EUR,https://api.sofascore.app/api/v1/player/879591/image
+Rwan Cruz,rwan-cruz,Rwan Cruz,F,187.0,Right,244,1180918,99.0,2001-05-20,2024-06-30,43840,1600000.0,BR,Brazil,1600000.0,EUR,https://api.sofascore.app/api/v1/player/1180918/image
+Guilherme Lopes,guilherme-lopes,Guilherme Lopes,D,,Left,37,1097858,31.0,2002-02-14,,1999,,BR,Brazil,,EUR,https://api.sofascore.app/api/v1/player/1097858/image
+Jhon Chancellor,jhon-chancellor,J. Chancellor,D,198.0,Right,371,249251,34.0,1992-01-02,2025-06-30,1944,380000.0,VE,Venezuela,380000.0,EUR,https://api.sofascore.app/api/v1/player/249251/image
+Liziero,liziero,Liziero,M,175.0,Left,343,822510,28.0,1998-02-07,2024-06-30,2460,2600000.0,BR,Brazil,2600000.0,EUR,https://api.sofascore.app/api/v1/player/822510/image
+Fabinho,fabinho,Fabinho,M,178.0,Right,439,1117513,35.0,2002-04-09,2027-12-31,1963,3700000.0,BR,Brazil,3700000.0,EUR,https://api.sofascore.app/api/v1/player/1117513/image
+Gabriel Barbosa,gabriel-barbosa,Gabriel,F,178.0,Left,17246,358554,10.0,1996-08-30,2024-12-31,5981,21000000.0,BR,Brazil,21000000.0,EUR,https://api.sofascore.app/api/v1/player/358554/image
+Apodi,apodi,Apodi,F,176.0,Right,140,33119,22.0,1986-12-13,2023-12-31,1960,195000.0,BR,Brazil,195000.0,EUR,https://api.sofascore.app/api/v1/player/33119/image
+Alexsander,alexsander,Alexsander,M,178.0,Left,646,1185617,5.0,2003-10-08,2026-03-31,1961,4099999.0,BR,Brazil,4099999.0,EUR,https://api.sofascore.app/api/v1/player/1185617/image
+Hugo Moura,hugo-moura,Hugo Moura,M,177.0,Right,333,973293,17.0,1998-01-03,2026-06-30,1967,1400000.0,BR,Brazil,1400000.0,EUR,https://api.sofascore.app/api/v1/player/973293/image
+Kevyson,kevyson,Kevyson,D,,Left,155,1389980,38.0,2004-03-29,,1968,,BR,Brazil,,EUR,https://api.sofascore.app/api/v1/player/1389980/image
+Bruno Tabata,bruno-tabata,Bruno Tabata,M,175.0,Left,800,845433,7.0,1997-03-30,2024-06-30,25914,2700000.0,BR,Brazil,2700000.0,EUR,https://api.sofascore.app/api/v1/player/845433/image
+Alison,alison,Alison,M,182.0,Right,191,329201,5.0,1993-03-01,2023-12-31,1968,550000.0,BR,Brazil,550000.0,EUR,https://api.sofascore.app/api/v1/player/329201/image
+Sebastian Gomez,sebastian-gomez,S. Gomez,M,172.0,Left,210,925142,19.0,1996-06-03,2026-12-31,1982,1800000.0,CO,Colombia,1800000.0,EUR,https://api.sofascore.app/api/v1/player/925142/image
+Vitão,vitao,Vitão,D,185.0,Right,500,876625,44.0,2000-02-02,2024-06-30,1966,7900000.0,BR,Brazil,7900000.0,EUR,https://api.sofascore.app/api/v1/player/876625/image
+Campanharo,campanharo,Campanharo,M,178.0,Right,188,220094,17.0,1992-04-04,2024-12-31,1966,1100000.0,BR,Brazil,1100000.0,EUR,https://api.sofascore.app/api/v1/player/220094/image
+Matheus Bahia,matheus-bahia,M. Bahia,D,181.0,Left,147,1047204,79.0,1999-08-11,2026-12-31,1955,1500000.0,BR,Brazil,1500000.0,EUR,https://api.sofascore.app/api/v1/player/1047204/image
+Bruno Santos,bruno-santos,B. Santos,D,183.0,Right,49,592568,13.0,1993-02-07,2023-12-31,1960,680000.0,BR,Brazil,680000.0,EUR,https://api.sofascore.app/api/v1/player/592568/image
+Nathan,nathan,Nathan,D,182.0,Right,292,1116955,45.0,2002-08-19,2024-12-31,1981,620000.0,BR,Brazil,620000.0,EUR,https://api.sofascore.app/api/v1/player/1116955/image
+Guilherme Camacho,guilherme-camacho,G. Camacho,M,180.0,Right,228,76444,29.0,1990-03-02,2023-12-31,1968,285000.0,BR,Brazil,285000.0,EUR,https://api.sofascore.app/api/v1/player/76444/image
+Rafael Navarro,rafael-navarro,R. Navarro,F,183.0,Right,882,985427,9.0,2000-04-14,2024-06-30,2510,3600000.0,BR,Brazil,3600000.0,EUR,https://api.sofascore.app/api/v1/player/985427/image
+Nathan Fernandes,fernandes-nathan,N. Fernandes,M,178.0,,150,1494695,32.0,2005-02-16,,5926,,BR,Brazil,,EUR,https://api.sofascore.app/api/v1/player/1494695/image
+Giovane,giovane,Giovane,F,184.0,Left,528,1170773,17.0,2003-11-24,2025-07-31,1957,2600000.0,BR,Brazil,2600000.0,EUR,https://api.sofascore.app/api/v1/player/1170773/image
+Raul,raul,Raul,M,180.0,Right,161,870760,23.0,1996-07-11,2024-12-31,1999,2100000.0,BR,Brazil,2100000.0,EUR,https://api.sofascore.app/api/v1/player/870760/image
+Paulinho Bóia,paulinho-boia,Paulinho Bóia,F,171.0,Right,156,912781,19.0,1998-06-26,2023-12-31,1973,655000.0,BR,Brazil,655000.0,EUR,https://api.sofascore.app/api/v1/player/912781/image
+Alisson Santana,alisson-santana,Alisson Santana,M,173.0,Left,68,1471221,45.0,2005-09-21,,200653,,BR,Brazil,,EUR,https://api.sofascore.app/api/v1/player/1471221/image
+João Marcelo,joao-marcelo,J. Marcelo,D,189.0,Right,172,978638,43.0,2000-06-13,2024-06-30,1954,720000.0,BR,Brazil,720000.0,EUR,https://api.sofascore.app/api/v1/player/978638/image
+Thalisson Gabriel,thalisson-gabriel,Thalisson Gabriel,D,190.0,Right,32,1109577,14.0,2002-01-20,2025-12-31,1982,290000.0,BR,Brazil,290000.0,EUR,https://api.sofascore.app/api/v1/player/1109577/image
+Igor Gomes,igor-gomes,I. Gomes,D,186.0,Right,260,997023,21.0,2001-03-06,2024-12-31,1966,215000.0,BR,Brazil,215000.0,EUR,https://api.sofascore.app/api/v1/player/997023/image
+Sebastián Ferreira,sebastian-ferreira,S. Ferreira,F,181.0,Right,382,822783,9.0,1998-02-13,2023-12-31,1974,4200000.0,PY,Paraguay,4200000.0,EUR,https://api.sofascore.app/api/v1/player/822783/image
+Zé Roberto,ze-roberto,Z. Roberto,F,184.0,Right,205,842076,9.0,1993-09-14,2023-12-31,21982,1200000.0,BR,Brazil,1200000.0,EUR,https://api.sofascore.app/api/v1/player/842076/image
+Raul Gustavo,raul-gustavo,Raul Gustavo,D,188.0,Left,414,1047422,34.0,1999-04-24,2023-12-31,1955,3600000.0,BR,Brazil,3600000.0,EUR,https://api.sofascore.app/api/v1/player/1047422/image
+Arthur Gomes,arthur-gomes,Arthur,M,175.0,Right,645,822524,19.0,1998-07-03,2026-12-31,1954,3100000.0,BR,Brazil,3100000.0,EUR,https://api.sofascore.app/api/v1/player/822524/image
+Wallisson Luiz,wallisson-luiz,Wallisson Luiz,M,184.0,Right,163,922601,8.0,1997-09-23,2027-06-30,3014,740000.0,BR,Brazil,740000.0,EUR,https://api.sofascore.app/api/v1/player/922601/image
+Marcelo Benevenuto,marcelo-benevenuto,Marcelo,D,180.0,Right,179,841808,5.0,1996-01-07,2026-12-31,2020,2700000.0,BR,Brazil,2700000.0,EUR,https://api.sofascore.app/api/v1/player/841808/image
+Bruno Méndez,bruno-mendez,Bruno Méndez,D,184.0,Right,1036,923000,25.0,1999-09-10,2023-12-31,1957,4900000.0,UY,Uruguay,4900000.0,EUR,https://api.sofascore.app/api/v1/player/923000/image
+Fransérgio,fransergio,Fransérgio,M,187.0,Right,136,84847,15.0,1990-10-18,2026-12-31,1982,1200000.0,BR,Brazil,1200000.0,EUR,https://api.sofascore.app/api/v1/player/84847/image
+Rômulo,romulo,Rômulo,F,193.0,Right,111,1133743,35.0,2002-02-08,2024-06-30,1967,1800000.0,BR,Brazil,1800000.0,EUR,https://api.sofascore.app/api/v1/player/1133743/image
+Pedrinho,pedrinho,Pedrinho,F,176.0,Right,309,896248,29.0,2002-02-18,2023-12-31,1973,1900000.0,BR,Brazil,1900000.0,EUR,https://api.sofascore.app/api/v1/player/896248/image
+Cicinho,cicinho,Cicinho,D,168.0,Right,105,243271,40.0,1988-12-26,2024-12-31,1955,310000.0,BG,Bulgaria,310000.0,EUR,https://api.sofascore.app/api/v1/player/243271/image
+Nino Paraíba,nino-paraiba,N. Paraíba,D,168.0,Right,151,77375,,1986-01-10,,1997,260000.0,BR,Brazil,260000.0,EUR,https://api.sofascore.app/api/v1/player/77375/image
+Dodô,dodo,Dodô,M,170.0,Right,38,1018871,95.0,2001-06-15,2023-12-31,1960,365000.0,BR,Brazil,365000.0,EUR,https://api.sofascore.app/api/v1/player/1018871/image
+Wesley,wesley,Wesley,M,180.0,Right,738,1211632,36.0,2005-03-05,2027-08-31,1957,2100000.0,BR,Brazil,2100000.0,EUR,https://api.sofascore.app/api/v1/player/1211632/image
+Dodi,dodi,Dodi,M,169.0,Right,228,870804,19.0,1996-04-17,2025-12-31,1968,720000.0,BR,Brazil,720000.0,EUR,https://api.sofascore.app/api/v1/player/870804/image
+Janderson,janderson,Janderson,F,189.0,Both,161,1462989,39.0,1999-05-06,2025-12-31,1958,97000.0,BR,Brazil,97000.0,EUR,https://api.sofascore.app/api/v1/player/1462989/image
+Renato Marques,marques-renato,Renato Marques,F,180.0,Right,47,1194689,78.0,2003-12-09,2025-12-31,1973,320000.0,BR,Brazil,320000.0,EUR,https://api.sofascore.app/api/v1/player/1194689/image
+Mikael,mikael,Mikael,F,184.0,Left,520,994017,87.0,1999-05-28,2023-12-31,1973,1000000.0,BR,Brazil,1000000.0,EUR,https://api.sofascore.app/api/v1/player/994017/image
+Lucas Besozzi,lucas-besozzi,L. Besozzi,M,176.0,Right,319,1086339,22.0,2003-01-22,2024-06-30,5926,1200000.0,AR,Argentina,1200000.0,EUR,https://api.sofascore.app/api/v1/player/1086339/image
+Andrey Santos,santos-andrey,Andrey Santos,M,180.0,Right,7338,1105779,12.0,2004-05-03,2024-05-31,14,14600000.0,BR,Brazil,14600000.0,EUR,https://api.sofascore.app/api/v1/player/1105779/image
+Daniel Borges,daniel-borges,D. Borges,D,174.0,Right,90,794874,20.0,1993-03-23,2024-12-31,1973,745000.0,BR,Brazil,745000.0,EUR,https://api.sofascore.app/api/v1/player/794874/image
+Lelê,lele,Lelê,F,189.0,Right,437,1173457,18.0,1997-10-01,2023-12-31,1961,1200000.0,BR,Brazil,1200000.0,EUR,https://api.sofascore.app/api/v1/player/1173457/image
+Matheusinho,matheusinho,Matheusinho,M,164.0,Right,150,822523,7.0,1998-02-11,2024-12-31,1973,970000.0,BR,Brazil,970000.0,EUR,https://api.sofascore.app/api/v1/player/822523/image
+Kaiki,kaiki,Kaiki,D,172.0,Left,293,1112484,14.0,2003-03-08,2025-12-31,1954,1600000.0,BR,Brazil,1600000.0,EUR,https://api.sofascore.app/api/v1/player/1112484/image
+Nicolás Quagliata,nicolas-quagliata,Nicolás Quagliata,M,170.0,Right,202,1009556,25.0,1999-06-05,2023-12-31,49202,1400000.0,UY,Uruguay,1400000.0,EUR,https://api.sofascore.app/api/v1/player/1009556/image
+Emerson Ramon,emerson-ramon,Emerson Ramon,M,178.0,Right,53,1130178,17.0,2000-11-24,2026-12-31,49202,410000.0,BR,Brazil,410000.0,EUR,https://api.sofascore.app/api/v1/player/1130178/image
+Luan,luan,Luan,M,173.0,Right,583,942426,8.0,1999-05-14,2026-12-31,1981,3900000.0,BR,Brazil,3900000.0,EUR,https://api.sofascore.app/api/v1/player/942426/image
+Edu,edu,Edu,F,180.0,Right,390,868864,99.0,1993-03-05,2024-12-31,1982,955000.0,BR,Brazil,955000.0,EUR,https://api.sofascore.app/api/v1/player/868864/image
+João Lucas,joao-lucas,João Lucas,D,181.0,Right,266,981019,13.0,1998-09-03,2025-12-31,1968,2100000.0,BR,Brazil,2100000.0,EUR,https://api.sofascore.app/api/v1/player/981019/image
+Marcelo Cirino,marcelo-cirino,Marcelo Cirino,F,182.0,Right,109,329027,,1992-01-22,,241802,630000.0,BR,Brazil,630000.0,EUR,https://api.sofascore.app/api/v1/player/329027/image
+Philippe Costa,philippe-costa,Philippe Costa,F,186.0,Right,24,931508,90.0,2000-03-01,2023-12-31,1960,655000.0,BR,Brazil,655000.0,EUR,https://api.sofascore.app/api/v1/player/931508/image
+Thiago Andrade,thiago-andrade,T. Andrade,F,179.0,Right,189,1106509,19.0,2000-10-31,2023-12-31,1967,5200000.0,BR,Brazil,5200000.0,EUR,https://api.sofascore.app/api/v1/player/1106509/image
+Thomas Luciano,thomas-luciano,T. Luciano,D,180.0,Right,40,1117180,58.0,2002-01-14,2026-06-30,3010,105000.0,BR,Brazil,105000.0,EUR,https://api.sofascore.app/api/v1/player/1117180/image
+Patric Calmon,patric-calmon,P. Calmon,D,181.0,Left,34,987168,94.0,1994-07-05,2023-12-31,49202,165000.0,BR,Brazil,165000.0,EUR,https://api.sofascore.app/api/v1/player/987168/image
+Giovani,giovani,Giovani,F,182.0,Left,1243,1066717,17.0,2004-01-01,2028-06-30,39733,9500000.0,BR,Brazil,9500000.0,EUR,https://api.sofascore.app/api/v1/player/1066717/image
+Eguinaldo,eguinaldo,Eguinaldo,F,175.0,Right,542,1390545,7.0,2004-08-09,2028-06-30,3313,2900000.0,BR,Brazil,2900000.0,EUR,https://api.sofascore.app/api/v1/player/1390545/image
+Reinaldo,reinaldo,Reinaldo,F,177.0,Right,41,981635,7.0,2001-06-06,2026-06-30,3011,270000.0,BR,Brazil,270000.0,EUR,https://api.sofascore.app/api/v1/player/981635/image
+Ed Carlos,ed-carlos,Ed Carlos,M,187.0,Left,88,1066714,37.0,2001-03-19,2026-06-30,1968,980000.0,BR,Brazil,980000.0,EUR,https://api.sofascore.app/api/v1/player/1066714/image
+Alfredo Morelos,alfredo-morelos,A. Morelos,F,177.0,Both,2267,831085,22.0,1996-06-21,2025-08-31,1968,5700000.0,CO,Colombia,5700000.0,EUR,https://api.sofascore.app/api/v1/player/831085/image
+Kauan Santos,kauan-santos,K. Santos,M,165.0,Right,93,1411222,47.0,2004-06-17,,1963,,BR,Brazil,,EUR,https://api.sofascore.app/api/v1/player/1411222/image
+Paulo Vitor,paulo-vitor,P. Vitor,M,170.0,Right,118,881153,30.0,1999-06-24,2025-12-31,1954,410000.0,BR,Brazil,410000.0,EUR,https://api.sofascore.app/api/v1/player/881153/image
+Brenno,brenno,Brenno,G,188.0,Right,273,914481,22.0,1999-04-01,2024-06-30,2712,2700000.0,BR,Brazil,2700000.0,EUR,https://api.sofascore.app/api/v1/player/914481/image
+Jair Paula,jair-paula,J. Paula,D,195.0,Both,90,1170722,32.0,2005-03-07,,1968,,BR,Brazil,,EUR,https://api.sofascore.app/api/v1/player/1170722/image
+Marcos Victor,marcos-victor,Marcos Victor,D,184.0,Right,88,1174196,44.0,2001-12-26,2027-12-31,1955,260000.0,BR,Brazil,260000.0,EUR,https://api.sofascore.app/api/v1/player/1174196/image
+Isaac,isaac,Isaac,F,181.0,,64,1471239,41.0,2004-03-26,,1977,,BR,Brazil,,EUR,https://api.sofascore.app/api/v1/player/1471239/image
+Paulo Vitor,vitor-paulo,P. Vitor,D,185.0,Right,32,1488136,27.0,2004-08-26,,200653,140000.0,BR,Brazil,140000.0,EUR,https://api.sofascore.app/api/v1/player/1488136/image
+Araújo,araujo,Araújo,M,,,22,1584796,49.0,2005-06-20,,5926,,,,,EUR,https://api.sofascore.app/api/v1/player/1584796/image
+Ricardo Cerqueira,ricardo-cerqueira,Ricardo Cerqueira,M,184.0,Right,18,1412633,54.0,2002-12-29,2027-12-31,49202,320000.0,BR,Brazil,320000.0,EUR,https://api.sofascore.app/api/v1/player/1412633/image
+Ighor Gabryel,ighor-gabryel,I. Gabryel,F,,,2,1106530,91.0,2003-01-15,,1973,,BR,Brazil,,EUR,https://api.sofascore.app/api/v1/player/1106530/image
+André Luiz,andre-luiz,André Luiz,F,185.0,Right,310,1133282,10.0,2002-02-23,2024-06-30,3035,160000.0,BR,Brazil,160000.0,EUR,https://api.sofascore.app/api/v1/player/1133282/image
+Juan Iturbe,juan-iturbe,J. Iturbe,M,170.0,Left,497,146415,21.0,1993-06-04,2024-12-31,5926,900000.0,PY,Paraguay,900000.0,EUR,https://api.sofascore.app/api/v1/player/146415/image
+Sandry,sandry,Sandry,M,173.0,Right,382,973847,6.0,2002-08-30,2026-06-30,1968,3900000.0,BR,Brazil,3900000.0,EUR,https://api.sofascore.app/api/v1/player/973847/image
+Manoel,manoel,Manoel,D,182.0,Right,282,84845,26.0,1990-02-26,2024-12-31,1961,380000.0,BR,Brazil,380000.0,EUR,https://api.sofascore.app/api/v1/player/84845/image
+Kaio César,kaio-cesar,Kaio César,F,168.0,Left,96,1396009,37.0,2004-02-15,2024-12-31,1982,970000.0,BR,Brazil,970000.0,EUR,https://api.sofascore.app/api/v1/player/1396009/image
+Gabriel Neves,gabriel-neves,G. Neves,M,171.0,Right,931,875294,20.0,1997-08-11,2025-12-31,1981,2700000.0,UY,Uruguay,2700000.0,EUR,https://api.sofascore.app/api/v1/player/875294/image
+Lucca,lucca,L. Holanda,F,180.0,Right,204,1199435,45.0,2003-04-02,,1966,,BR,Brazil,,EUR,https://api.sofascore.app/api/v1/player/1199435/image
+Rodriguinho,rodriguinho,Rodriguinho,M,170.0,Right,63,1174770,75.0,2003-06-05,,1973,,BR,Brazil,,EUR,https://api.sofascore.app/api/v1/player/1174770/image
+Lucas Mineiro,lucas-mineiro,L. Mineiro,M,188.0,Left,74,840077,31.0,1996-02-24,2023-12-31,49202,1100000.0,BR,Brazil,1100000.0,EUR,https://api.sofascore.app/api/v1/player/840077/image
+Willian Farias,willian-farias,W. Farias,M,176.0,Right,87,243239,8.0,1989-06-06,2024-12-31,1982,185000.0,BR,Brazil,185000.0,EUR,https://api.sofascore.app/api/v1/player/243239/image
+Matheus Dias,dias-matheus,Matheus Dias,M,187.0,Right,157,1020610,41.0,2002-05-09,2027-12-31,1966,545000.0,BR,Brazil,545000.0,EUR,https://api.sofascore.app/api/v1/player/1020610/image
+João Pedro Galvão,joao-pedro-galvao,João Pedro Galvão,F,184.0,Right,1499,123208,11.0,1992-03-09,2024-06-30,5926,5700000.0,IT,Italy,5700000.0,EUR,https://api.sofascore.app/api/v1/player/123208/image
+Arturo Vidal,arturo-vidal,Arturo Vidal,M,180.0,Right,9366,18342,23.0,1987-05-22,2023-12-31,1967,680000.0,CL,Chile,680000.0,EUR,https://api.sofascore.app/api/v1/player/18342/image
+Guilherme Biro,guilherme-biro,Guilherme Biro,M,176.0,Left,879,1106667,26.0,2004-01-20,2027-12-31,1957,3800000.0,BR,Brazil,3800000.0,EUR,https://api.sofascore.app/api/v1/player/1106667/image
+Manuel Capasso,manuel-capasso,M. Capasso,D,188.0,Right,273,940611,22.0,1996-04-19,2025-12-31,1974,2400000.0,AR,Argentina,2400000.0,EUR,https://api.sofascore.app/api/v1/player/940611/image
+Luís Oyama,luis-oyama,Luís Oyama,M,171.0,Right,176,922570,55.0,1997-01-30,2023-12-31,1960,870000.0,BR,Brazil,870000.0,EUR,https://api.sofascore.app/api/v1/player/922570/image
+Rodrigo Ely,rodrigo-ely,R. Ely,D,188.0,Right,418,168745,5.0,1993-11-03,2025-12-31,5926,2900000.0,BR,Brazil,2900000.0,EUR,https://api.sofascore.app/api/v1/player/168745/image
+Pedro Augusto,pedro-augusto,P. Augusto,M,181.0,Left,107,922556,21.0,1997-03-03,2024-12-31,2020,520000.0,BR,Brazil,520000.0,EUR,https://api.sofascore.app/api/v1/player/922556/image
+Gustavinho,gustavinho,Gustavinho,M,176.0,Right,106,1463904,22.0,2004-04-23,2027-12-31,1999,680000.0,BR,Brazil,680000.0,EUR,https://api.sofascore.app/api/v1/player/1463904/image
+Gustavo Silva,gustavo-silva,Gustavo Silva,F,169.0,Right,658,863283,19.0,1997-09-07,2026-06-30,1957,2700000.0,BR,Brazil,2700000.0,EUR,https://api.sofascore.app/api/v1/player/863283/image
+Ian Luccas,ian-luccas,Ian Luccas,M,187.0,Right,108,1046496,20.0,2003-02-11,2027-06-30,1954,485000.0,BR,Brazil,485000.0,EUR,https://api.sofascore.app/api/v1/player/1046496/image
+Fernando Henrique,fernando-henrique,F. Henrique,M,182.0,Both,122,1067634,15.0,2001-06-01,2025-12-31,1954,1200000.0,BR,Brazil,1200000.0,EUR,https://api.sofascore.app/api/v1/player/1067634/image
+Giovanni,giovanni,Giovanni,F,176.0,Both,297,1036002,37.0,2002-01-31,2023-12-31,1961,760000.0,BR,Brazil,760000.0,EUR,https://api.sofascore.app/api/v1/player/1036002/image
+Bruno Mezenga,bruno-mezenga,B. Mezenga,F,180.0,Left,165,60472,88.0,1988-08-08,2023-12-31,1968,290000.0,BR,Brazil,290000.0,EUR,https://api.sofascore.app/api/v1/player/60472/image
+Raphael Guzzo,raphael-guzzo,R. Guzzo,M,180.0,Right,97,190151,5.0,1995-01-06,2023-12-31,1960,650000.0,PT,Portugal,650000.0,EUR,https://api.sofascore.app/api/v1/player/190151/image
+Josué,josue,Josué,M,,,36,1584795,48.0,2005-04-25,,5926,,BR,Brazil,,EUR,https://api.sofascore.app/api/v1/player/1584795/image
+Hayner,hayner,Hayner,D,178.0,Right,90,807767,2.0,1995-10-02,2023-12-31,1982,620000.0,BR,Brazil,620000.0,EUR,https://api.sofascore.app/api/v1/player/807767/image
+Alesson,alesson,Alesson,F,173.0,Left,64,871015,27.0,1999-02-16,2023-12-31,1960,590000.0,BR,Brazil,590000.0,EUR,https://api.sofascore.app/api/v1/player/871015/image
+Cauan Barros,barros-cauan,C. Barros,M,183.0,Right,131,1444694,88.0,2004-05-06,2026-12-31,1974,525000.0,BR,Brazil,525000.0,EUR,https://api.sofascore.app/api/v1/player/1444694/image
+Wanderson,wanderson,Wanderson,D,186.0,Right,44,368846,4.0,1991-02-07,2024-12-31,1973,260000.0,BR,Brazil,260000.0,EUR,https://api.sofascore.app/api/v1/player/368846/image
+Nathan,nathan,Nathan,D,183.0,Right,198,1016912,22.0,2001-09-05,2024-06-30,49531,1900000.0,BR,Brazil,1900000.0,EUR,https://api.sofascore.app/api/v1/player/1016912/image
+Iago Maidana,iago-maidana,I. Maidana,D,194.0,Right,233,599686,3.0,1996-02-06,2023-12-31,1973,1900000.0,BR,Brazil,1900000.0,EUR,https://api.sofascore.app/api/v1/player/599686/image
+Patrick,patrick,Patrick,M,176.0,Right,594,594428,49.0,1992-07-29,2025-12-31,1977,2600000.0,BR,Brazil,2600000.0,EUR,https://api.sofascore.app/api/v1/player/594428/image
+Edu,edu,Edu,D,188.0,Right,41,989715,43.0,2000-06-16,2024-06-30,1960,460000.0,BR,Brazil,460000.0,EUR,https://api.sofascore.app/api/v1/player/989715/image
+Vinicius Zanocelo,vinicius-zanocelo,Vinicius Zanocelo,M,184.0,Right,291,973841,25.0,2001-01-30,2023-12-31,2020,3100000.0,BR,Brazil,3100000.0,EUR,https://api.sofascore.app/api/v1/player/973841/image
+Lucas Milla,lucas-milla,Lucas Milla,M,176.0,Right,90,1176212,45.0,2003-01-28,2025-12-31,5926,425000.0,BR,Brazil,425000.0,EUR,https://api.sofascore.app/api/v1/player/1176212/image
+Dalbert,dalbert,Dalbert,M,181.0,Left,395,385386,29.0,1993-09-08,2023-12-31,1966,1100000.0,BR,Brazil,1100000.0,EUR,https://api.sofascore.app/api/v1/player/385386/image
+Luciano Arriagada,luciano-arriagada,Luciano Arriagada,F,184.0,Right,473,1014798,32.0,2002-04-30,2025-12-31,1967,905000.0,CL,Chile,905000.0,EUR,https://api.sofascore.app/api/v1/player/1014798/image
+Lucas Kal,lucas-kal,Lucas Kal,M,186.0,Right,124,840118,21.0,1996-03-16,2024-06-30,1973,1600000.0,BR,Brazil,1600000.0,EUR,https://api.sofascore.app/api/v1/player/840118/image
+Neto Moura,neto-moura,N. Moura,M,176.0,Right,213,559034,5.0,1996-08-06,2025-12-31,1954,865000.0,BR,Brazil,865000.0,EUR,https://api.sofascore.app/api/v1/player/559034/image
+Rodrigo Fernández,rodrigo-fernandez,R. Fernández,M,172.0,Right,303,877599,14.0,1996-01-03,2025-12-31,1968,1200000.0,UY,Uruguay,1200000.0,EUR,https://api.sofascore.app/api/v1/player/877599/image
+Wellington Paulista,wellington-paulista,W. Paulista,F,183.0,Right,245,29106,9.0,1983-04-22,2023-12-31,1973,145000.0,BR,Brazil,145000.0,EUR,https://api.sofascore.app/api/v1/player/29106/image
+Júnior Urso,junior-urso,Júnior Urso,M,182.0,Right,175,243251,21.0,1989-03-10,2023-12-31,52237,415000.0,BR,Brazil,415000.0,EUR,https://api.sofascore.app/api/v1/player/243251/image
+Jhonny Lucas,jhonny-lucas,Jhonny Lucas,M,170.0,Right,74,893524,13.0,2000-02-21,2024-12-31,1960,410000.0,BR,Brazil,410000.0,EUR,https://api.sofascore.app/api/v1/player/893524/image
+Gabriel Silva,gabriel-silva,Gabriel Silva,M,180.0,,68,1176796,20.0,2002-07-03,,1982,,BR,Brazil,,EUR,https://api.sofascore.app/api/v1/player/1176796/image
+Pablinho,pablinho,Pablinho,F,180.0,Right,13,1465710,82.0,2003-09-20,,307234,,BR,Brazil,,EUR,https://api.sofascore.app/api/v1/player/1465710/image
+Rodrigo Caio,rodrigo-caio,R. Caio,D,183.0,Right,1625,166273,3.0,1993-08-17,2023-12-31,5981,1400000.0,BR,Brazil,1400000.0,EUR,https://api.sofascore.app/api/v1/player/166273/image
+Luan Dias,luan-dias,Luan Dias,F,181.0,Left,85,1016887,97.0,1997-07-31,2023-12-31,1968,705000.0,BR,Brazil,705000.0,EUR,https://api.sofascore.app/api/v1/player/1016887/image
+Felipe Augusto,felipe-augusto,Felipe Augusto,F,187.0,Left,431,1106681,41.0,2004-02-18,2026-05-01,1957,725000.0,BR,Brazil,725000.0,EUR,https://api.sofascore.app/api/v1/player/1106681/image
+Diogo Batista,batista-diogo,D. Batista,D,173.0,Right,28,1120958,29.0,2003-08-29,,1982,,BR,Brazil,,EUR,https://api.sofascore.app/api/v1/player/1120958/image
+Kevin,kevin,Kevin,F,176.0,Right,680,1112879,37.0,2003-01-04,2026-12-31,1963,1000000.0,BR,Brazil,1000000.0,EUR,https://api.sofascore.app/api/v1/player/1112879/image
+Matheus Felipe,matheus-felipe,M. Felipe,D,186.0,Right,65,1110173,42.0,1998-11-09,2026-12-31,1967,1200000.0,BR,Brazil,1200000.0,EUR,https://api.sofascore.app/api/v1/player/1110173/image
+Erison,erison,Erison,F,180.0,Left,703,1089111,49.0,1999-04-13,2023-12-31,1981,2900000.0,BR,Brazil,2900000.0,EUR,https://api.sofascore.app/api/v1/player/1089111/image
+Renato Kayzer,renato-kayzer,Renato Kayzer,F,178.0,Right,253,814723,79.0,1996-02-17,2023-12-31,1973,1600000.0,BR,Brazil,1600000.0,EUR,https://api.sofascore.app/api/v1/player/814723/image
+Jhoanner Chávez,jhoanner-chavez,Jhoanner Chávez,D,182.0,Left,245,1002458,25.0,2002-04-24,2023-12-31,39723,2100000.0,EC,Ecuador,2100000.0,EUR,https://api.sofascore.app/api/v1/player/1002458/image
+Felipe Andrade,felipe-andrade,Felipe Andrade,D,182.0,Right,36,1502619,13.0,2002-05-29,,1961,,BR,Brazil,,EUR,https://api.sofascore.app/api/v1/player/1502619/image
+JP Galvão,jp-galvao,JP Galvão,M,184.0,Right,66,1105815,57.0,2001-05-07,,1958,,BR,Brazil,,EUR,https://api.sofascore.app/api/v1/player/1105815/image
+Réver,rever,Réver,D,192.0,Right,328,39421,4.0,1985-01-04,2023-12-31,1977,140000.0,BR,Brazil,140000.0,EUR,https://api.sofascore.app/api/v1/player/39421/image
+Camilo Cándido,camilo-candido,C. Cándido,D,174.0,Left,213,924073,38.0,1995-06-02,2025-07-31,1955,1400000.0,UY,Uruguay,1400000.0,EUR,https://api.sofascore.app/api/v1/player/924073/image
+Miranda,miranda,Miranda,D,182.0,Right,167,926868,35.0,2000-01-19,2023-12-31,1974,560000.0,BR,Brazil,560000.0,EUR,https://api.sofascore.app/api/v1/player/926868/image
+Thauan Lara,thauan-lara,Thauan Lara,D,176.0,Left,166,1116956,36.0,2004-01-22,2025-12-31,1966,935000.0,BR,Brazil,935000.0,EUR,https://api.sofascore.app/api/v1/player/1116956/image
+Matheus Cavichioli,matheus-cavichioli,M. Cavichioli,G,195.0,Right,230,243097,1.0,1986-07-27,2023-12-31,1973,160000.0,BR,Brazil,160000.0,EUR,https://api.sofascore.app/api/v1/player/243097/image
+Igor Formiga,igor-formiga,Igor Formiga,D,175.0,Right,61,1009030,33.0,1999-01-08,2027-06-30,3026,380000.0,BR,Brazil,380000.0,EUR,https://api.sofascore.app/api/v1/player/1009030/image
+Stênio,stenio,Stênio,F,180.0,Right,253,1046740,22.0,2003-04-05,2026-12-31,1954,1000000.0,BR,Brazil,1000000.0,EUR,https://api.sofascore.app/api/v1/player/1046740/image
+Igor,igor,Igor,M,,Right,180,1128846,48.0,2003-03-07,,5981,,BR,Brazil,,EUR,https://api.sofascore.app/api/v1/player/1128846/image
+Éder Ferreira,eder-ferreira,Éder Ferreira,D,184.0,Right,106,842072,33.0,1995-04-06,2024-12-31,1973,1100000.0,BR,Brazil,1100000.0,EUR,https://api.sofascore.app/api/v1/player/842072/image
+Arthur Sales,arthur-sales,A. Sales,F,184.0,Left,204,1105780,19.0,2002-07-03,2026-06-30,5046,875000.0,BR,Brazil,875000.0,EUR,https://api.sofascore.app/api/v1/player/1105780/image
+Breno Cascardo,breno-cascardo,Breno Cascardo,M,183.0,Right,71,1469514,28.0,2003-09-25,2025-12-31,1973,580000.0,BR,Brazil,580000.0,EUR,https://api.sofascore.app/api/v1/player/1469514/image
+Jailson,jailson,Jailson,M,187.0,Right,418,794861,30.0,1995-09-07,2023-12-31,1963,1500000.0,BR,Brazil,1500000.0,EUR,https://api.sofascore.app/api/v1/player/794861/image
+Weslley Patati,weslley-patati,W. Patati,F,167.0,Right,243,1148468,43.0,2003-02-11,2024-12-31,199299,1100000.0,BR,Brazil,1100000.0,EUR,https://api.sofascore.app/api/v1/player/1148468/image
+Alerrandro,alerrandro,Alerrandro,F,176.0,Right,305,923948,9.0,2000-01-12,2026-12-31,1999,4099999.0,BR,Brazil,4099999.0,EUR,https://api.sofascore.app/api/v1/player/923948/image
+Lucas Braga,lucas-braga,L. Braga,M,184.0,Right,352,934801,30.0,1996-11-10,2026-04-30,1968,1600000.0,BR,Brazil,1600000.0,EUR,https://api.sofascore.app/api/v1/player/934801/image
+Javier Méndez,javier-mendez,J. Méndez,M,184.0,Right,44,924858,23.0,1994-12-05,2024-12-31,1973,450000.0,UY,Uruguay,450000.0,EUR,https://api.sofascore.app/api/v1/player/924858/image
+Carlos Eduardo,eduardo-carlos,C. Eduardo,F,180.0,,54,1199473,42.0,2004-05-24,,1977,,BR,Brazil,,EUR,https://api.sofascore.app/api/v1/player/1199473/image
+Lucas Piazón,lucas-piazon,L. Piazón,M,182.0,Right,447,156025,43.0,1994-01-20,2025-06-30,2999,1500000.0,BR,Brazil,1500000.0,EUR,https://api.sofascore.app/api/v1/player/156025/image
+Mateo Ponte,mateo-ponte,Mateo Ponte,D,183.0,Right,308,1099163,4.0,2003-05-24,2026-12-31,1958,935000.0,UY,Uruguay,935000.0,EUR,https://api.sofascore.app/api/v1/player/1099163/image
+Darlan,darlan,Darlan,M,169.0,Right,137,973924,37.0,1998-04-16,2026-06-30,3273,1200000.0,BR,Brazil,1200000.0,EUR,https://api.sofascore.app/api/v1/player/973924/image
+Lian,lian,Lian,F,,,29,1495875,38.0,2005-09-20,,5926,,BR,Brazil,,EUR,https://api.sofascore.app/api/v1/player/1495875/image
+Matheus Belém,matheus-belem,Matheus Belém,D,186.0,Left,119,1466551,44.0,2003-03-13,2024-01-31,1981,215000.0,BR,Brazil,215000.0,EUR,https://api.sofascore.app/api/v1/player/1466551/image
+Natã,nata,Natã,D,180.0,Right,71,1175603,36.0,2001-06-05,2023-12-31,5926,420000.0,BR,Brazil,420000.0,EUR,https://api.sofascore.app/api/v1/player/1175603/image
+Pedro Junqueira,pedro-junqueira,Pedro Junqueira,F,182.0,Right,40,1217904,17.0,2004-03-23,2027-12-31,1960,540000.0,BR,Brazil,540000.0,EUR,https://api.sofascore.app/api/v1/player/1217904/image
+Lucas Emmanuel,emmanuel-lucas,L. Emmanuel,F,185.0,Left,14,1106773,,2001-06-07,,241802,105000.0,BR,Brazil,105000.0,EUR,https://api.sofascore.app/api/v1/player/1106773/image
+Higor Meritão,higor-meritao,H. Meritão,M,186.0,Left,70,973845,8.0,1994-06-23,2024-12-31,1960,1500000.0,BR,Brazil,1500000.0,EUR,https://api.sofascore.app/api/v1/player/973845/image
+Dodô,dodo,Dodô,D,177.0,Left,381,108481,16.0,1992-02-06,2025-12-31,1968,765000.0,BR,Brazil,765000.0,EUR,https://api.sofascore.app/api/v1/player/108481/image
+Marcinho,marcinho,Marcinho,D,178.0,Right,145,840148,25.0,1996-05-16,2023-12-31,1973,650000.0,BR,Brazil,650000.0,EUR,https://api.sofascore.app/api/v1/player/840148/image
+Gabriel Barros,barros-gabriel,G. Barros,F,182.0,Left,159,1020259,42.0,2001-10-25,2027-12-31,1966,195000.0,BR,Brazil,195000.0,EUR,https://api.sofascore.app/api/v1/player/1020259/image
+Tobias Figueiredo,tobias-figueiredo,T. Figueiredo,D,188.0,Right,150,96999,3.0,1994-02-02,2026-06-30,2020,1400000.0,PT,Portugal,1400000.0,EUR,https://api.sofascore.app/api/v1/player/96999/image
+Rodrigo,rodrigo,Rodrigo,M,176.0,Right,119,1105849,5.0,2002-06-04,2025-12-31,1974,1500000.0,BR,Brazil,1500000.0,EUR,https://api.sofascore.app/api/v1/player/1105849/image
+Diego Gonçalves,diego-goncalves,Diego Gonçalves,F,181.0,Right,67,344077,11.0,1994-07-22,2023-12-31,1960,550000.0,BR,Brazil,550000.0,EUR,https://api.sofascore.app/api/v1/player/344077/image
+Rodriguinho,rodriguinho,Rodriguinho,M,185.0,Right,385,1200730,18.0,2004-03-16,2026-12-31,1981,2600000.0,BR,Brazil,2600000.0,EUR,https://api.sofascore.app/api/v1/player/1200730/image
+Gabriel Pirani,gabriel-pirani,Gabriel Pirani,M,170.0,Right,517,1065962,10.0,2002-04-12,2023-12-31,2502,3300000.0,BR,Brazil,3300000.0,EUR,https://api.sofascore.app/api/v1/player/1065962/image
+Mateus Gonçalves,mateus-goncalves,M. Gonçalves,F,172.0,Right,65,787480,11.0,1994-09-28,2024-12-31,1962,415000.0,BR,Brazil,415000.0,EUR,https://api.sofascore.app/api/v1/player/787480/image
+João Basso,joao-basso,J. Basso,D,189.0,Right,197,850955,2.0,1997-01-13,2026-12-31,1968,1400000.0,BR,Brazil,1400000.0,EUR,https://api.sofascore.app/api/v1/player/850955/image
+Lucas Mugni,lucas-mugni,L. Mugni,M,184.0,Left,102,249881,19.0,1992-01-12,2023-12-31,1955,280000.0,AR,Argentina,280000.0,EUR,https://api.sofascore.app/api/v1/player/249881/image
+Marcos Vinícius,marcos-vinicius,M. Vinícius,D,175.0,Right,18,942054,22.0,1997-03-26,,135324,190000.0,BR,Brazil,190000.0,EUR,https://api.sofascore.app/api/v1/player/942054/image
+Uendel,uendel,Uendel,D,179.0,Left,94,123357,6.0,1988-08-10,2023-12-31,49202,275000.0,BR,Brazil,275000.0,EUR,https://api.sofascore.app/api/v1/player/123357/image
+William Pottker,william-pottker,William Pottker,F,181.0,Left,198,243501,10.0,1993-12-22,2025-12-31,7315,1000000.0,BR,Brazil,1000000.0,EUR,https://api.sofascore.app/api/v1/player/243501/image
+Andreas Samaris,andreas-samaris,A. Samaris,M,189.0,Right,519,108398,,1989-06-13,,1982,195000.0,GR,Greece,195000.0,EUR,https://api.sofascore.app/api/v1/player/108398/image
+Zinho Hoffmann,zinho-hoffmann,Z. Hoffmann,M,177.0,Right,137,1385003,99.0,2003-05-09,2024-06-30,3026,680000.0,BR,Brazil,680000.0,EUR,https://api.sofascore.app/api/v1/player/1385003/image
+Japa,japa,Japa,M,,,64,1466777,77.0,2004-01-02,,1954,,BR,Brazil,,EUR,https://api.sofascore.app/api/v1/player/1466777/image
+Lucão,lucao,Lucão,G,190.0,Both,163,981586,40.0,2001-02-26,2026-12-31,1999,1600000.0,BR,Brazil,1600000.0,EUR,https://api.sofascore.app/api/v1/player/981586/image
+Luan Polli,luan-polli,Luan Polli,G,189.0,Right,86,880117,27.0,1993-04-06,2024-12-31,1982,390000.0,BR,Brazil,390000.0,EUR,https://api.sofascore.app/api/v1/player/880117/image
+Jean Pedroso,jean-pedroso,Jean Pedroso,D,191.0,Both,285,1462756,47.0,2004-01-28,2026-12-31,1982,1100000.0,BR,Brazil,1100000.0,EUR,https://api.sofascore.app/api/v1/player/1462756/image
+William,william,William,F,,Left,188,1604944,39.0,2006-03-15,,1981,,BR,Brazil,,EUR,https://api.sofascore.app/api/v1/player/1604944/image
+Gustavo Garcia,gustavo-garcia,G. Garcia,D,175.0,Right,425,1002443,32.0,2002-01-04,2027-12-31,1963,1600000.0,BR,Brazil,1600000.0,EUR,https://api.sofascore.app/api/v1/player/1002443/image
+Fabián Balbuena,fabian-balbuena,Fabián Balbuena,D,188.0,Right,910,339447,3.0,1991-08-23,2025-06-30,2315,2700000.0,PY,Paraguay,2700000.0,EUR,https://api.sofascore.app/api/v1/player/339447/image
+Thiago Dombroski,thiago-dombroski,T. Dombroski,D,190.0,Left,27,1134106,55.0,2002-06-20,2026-12-31,1982,140000.0,BR,Brazil,140000.0,EUR,https://api.sofascore.app/api/v1/player/1134106/image
+Nahuel Ferraresi,nahuel-ferraresi,Nahuel Ferraresi,D,188.0,Right,930,881215,3.0,1998-11-19,2023-12-31,1981,1400000.0,VE,Venezuela,1400000.0,EUR,https://api.sofascore.app/api/v1/player/881215/image
+Ivonei,ivonei,Ivonei,M,178.0,Right,188,988780,18.0,2002-04-16,2023-12-10,1979,840000.0,BR,Brazil,840000.0,EUR,https://api.sofascore.app/api/v1/player/988780/image
+Paulo Victor,paulo-victor,P. Victor,D,180.0,Left,128,1108505,21.0,2001-04-13,2024-12-31,1966,1700000.0,BR,Brazil,1700000.0,EUR,https://api.sofascore.app/api/v1/player/1108505/image
+Lucas Cunha,lucas-cunha,L. Cunha,D,186.0,Right,78,794139,20.0,1997-01-23,2026-12-31,1999,2400000.0,BR,Brazil,2400000.0,EUR,https://api.sofascore.app/api/v1/player/794139/image
+Fredy Noguera,fredy-noguera,F. Noguera,F,183.0,,68,1382425,59.0,2004-01-09,,199298,,PY,Paraguay,,EUR,https://api.sofascore.app/api/v1/player/1382425/image
+Cadu,cadu,Cadu,D,170.0,Right,38,989462,40.0,2002-02-21,2024-12-31,1968,105000.0,BR,Brazil,105000.0,EUR,https://api.sofascore.app/api/v1/player/989462/image
+Wesley Pombo,wesley-pombo,W. Pombo,M,175.0,Right,37,1106143,11.0,2002-06-02,2024-12-31,1982,390000.0,BR,Brazil,390000.0,EUR,https://api.sofascore.app/api/v1/player/1106143/image
+Vitão,vitao,Vitão,D,194.0,Right,18,1467772,3.0,2000-09-17,,49202,,BR,Brazil,,EUR,https://api.sofascore.app/api/v1/player/1467772/image
+Denzel Damasceno,denzel-damasceno,D. Damasceno,F,,,4,1382233,49.0,2003-01-20,,1960,,BR,Brazil,,EUR,https://api.sofascore.app/api/v1/player/1382233/image
+Washington Aguerre,washington-aguerre,W. Aguerre,G,187.0,Right,82,311402,93.0,1993-04-23,2023-12-31,1973,765000.0,UY,Uruguay,765000.0,EUR,https://api.sofascore.app/api/v1/player/311402/image
+Pedro Rangel,pedro-rangel,Pedro Rangel,G,,,71,1092614,22.0,2000-06-29,,1961,,BR,Brazil,,EUR,https://api.sofascore.app/api/v1/player/1092614/image
+Guillermo Varela,guillermo-varela,G. Varela,D,171.0,Right,1194,311456,2.0,1993-03-24,2025-12-31,5981,2100000.0,UY,Uruguay,2100000.0,EUR,https://api.sofascore.app/api/v1/player/311456/image
+Junior Caiçara,junior-caicara,J. Caiçara,D,173.0,Right,140,128440,80.0,1989-04-27,2023-12-03,1968,240000.0,BR,Brazil,240000.0,EUR,https://api.sofascore.app/api/v1/player/128440/image
+Zé Vitor,ze-vitor,Zé Vitor,D,192.0,Left,87,1174625,44.0,2002-06-10,2026-12-31,1974,230000.0,BR,Brazil,230000.0,EUR,https://api.sofascore.app/api/v1/player/1174625/image
+Reynaldo,reynaldo,Reynaldo,D,186.0,Left,110,877470,4.0,1997-01-03,2025-12-31,1982,1100000.0,BR,Brazil,1100000.0,EUR,https://api.sofascore.app/api/v1/player/877470/image
+Bruno Peres,bruno-peres,B. Peres,D,178.0,Right,328,243175,33.0,1990-03-01,2023-12-31,1967,970000.0,BR,Brazil,970000.0,EUR,https://api.sofascore.app/api/v1/player/243175/image
+Gustavinho,gustavinho,Gustavinho,M,174.0,Left,102,1047852,17.0,2001-10-29,2023-12-31,5926,730000.0,BR,Brazil,730000.0,EUR,https://api.sofascore.app/api/v1/player/1047852/image
+Diego Hernández,diego-hernandez,Diego Hernández,M,175.0,Left,319,1086482,77.0,2000-06-22,2026-12-31,1958,1900000.0,UY,Uruguay,1900000.0,EUR,https://api.sofascore.app/api/v1/player/1086482/image
+Luis Segovia,luis-segovia,Luis Segovia,D,182.0,Left,229,827141,2.0,1997-10-26,2024-06-30,204219,1600000.0,EC,Ecuador,1600000.0,EUR,https://api.sofascore.app/api/v1/player/827141/image
+Pedro Rocha,pedro-rocha,Pedro Rocha,M,178.0,Right,321,794930,32.0,1994-10-01,2024-12-31,2020,1500000.0,BR,Brazil,1500000.0,EUR,https://api.sofascore.app/api/v1/player/794930/image
+Vinicius Balieiro,vinicius-balieiro,V. Balieiro,M,177.0,Right,139,1065976,18.0,1999-05-28,2025-12-31,1968,875000.0,BR,Brazil,875000.0,EUR,https://api.sofascore.app/api/v1/player/1065976/image
+Matheusinho,matheusinho,Matheusinho,M,174.0,Left,19,923853,18.0,1998-07-29,2023-12-31,21982,110000.0,BR,Brazil,110000.0,EUR,https://api.sofascore.app/api/v1/player/923853/image
+Gabriel Novaes,gabriel-novaes,G. Novaes,F,182.0,Both,98,882854,99.0,1999-04-05,2023-12-31,1960,1500000.0,BR,Brazil,1500000.0,EUR,https://api.sofascore.app/api/v1/player/882854/image
+Helibelton Palacios,helibelton-palacios,Helibelton Palacios,D,181.0,Right,394,329597,24.0,1993-06-09,2025-12-31,1954,1100000.0,CO,Colombia,1100000.0,EUR,https://api.sofascore.app/api/v1/player/329597/image
+Pedro Vilhena,pedro-vilhena,P. Vilhena,M,175.0,Right,181,1009937,47.0,2002-02-18,2024-07-31,1981,245000.0,BR,Brazil,245000.0,EUR,https://api.sofascore.app/api/v1/player/1009937/image
+Felipe Negrucci,felipe-negrucci,F. Negrucci,M,180.0,,71,1485598,46.0,2004-05-14,,1981,,BR,Brazil,,EUR,https://api.sofascore.app/api/v1/player/1485598/image
+Ian Custódio,ian-custodio,I. Custódio,D,180.0,Left,57,1174943,36.0,2003-04-16,2025-12-31,199339,,BR,Brazil,,EUR,https://api.sofascore.app/api/v1/player/1174943/image
+Breno,breno,Breno,M,177.0,Right,52,992610,35.0,2000-09-01,2023-12-31,2001,955000.0,BR,Brazil,955000.0,EUR,https://api.sofascore.app/api/v1/player/992610/image
+Vilar,vilar,Vilar,D,189.0,Right,41,1177012,28.0,2000-04-18,,135324,260000.0,BR,Brazil,260000.0,EUR,https://api.sofascore.app/api/v1/player/1177012/image
+Chiqueti,chiqueti,Chiqueti,M,176.0,,33,1485199,54.0,2005-09-02,,1967,,BR,Brazil,,EUR,https://api.sofascore.app/api/v1/player/1485199/image
+Esteban Burgos,esteban-burgos,E. Burgos,D,188.0,Right,79,594426,26.0,1992-01-09,2024-06-30,1973,680000.0,AR,Argentina,680000.0,EUR,https://api.sofascore.app/api/v1/player/594426/image
+João Carlos,joao-carlos,J. Carlos,G,190.0,Right,63,795227,21.0,1988-04-06,2023-12-31,49202,96000.0,BR,Brazil,96000.0,EUR,https://api.sofascore.app/api/v1/player/795227/image
+Pedrinho,pedrinho,Pedrinho,F,,,57,1412577,44.0,,,5981,,,,,EUR,https://api.sofascore.app/api/v1/player/1412577/image
+Marcelo Rangel,marcelo-rangel,M. Rangel,G,186.0,Right,44,870902,88.0,1988-05-17,2023-12-31,1960,155000.0,BR,Brazil,155000.0,EUR,https://api.sofascore.app/api/v1/player/870902/image
+Paulinho,paulinho,Paulinho,D,172.0,Right,54,1464309,18.0,2005-05-23,2025-06-30,203050,455000.0,BR,Brazil,455000.0,EUR,https://api.sofascore.app/api/v1/player/1464309/image
+Mateus Claus,mateus-claus,M. Claus,G,194.0,Right,54,974334,77.0,1994-08-03,2023-12-31,1955,680000.0,BR,Brazil,680000.0,EUR,https://api.sofascore.app/api/v1/player/974334/image
+Vinicius Kauê,vinicius-kaue,Vinicius Kauê,D,181.0,Left,39,1116334,21.0,2003-03-01,2024-12-31,188413,435000.0,BR,Brazil,435000.0,EUR,https://api.sofascore.app/api/v1/player/1116334/image
+Du Queiroz,du-queiroz,Du Queiroz,M,172.0,Right,665,1128129,37.0,2000-01-07,2028-06-30,2321,4600000.0,BR,Brazil,4600000.0,EUR,https://api.sofascore.app/api/v1/player/1128129/image
+Vladimir,vladimir,Vladimir,G,191.0,Right,101,124996,1.0,1989-07-16,2025-12-31,1968,180000.0,BR,Brazil,180000.0,EUR,https://api.sofascore.app/api/v1/player/124996/image
+Arthur,arthur,Arthur,D,173.0,Right,768,1174761,13.0,2003-03-17,2028-06-30,2681,4600000.0,BR,Brazil,4600000.0,EUR,https://api.sofascore.app/api/v1/player/1174761/image
+Wesley Costa,wesley-costa,Wesley Costa,D,,Left,27,1500368,51.0,2004-01-04,,199298,97000.0,BR,Brazil,97000.0,EUR,https://api.sofascore.app/api/v1/player/1500368/image
+Kauan,kauan,Kauan,M,174.0,Right,14,1469769,37.0,2005-04-16,2028-05-03,238164,97000.0,BR,Brazil,97000.0,EUR,https://api.sofascore.app/api/v1/player/1469769/image
+João Dalla Corte,joao-dalla-corte,J. D. Corte,D,178.0,Left,45,1482362,,2006-06-07,,241802,,BR,Brazil,,EUR,https://api.sofascore.app/api/v1/player/1482362/image
+Gabriel Mesquita,gabriel-mesquita,G. Mesquita,G,197.0,Right,71,984887,91.0,1998-09-14,2023-12-31,1954,410000.0,BR,Brazil,410000.0,EUR,https://api.sofascore.app/api/v1/player/984887/image
+Júnior Moraes,junior-moraes,Júnior Moraes,F,176.0,Right,522,108426,,1987-04-04,,241802,210000.0,UA,Ukraine,210000.0,EUR,https://api.sofascore.app/api/v1/player/108426/image
+Lucas Ramos,lucas-ramos,L. Ramos,M,173.0,Right,111,990170,15.0,2001-01-03,2025-12-31,1966,1000000.0,BR,Brazil,1000000.0,EUR,https://api.sofascore.app/api/v1/player/990170/image
+Luiz Felipe,luiz-felipe,Luiz Felipe,D,187.0,Right,110,831993,3.0,1993-09-09,2023-12-31,7314,850000.0,BR,Brazil,850000.0,EUR,https://api.sofascore.app/api/v1/player/831993/image
+Raí,rai,Raí,M,171.0,Left,103,1175321,75.0,2002-04-21,2025-06-30,1958,91000.0,BR,Brazil,91000.0,EUR,https://api.sofascore.app/api/v1/player/1175321/image
+Bryan García,bryan-garcia,B. García,M,175.0,Right,75,1065584,20.0,2001-01-18,,39723,430000.0,EC,Ecuador,430000.0,EUR,https://api.sofascore.app/api/v1/player/1065584/image
+Talles Wander,talles-wander,T. Wander,F,176.0,Right,75,1485604,26.0,2003-10-24,,1981,,BR,Brazil,,EUR,https://api.sofascore.app/api/v1/player/1485604/image
+Patrick Verhon,patrick-verhon,Patrick Verhon,M,174.0,Right,35,1392679,23.0,2004-09-08,2024-12-31,1955,435000.0,BR,Brazil,435000.0,EUR,https://api.sofascore.app/api/v1/player/1392679/image
+Rafael Monteiro Reis,reis-rafael-monteiro,R. Monteiro,D,,Left,27,1485293,47.0,2004-02-14,,1961,,BR,Brazil,,EUR,https://api.sofascore.app/api/v1/player/1485293/image
+Daniel Martins,daniel-martins,D. Martins,M,,,12,1046433,87.0,2002-06-28,,1967,,,,,EUR,https://api.sofascore.app/api/v1/player/1046433/image

@@ -1,0 +1,546 @@
+name,slug,shortName,position,height,preferredFoot,userCount,player.id,shirtNumber,dateOfBirth,contractUntil,team.id,proposedMarketValue,country.alpha2,country.name,proposedMarketValueRaw.value,proposedMarketValueRaw.currency,player.image
+Gustavo Salvatierra,gustavo-salvatierra,G. Salvatierra,G,188.0,Left,1,890061,12.0,1992-05-24,,47700,82000.0,BO,Bolivia,82000.0,EUR,https://api.sofascore.app/api/v1/player/890061/image
+Bruno Sávio,bruno-savio,B. Sávio,M,184.0,Right,879,840066,10.0,1994-08-01,,7059,645000.0,BR,Brazil,645000.0,EUR,https://api.sofascore.app/api/v1/player/840066/image
+Roler Ferrufino,roler-ferrufino,R. Ferrufino,F,,,1,989584,20.0,2000-10-10,,468587,,BO,Bolivia,,EUR,https://api.sofascore.app/api/v1/player/989584/image
+Daniel Sandy,daniel-sandy,D. Sandy,G,184.0,Right,4,989573,,2001-10-22,,286991,82000.0,BO,Bolivia,82000.0,EUR,https://api.sofascore.app/api/v1/player/989573/image
+Rafael Allan Mollercke,mollercke-rafael-allan,R. A. Mollercke,M,174.0,Right,29,1476548,15.0,1991-12-20,2023-12-31,6968,515000.0,BR,Brazil,515000.0,EUR,https://api.sofascore.app/api/v1/player/1476548/image
+Lucas Salinas,lucas-salinas,L. Salinas,G,,,0,1184211,12.0,2001-04-10,,7878,46000.0,BO,Bolivia,46000.0,EUR,https://api.sofascore.app/api/v1/player/1184211/image
+Matías Pisano,matias-pisano,M. Pisano,M,166.0,Left,37,579384,10.0,1991-12-13,2023-12-31,3214,435000.0,AR,Argentina,435000.0,EUR,https://api.sofascore.app/api/v1/player/579384/image
+Dorny Romero,dorny-romero,D. Romero,F,173.0,,150,1099312,17.0,1998-01-24,,268083,935000.0,DO,Dominican Republic,935000.0,EUR,https://api.sofascore.app/api/v1/player/1099312/image
+Martín Prost,martin-prost,M. Prost,F,175.0,,78,897007,20.0,1988-07-11,,47700,265000.0,AR,Argentina,265000.0,EUR,https://api.sofascore.app/api/v1/player/897007/image
+Roy Ndoutoumo,ndoutoumo-roy,R. Ndoutoumo,M,180.0,Right,19,1184178,18.0,1994-10-16,,35888,285000.0,GA,Gabon,285000.0,EUR,https://api.sofascore.app/api/v1/player/1184178/image
+Raúl Castro,raul-castro,R. Castro,M,181.0,Right,4,386274,10.0,1989-08-19,,268082,220000.0,BO,Bolivia,220000.0,EUR,https://api.sofascore.app/api/v1/player/386274/image
+Enrique Triverio,enrique-triverio,E. Triverio,F,184.0,Right,197,340419,11.0,1988-12-31,2023-12-31,32529,455000.0,AR,Argentina,455000.0,EUR,https://api.sofascore.app/api/v1/player/340419/image
+Carlos Mosquera,carlos-mosquera,C. Mosquera,G,191.0,Right,18,894214,1.0,1994-10-19,,89156,365000.0,CO,Colombia,365000.0,EUR,https://api.sofascore.app/api/v1/player/894214/image
+Maximiliano Ezequiel Nunez,nunez-maximiliano-ezequiel,M. Núñez,F,169.0,Right,14,38406,10.0,1986-09-17,2023-12-31,47700,135000.0,AR,Argentina,135000.0,EUR,https://api.sofascore.app/api/v1/player/38406/image
+Hugo Dorrego,hugo-dorrego,H. Dorrego,M,174.0,Right,29,311400,21.0,1993-05-09,,33820,630000.0,UY,Uruguay,630000.0,EUR,https://api.sofascore.app/api/v1/player/311400/image
+Ronnie Fernández,ronnie-fernandez,R. Fernández,F,183.0,Right,316,805150,9.0,1991-01-30,2024-12-31,7059,470000.0,CL,Chile,470000.0,EUR,https://api.sofascore.app/api/v1/player/805150/image
+Julio Herrera,julio-herrera,J. Herrera,M,173.0,Right,14,931426,7.0,1999-02-11,,268083,730000.0,BO,Bolivia,730000.0,EUR,https://api.sofascore.app/api/v1/player/931426/image
+Saulo Guerra,saulo-guerra,S. Guerra,M,174.0,Right,5,868702,17.0,1992-09-14,2023-12-31,47700,315000.0,BO,Bolivia,315000.0,EUR,https://api.sofascore.app/api/v1/player/868702/image
+Ramiro Vaca,ramiro-vaca,R. Vaca,M,177.0,Right,173,876307,11.0,1999-07-01,,7059,630000.0,BO,Bolivia,630000.0,EUR,https://api.sofascore.app/api/v1/player/876307/image
+Michael Ortega,michael-ortega,M. Ortega,M,170.0,Right,71,72872,10.0,1991-04-06,2023-12-31,32529,435000.0,CO,Colombia,435000.0,EUR,https://api.sofascore.app/api/v1/player/72872/image
+Tommy Tobar,tommy-tobar,T. Tobar,F,183.0,Right,38,815461,9.0,1986-11-21,,47700,260000.0,CO,Colombia,260000.0,EUR,https://api.sofascore.app/api/v1/player/815461/image
+Esteban Orfano,esteban-orfano,E. G. Orfano,M,172.0,Right,6,223728,30.0,1992-01-13,,273544,335000.0,AR,Argentina,335000.0,EUR,https://api.sofascore.app/api/v1/player/223728/image
+Joel Amoroso,joel-amoroso,J. Amoroso,M,185.0,Right,12,789878,7.0,1988-01-08,,273544,240000.0,AR,Argentina,240000.0,EUR,https://api.sofascore.app/api/v1/player/789878/image
+Julián Velázquez,julian-velazquez,J. Velázquez,D,184.0,Right,14,122667,2.0,1990-10-23,,7878,210000.0,AR,Argentina,210000.0,EUR,https://api.sofascore.app/api/v1/player/122667/image
+Thomaz,thomaz,T. Santos,F,177.0,Right,37,846524,10.0,1986-05-02,2023-12-31,372975,97000.0,BR,Brazil,97000.0,EUR,https://api.sofascore.app/api/v1/player/846524/image
+Arnaldo Giménez,arnaldo-gimenez,A. Giménez,G,195.0,Left,16,870493,13.0,1987-03-09,,7878,190000.0,PY,Paraguay,190000.0,EUR,https://api.sofascore.app/api/v1/player/870493/image
+José Vargas,jose-vargas,J. Vargas,M,182.0,Right,4,1468327,14.0,,,321264,,,,,EUR,https://api.sofascore.app/api/v1/player/1468327/image
+Jair Reinoso,jair-reinoso,J. Reinoso,F,182.0,Right,62,839459,18.0,1985-06-07,2023-12-31,33714,97000.0,BO,Bolivia,97000.0,EUR,https://api.sofascore.app/api/v1/player/839459/image
+Diego Cuadros,diego-cuadros,D. Cuadros,M,170.0,Left,14,819655,7.0,1996-05-28,,327910,440000.0,CO,Colombia,440000.0,EUR,https://api.sofascore.app/api/v1/player/819655/image
+Adalid Terrazas,adalid-terrazas,A. Terrazas,M,175.0,Right,12,1000182,10.0,2000-08-25,,268083,760000.0,BO,Bolivia,760000.0,EUR,https://api.sofascore.app/api/v1/player/1000182/image
+Francisco Da Costa,francisco-da-costa,F. D. Costa,F,184.0,Right,149,866847,19.0,1995-05-05,2026-12-31,7059,875000.0,BR,Brazil,875000.0,EUR,https://api.sofascore.app/api/v1/player/866847/image
+Leandro Corulo,leandro-corulo,L. Corulo,D,187.0,Right,4,340857,5.0,1989-06-02,2023-12-31,335685,190000.0,AR,Argentina,190000.0,EUR,https://api.sofascore.app/api/v1/player/340857/image
+Jeyson Chura,jeyson-chura,J. Chura,M,175.0,Right,65,1017472,23.0,2002-02-03,,32529,705000.0,BO,Bolivia,705000.0,EUR,https://api.sofascore.app/api/v1/player/1017472/image
+Leonel López,leonel-lopez,L. López,M,173.0,Right,69,590260,29.0,1994-05-24,,32529,1400000.0,MX,Mexico,1400000.0,EUR,https://api.sofascore.app/api/v1/player/590260/image
+Raúl Olivares,raul-olivares,R. Olivares,G,185.0,Right,33,34430,1.0,1988-04-17,,268082,97000.0,CL,Chile,97000.0,EUR,https://api.sofascore.app/api/v1/player/34430/image
+Edarlyn Reyes,edarlyn-reyes,E. Reyes,M,180.0,Left,46,1099313,11.0,1997-09-30,,305260,560000.0,DO,Dominican Republic,560000.0,EUR,https://api.sofascore.app/api/v1/player/1099313/image
+Sebastián Ibars,sebastian-ibars,S. Ibars,D,190.0,Right,1,944708,29.0,1986-06-04,,372975,190000.0,AR,Argentina,190000.0,EUR,https://api.sofascore.app/api/v1/player/944708/image
+Serginho,serginho,Serginho,M,169.0,Right,17,866405,70.0,1984-12-19,,33714,,BR,Brazil,,EUR,https://api.sofascore.app/api/v1/player/866405/image
+Rodrigo Amaral,rodrigo-amaral,R. Amaral,M,176.0,Both,108,796451,22.0,1997-03-25,,7878,315000.0,UY,Uruguay,315000.0,EUR,https://api.sofascore.app/api/v1/player/796451/image
+Gastón Rodríguez,gaston-rodriguez,G. Rodríguez,F,186.0,Left,65,340125,9.0,1992-03-23,,6968,485000.0,UY,Uruguay,485000.0,EUR,https://api.sofascore.app/api/v1/player/340125/image
+José Martínez,jose-martinez,J. Martínez,M,175.0,Right,12,1017482,27.0,2002-09-18,,268083,430000.0,BO,Bolivia,430000.0,EUR,https://api.sofascore.app/api/v1/player/1017482/image
+Diego Méndez,diego-mendez,D. Méndez,G,185.0,Right,1,975065,13.0,1990-10-05,,273544,160000.0,BO,Bolivia,160000.0,EUR,https://api.sofascore.app/api/v1/player/975065/image
+Samuel Galindo,samuel-galindo,S. Galindo,M,190.0,Left,4,130098,10.0,1992-04-18,,335685,360000.0,BO,Bolivia,360000.0,EUR,https://api.sofascore.app/api/v1/player/130098/image
+Jonathan Canete,jonathan-canete,J. Canete,F,174.0,Right,5,358932,7.0,1996-07-12,,321264,630000.0,AR,Argentina,630000.0,EUR,https://api.sofascore.app/api/v1/player/358932/image
+Roberto Fernández,roberto-fernandez,R. Fernández,M,175.0,Left,105,986778,7.0,1999-07-12,2024-06-30,7517,1100000.0,BO,Bolivia,1100000.0,EUR,https://api.sofascore.app/api/v1/player/986778/image
+Matias Noble,matias-noble,M. Noble,M,182.0,Left,14,815133,21.0,1996-08-09,,335685,360000.0,AR,Argentina,360000.0,EUR,https://api.sofascore.app/api/v1/player/815133/image
+Fabián Pereira,fabian-pereira,F. Pereira,G,,,2,1503689,50.0,2006-05-16,,268083,,BO,Bolivia,,EUR,https://api.sofascore.app/api/v1/player/1503689/image
+Ariel Nahuelpán,ariel-nahuelpan,A. Nahuelpán,F,190.0,Left,74,77558,37.0,1987-10-15,,7878,365000.0,AR,Argentina,365000.0,EUR,https://api.sofascore.app/api/v1/player/77558/image
+Rodrigo Ramallo,rodrigo-ramallo,R. Ramallo,M,178.0,Right,16,163161,8.0,1990-10-14,,33714,320000.0,BO,Bolivia,320000.0,EUR,https://api.sofascore.app/api/v1/player/163161/image
+César García,cesar-garcia,C. García,D,186.0,Right,9,1184158,13.0,1993-03-13,,33820,410000.0,DO,Dominican Republic,410000.0,EUR,https://api.sofascore.app/api/v1/player/1184158/image
+Leonel Justiniano,leonel-justiniano,L. Justiniano,M,172.0,Right,30,220991,23.0,1992-07-02,,7059,515000.0,BO,Bolivia,515000.0,EUR,https://api.sofascore.app/api/v1/player/220991/image
+Miguel Mendoza,miguel-mendoza,M. Mendoza,F,,,3,1495665,32.0,1998-10-27,,423192,,,,,EUR,https://api.sofascore.app/api/v1/player/1495665/image
+Héctor Cuellar,hector-cuellar,H. Cuellar,D,180.0,,15,1495631,13.0,2000-08-16,,268083,620000.0,BO,Bolivia,620000.0,EUR,https://api.sofascore.app/api/v1/player/1495631/image
+Pablo Hervías,pablo-hervias,P. Hervías,M,174.0,Right,41,116952,7.0,1993-03-08,,7059,485000.0,ES,Spain,485000.0,EUR,https://api.sofascore.app/api/v1/player/116952/image
+Cristian Alvarez,cristian-alvarez,C. Alvarez,M,174.0,Right,21,250235,8.0,1992-09-28,,33820,460000.0,AR,Argentina,460000.0,EUR,https://api.sofascore.app/api/v1/player/250235/image
+Julio Vila,julio-vila,J. Vila,D,183.0,Left,1,1184221,2.0,1996-01-15,,268082,485000.0,AR,Argentina,485000.0,EUR,https://api.sofascore.app/api/v1/player/1184221/image
+Patricio Rodríguez,patricio-rodriguez,P. Rodríguez,F,172.0,Right,83,37952,17.0,1990-05-04,,7059,490000.0,AR,Argentina,490000.0,EUR,https://api.sofascore.app/api/v1/player/37952/image
+Rodrigo Orihuela,rodrigo-orihuela,R. Orihuela,M,170.0,Right,1,1017445,,2003-08-28,,241802,71000.0,BO,Bolivia,71000.0,EUR,https://api.sofascore.app/api/v1/player/1017445/image
+Sebastián Angulo,sebastian-angulo,S. Angulo,G,188.0,Left,5,1184187,1.0,1992-03-03,,335685,110000.0,CO,Colombia,110000.0,EUR,https://api.sofascore.app/api/v1/player/1184187/image
+José Herrera,jose-herrera,J. Herrera,M,181.0,,9,1017481,13.0,2003-03-09,,7059,96000.0,BO,Bolivia,96000.0,EUR,https://api.sofascore.app/api/v1/player/1017481/image
+Rudy Cardozo,rudy-cardozo,R. Cardozo,M,171.0,Left,8,64982,30.0,1990-02-14,,7878,160000.0,BO,Bolivia,160000.0,EUR,https://api.sofascore.app/api/v1/player/64982/image
+Gabriel Sotomayor,gabriel-sotomayor,G. Sotomayor,F,175.0,Right,11,974103,26.0,1999-07-02,2023-12-31,32529,485000.0,BO,Bolivia,485000.0,EUR,https://api.sofascore.app/api/v1/player/974103/image
+Wilson Quiñónez,wilson-quinonez,W. Quiñónez,G,184.0,Right,44,1184161,1.0,1988-09-04,2023-12-31,33820,425000.0,PY,Paraguay,425000.0,EUR,https://api.sofascore.app/api/v1/player/1184161/image
+Pedro Galindo,pedro-galindo,P. Galindo,G,176.0,Right,1,877531,23.0,1995-04-13,2023-12-31,335685,425000.0,BO,Bolivia,425000.0,EUR,https://api.sofascore.app/api/v1/player/877531/image
+Jair Torrico,jair-torrico,J. Torrico,M,174.0,Right,2,163181,10.0,1986-09-02,2023-12-31,33714,110000.0,BO,Bolivia,110000.0,EUR,https://api.sofascore.app/api/v1/player/163181/image
+Carlos Melgar,carlos-melgar,C. Melgar,M,172.0,Right,8,877535,70.0,1994-11-04,2023-12-31,273544,515000.0,BO,Bolivia,515000.0,EUR,https://api.sofascore.app/api/v1/player/877535/image
+Martín Alaníz,martin-alaniz,M. Alaníz,M,175.0,Left,17,339123,50.0,1993-02-19,2023-12-31,25009,435000.0,UY,Uruguay,435000.0,EUR,https://api.sofascore.app/api/v1/player/339123/image
+Luciano Ursino,luciano-ursino,L. Ursino,M,179.0,Right,40,589582,8.0,1988-10-31,,32529,390000.0,BO,Bolivia,390000.0,EUR,https://api.sofascore.app/api/v1/player/589582/image
+Gustavo Almada,gustavo-almada,G. Almada,G,182.0,,2,1418344,12.0,,,268082,,PY,Paraguay,,EUR,https://api.sofascore.app/api/v1/player/1418344/image
+David Robles,david-robles,D. Robles,D,186.0,Right,11,893078,24.0,1991-09-24,,268083,390000.0,PY,Paraguay,390000.0,EUR,https://api.sofascore.app/api/v1/player/893078/image
+Luis Maki Salces,luis-maki-salces,L. M. Salces,M,174.0,Right,3,897151,,1994-11-25,,241802,120000.0,AR,Argentina,120000.0,EUR,https://api.sofascore.app/api/v1/player/897151/image
+Jorge Correa,jorge-correa,J. Correa,F,170.0,Left,25,175097,20.0,1993-04-04,2024-06-30,25787,530000.0,AR,Argentina,530000.0,EUR,https://api.sofascore.app/api/v1/player/175097/image
+Oscar Vaca,oscar-vaca,O. Vaca,D,177.0,Left,1,886913,28.0,1988-10-30,,33714,81000.0,BO,Bolivia,81000.0,EUR,https://api.sofascore.app/api/v1/player/886913/image
+Gilbert Álvarez,gilbert-alvarez,G. Álvarez,F,187.0,Right,15,805363,19.0,1992-04-07,,47465,470000.0,BO,Bolivia,470000.0,EUR,https://api.sofascore.app/api/v1/player/805363/image
+Jairo Hestefano Jean,hestefano-jean-jairo,J. Jean,F,170.0,Right,317,1156453,18.0,1998-06-22,,268083,340000.0,HT,Haiti,340000.0,EUR,https://api.sofascore.app/api/v1/player/1156453/image
+Luis Banegas,luis-banegas,L. Banegas,G,184.0,Right,4,873729,1.0,1995-08-11,,32529,205000.0,BO,Bolivia,205000.0,EUR,https://api.sofascore.app/api/v1/player/873729/image
+Luis Torrico,luis-torrico,L. Torrico,D,181.0,Right,2,12435,2.0,1986-09-14,2023-12-31,47700,105000.0,BO,Bolivia,105000.0,EUR,https://api.sofascore.app/api/v1/player/12435/image
+Pedro Azogue,pedro-azogue,P. Azogue,M,176.0,Right,1,247125,22.0,1994-12-06,,335685,375000.0,BO,Bolivia,375000.0,EUR,https://api.sofascore.app/api/v1/player/247125/image
+Robson dos Santos,robson-dos-santos,R. d. Santos,D,180.0,Right,1,1102032,25.0,1992-09-28,,7878,285000.0,BR,Brazil,285000.0,EUR,https://api.sofascore.app/api/v1/player/1102032/image
+Guillermo Viscarra,guillermo-viscarra,G. Viscarra,G,190.0,Right,83,331437,13.0,1993-02-07,,32529,680000.0,BO,Bolivia,680000.0,EUR,https://api.sofascore.app/api/v1/player/331437/image
+Joaquín Lencinas,joaquin-lencinas,J. Lencinas,D,181.0,Right,9,345747,26.0,1988-05-11,,268082,155000.0,AR,Argentina,155000.0,EUR,https://api.sofascore.app/api/v1/player/345747/image
+Rubén Cordano Justiniano,ruben-cordano-justiniano,R. C. Justiniano,G,181.0,,18,846777,12.0,1998-10-16,,7059,,BO,Bolivia,,EUR,https://api.sofascore.app/api/v1/player/846777/image
+David Akologo,david-akologo,D. Akologo,G,180.0,,25,1184170,99.0,1997-11-15,,33714,94000.0,GH,Ghana,94000.0,EUR,https://api.sofascore.app/api/v1/player/1184170/image
+Carlos Lampe,carlos-lampe,C. Lampe,G,192.0,Right,218,47452,1.0,1987-03-17,2024-12-31,7059,315000.0,BO,Bolivia,315000.0,EUR,https://api.sofascore.app/api/v1/player/47452/image
+Alejandro Chumacero,alejandro-chumacero,A. Chumacero,M,164.0,Right,66,162707,3.0,1991-04-22,,7878,290000.0,BO,Bolivia,290000.0,EUR,https://api.sofascore.app/api/v1/player/162707/image
+Celin Padilla,celin-padilla,C. Padilla,D,175.0,Left,1,1495609,24.0,2004-04-13,,273544,26000.0,BO,Bolivia,26000.0,EUR,https://api.sofascore.app/api/v1/player/1495609/image
+Gabriel Esparza,gabriel-esparza,G. Esparza,M,168.0,Left,15,1085228,34.0,1993-01-30,,7878,410000.0,AR,Argentina,410000.0,EUR,https://api.sofascore.app/api/v1/player/1085228/image
+Rafinha,rafinha,Rafinha,F,164.0,Right,49,329269,91.0,1993-04-01,,268082,97000.0,BR,Brazil,97000.0,EUR,https://api.sofascore.app/api/v1/player/329269/image
+Gustavo Cristaldo,gustavo-cristaldo,G. Cristaldo,M,170.0,Left,22,75655,19.0,1989-05-31,,47700,265000.0,PY,Paraguay,265000.0,EUR,https://api.sofascore.app/api/v1/player/75655/image
+Juan Adrián,juan-adrian,J. Adrián,M,165.0,,5,1008535,29.0,1996-03-08,,321264,655000.0,BO,Bolivia,655000.0,EUR,https://api.sofascore.app/api/v1/player/1008535/image
+Jonata Machado,jonata-machado,J. Felipe,M,183.0,Both,12,927215,8.0,1999-07-06,,7878,390000.0,BR,Brazil,390000.0,EUR,https://api.sofascore.app/api/v1/player/927215/image
+Limberg Gutierrez Mojica,limberg-gutierrez-mojica,L. G. Mojica,M,178.0,Left,1,876306,20.0,1998-06-18,,327860,155000.0,BO,Bolivia,155000.0,EUR,https://api.sofascore.app/api/v1/player/876306/image
+Víctor Cuellar,victor-cuellar,V. Cuellar,M,183.0,Right,2,1108509,26.0,2000-09-23,,47700,180000.0,BO,Bolivia,180000.0,EUR,https://api.sofascore.app/api/v1/player/1108509/image
+Oscar Valda,oscar-valda,O. Valda,F,,,2,1495670,50.0,2003-04-25,,372975,,,,,EUR,https://api.sofascore.app/api/v1/player/1495670/image
+Nicolás Ferreyra,nicolas-ferreyra,N. Ferreyra,D,193.0,Right,38,340839,22.0,1993-03-30,2023-12-31,7059,520000.0,AR,Argentina,520000.0,EUR,https://api.sofascore.app/api/v1/player/340839/image
+Diego Corpus,diego-corpus,D. Corpus,D,171.0,Right,3,1184177,27.0,2003-09-07,,32529,180000.0,BO,Bolivia,180000.0,EUR,https://api.sofascore.app/api/v1/player/1184177/image
+Ruben Escobar,ruben-escobar,R. Escobar,G,190.0,Right,7,790107,21.0,1991-02-06,,387619,190000.0,PY,Paraguay,190000.0,EUR,https://api.sofascore.app/api/v1/player/790107/image
+Daniel Aguilera,daniel-aguilera,D. Aguilera,M,,,0,1564072,46.0,,,423192,,,,,EUR,https://api.sofascore.app/api/v1/player/1564072/image
+Leandro Claros,leandro-claros,L. Claros,G,184.0,,1,885576,12.0,1998-03-04,,327860,,BO,Bolivia,,EUR,https://api.sofascore.app/api/v1/player/885576/image
+Thiago,thiago,Thiago,M,176.0,Both,3,84604,7.0,1985-01-23,2023-12-31,335685,54000.0,BR,Brazil,54000.0,EUR,https://api.sofascore.app/api/v1/player/84604/image
+José Correa,jose-correa,J. Correa,F,185.0,Both,29,233338,27.0,1992-07-20,,273544,495000.0,CO,Colombia,495000.0,EUR,https://api.sofascore.app/api/v1/player/233338/image
+Juan Orellana,juan-orellana,J. Orellana,D,179.0,Left,3,874470,15.0,1998-01-02,,335685,160000.0,BO,Bolivia,160000.0,EUR,https://api.sofascore.app/api/v1/player/874470/image
+Fernando Saucedo,fernando-saucedo,F. Saucedo,M,173.0,Right,47,127947,20.0,1990-03-15,,7059,270000.0,BO,Bolivia,270000.0,EUR,https://api.sofascore.app/api/v1/player/127947/image
+Maximiliano Lemos,maximiliano-lemos,M. Lemos,M,180.0,Right,13,805321,,1993-12-17,,241802,220000.0,UY,Uruguay,220000.0,EUR,https://api.sofascore.app/api/v1/player/805321/image
+Nelson Avelino Amarilla Bogado,nelson-avelino-amarilla-bogado,N. A. A. Bogado,D,180.0,,10,47210,29.0,1987-07-20,,33714,69000.0,PY,Paraguay,69000.0,EUR,https://api.sofascore.app/api/v1/player/47210/image
+Brayan Aranibar,brayan-aranibar,B. Aranibar,M,166.0,Right,1,946802,14.0,1998-07-15,,33714,130000.0,BO,Bolivia,130000.0,EUR,https://api.sofascore.app/api/v1/player/946802/image
+Sebastian Gallegos,sebastian-gallegos,S. Gallegos,M,178.0,Right,14,116096,34.0,1992-01-18,,5034,190000.0,UY,Uruguay,190000.0,EUR,https://api.sofascore.app/api/v1/player/116096/image
+Maximiliano Ortíz,maximiliano-ortiz,M. Ortíz,D,179.0,Right,2,846776,6.0,1989-10-11,,47700,230000.0,BO,Bolivia,230000.0,EUR,https://api.sofascore.app/api/v1/player/846776/image
+Luis Barboza,luis-barboza,L. Barboza,D,176.0,Right,1,249285,3.0,1993-04-02,,33714,325000.0,BO,Bolivia,325000.0,EUR,https://api.sofascore.app/api/v1/player/249285/image
+Marc Enoumba,marc-enoumba,M. Enoumba,D,186.0,Right,27,1008536,4.0,1993-03-04,,273544,525000.0,BO,Bolivia,525000.0,EUR,https://api.sofascore.app/api/v1/player/1008536/image
+Freddy Abastoflor,freddy-abastoflor,F. Abastoflor,F,169.0,Right,1,886576,17.0,1983-01-10,2023-12-31,47701,340000.0,BO,Bolivia,340000.0,EUR,https://api.sofascore.app/api/v1/player/886576/image
+Diago Giménez,diago-gimenez,D. Giménez,D,183.0,Left,3,895960,3.0,1997-04-30,,268082,475000.0,AR,Argentina,475000.0,EUR,https://api.sofascore.app/api/v1/player/895960/image
+Victor Abrego,victor-abrego,V. Abrego,F,177.0,Right,34,1016143,11.0,1997-02-11,,268082,530000.0,BO,Bolivia,530000.0,EUR,https://api.sofascore.app/api/v1/player/1016143/image
+Henry Vaca,vaca-henry,H. Vaca,M,166.0,Left,92,878344,10.0,1998-01-27,,274894,650000.0,BO,Bolivia,650000.0,EUR,https://api.sofascore.app/api/v1/player/878344/image
+Alejandro Torrez,alejandro-torrez,A. Torrez,G,193.0,,1,1184172,1.0,1998-03-18,,327860,440000.0,BO,Bolivia,440000.0,EUR,https://api.sofascore.app/api/v1/player/1184172/image
+Robin Ramírez,robin-ramirez,R. Ramírez,F,171.0,Right,14,75642,22.0,1989-11-11,,372975,160000.0,PY,Paraguay,160000.0,EUR,https://api.sofascore.app/api/v1/player/75642/image
+Juan Vogliotti,juan-vogliotti,J. Vogliotti,F,180.0,Right,19,875242,33.0,1985-04-11,,47701,78000.0,AR,Argentina,78000.0,EUR,https://api.sofascore.app/api/v1/player/875242/image
+Saidt Mustafa,saidt-mustafa,S. Mustafa,G,187.0,Right,6,875243,1.0,1989-11-26,2023-12-31,47700,320000.0,BO,Bolivia,320000.0,EUR,https://api.sofascore.app/api/v1/player/875243/image
+Alejandro Gabriel Quintana,alejandro-gabriel-quintana,A. G. Quintana,F,190.0,Right,16,868706,22.0,1992-02-20,,47701,210000.0,AR,Argentina,210000.0,EUR,https://api.sofascore.app/api/v1/player/868706/image
+Jose Berdecio,jose-berdecio,Jose Berdecio,M,177.0,Right,1,1169071,30.0,2002-01-20,,33820,300000.0,BO,Bolivia,300000.0,EUR,https://api.sofascore.app/api/v1/player/1169071/image
+Marcos Riquelme,marcos-riquelme,M. Riquelme,F,179.0,Right,51,790008,99.0,1989-06-01,2023-12-31,33820,220000.0,AR,Argentina,220000.0,EUR,https://api.sofascore.app/api/v1/player/790008/image
+Pablo Vaca,pablo-vaca,P. Vaca,D,181.0,Right,4,1116477,3.0,2002-05-31,,268083,320000.0,BO,Bolivia,320000.0,EUR,https://api.sofascore.app/api/v1/player/1116477/image
+Pablo Pedraza,pablo-pedraza,P. Pedraza,D,189.0,Left,1,249333,3.0,1995-03-10,,32529,245000.0,BO,Bolivia,245000.0,EUR,https://api.sofascore.app/api/v1/player/249333/image
+Junior Arias,junior-arias,J. Arias,F,170.0,Right,60,846158,9.0,1993-05-17,2023-12-31,32529,480000.0,UY,Uruguay,480000.0,EUR,https://api.sofascore.app/api/v1/player/846158/image
+Alejandro Bejarano,alejandro-bejarano,A. Bejarano,M,170.0,Left,1,131615,30.0,1984-06-21,,372975,68000.0,BO,Bolivia,68000.0,EUR,https://api.sofascore.app/api/v1/player/131615/image
+Jimmy Roca,jimmy-roca,J. Roca,G,186.0,Right,4,979326,12.0,1999-05-04,,268083,290000.0,BO,Bolivia,290000.0,EUR,https://api.sofascore.app/api/v1/player/979326/image
+Marcos de Lima,marcos-de-lima,M. d. Lima,F,175.0,Right,1,947067,35.0,1997-06-10,,372975,73000.0,BO,Bolivia,73000.0,EUR,https://api.sofascore.app/api/v1/player/947067/image
+José Sagredo,jose-sagredo,J. Sagredo,D,180.0,Left,22,815445,4.0,1994-03-10,,7059,765000.0,BO,Bolivia,765000.0,EUR,https://api.sofascore.app/api/v1/player/815445/image
+Cristhian Machado,cristhian-machado,C. Machado,M,173.0,Right,4,147479,15.0,1990-06-20,,7878,195000.0,BO,Bolivia,195000.0,EUR,https://api.sofascore.app/api/v1/player/147479/image
+Diego Daniel Medina Roman,diego-daniel-medina-roman,D. D. M. Roman,D,175.0,Right,35,1114079,2.0,2002-01-13,,268083,805000.0,BO,Bolivia,805000.0,EUR,https://api.sofascore.app/api/v1/player/1114079/image
+Widen Saucedo,widen-saucedo,W. Saucedo,D,,,1,931652,23.0,1997-03-01,2023-12-31,47700,465000.0,BO,Bolivia,465000.0,EUR,https://api.sofascore.app/api/v1/player/931652/image
+Bruno Miranda,bruno-miranda,B. Miranda,F,180.0,Left,30,836165,90.0,1998-02-10,2024-12-31,273544,450000.0,BO,Bolivia,450000.0,EUR,https://api.sofascore.app/api/v1/player/836165/image
+Jaime Arrascaita,jaime-arrascaita,J. Arrascaita,M,183.0,Right,31,350568,30.0,1993-09-02,2023-12-31,32529,590000.0,BO,Bolivia,590000.0,EUR,https://api.sofascore.app/api/v1/player/350568/image
+Miguel,miguel,Miguel,F,191.0,Right,18,378642,,1992-05-14,2024-06-30,25228,275000.0,BR,Brazil,275000.0,EUR,https://api.sofascore.app/api/v1/player/378642/image
+Rodrigo Ruiz Díaz,rodrigo-ruiz-diaz,R. Ruiz Díaz,F,175.0,Right,18,877519,22.0,1999-01-15,,90968,490000.0,PY,Paraguay,490000.0,EUR,https://api.sofascore.app/api/v1/player/877519/image
+Miguel Villaroel,miguel-villaroel,M. Villaroel,M,173.0,Right,8,1116679,16.0,2003-01-10,,7059,370000.0,BO,Bolivia,370000.0,EUR,https://api.sofascore.app/api/v1/player/1116679/image
+Maximiliano Gómez,maximiliano-gomez,M. Gómez,M,180.0,Right,2,941449,11.0,1988-01-03,2023-12-31,47701,110000.0,AR,Argentina,110000.0,EUR,https://api.sofascore.app/api/v1/player/941449/image
+Sebastian Zaracho,sebastian-zaracho,S. Zaracho,D,186.0,,11,926882,15.0,1999-01-20,,33714,485000.0,PY,Paraguay,485000.0,EUR,https://api.sofascore.app/api/v1/player/926882/image
+Yonathan Taborga,yonathan-taborga,Y. Taborga,F,,,2,1495685,27.0,1996-02-13,,423192,,,,,EUR,https://api.sofascore.app/api/v1/player/1495685/image
+Omar Siles,omar-siles,O. Siles,M,178.0,,3,975109,27.0,1992-11-15,,6968,360000.0,BO,Bolivia,360000.0,EUR,https://api.sofascore.app/api/v1/player/975109/image
+Juan Rioja,juan-rioja,J. P. Rioja,D,182.0,Right,1,868699,2.0,1988-05-04,2023-12-31,335685,97000.0,BO,Bolivia,97000.0,EUR,https://api.sofascore.app/api/v1/player/868699/image
+Fabio Vargas,fabio-vargas,F. Vargas,M,,,1,1473453,35.0,2004-04-21,,33820,,BO,Bolivia,,EUR,https://api.sofascore.app/api/v1/player/1473453/image
+Milciades Portillo,portillo-milciades,M. Portillo,D,185.0,,6,902907,21.0,1992-02-21,,47701,155000.0,PY,Paraguay,155000.0,EUR,https://api.sofascore.app/api/v1/player/902907/image
+Jhon Velásquez,jhon-velasquez,J. Velásquez,F,163.0,Right,8,1177431,32.0,2003-04-22,,7878,250000.0,BO,Bolivia,250000.0,EUR,https://api.sofascore.app/api/v1/player/1177431/image
+Mateo Abastoflor,mateo-abastoflor,M. Abastoflor,F,,,4,1107011,30.0,2002-04-09,,47701,,,,,EUR,https://api.sofascore.app/api/v1/player/1107011/image
+Andres Cordoba,andres-cordoba,A. Cordoba,F,,,1,1174958,11.0,1997-10-01,,47700,110000.0,CO,Colombia,110000.0,EUR,https://api.sofascore.app/api/v1/player/1174958/image
+Javier Rojas,javier-rojas,J. Rojas,G,183.0,Right,8,805225,22.0,1996-01-14,,321264,93000.0,BO,Bolivia,93000.0,EUR,https://api.sofascore.app/api/v1/player/805225/image
+Didi Torrico,didi-torrico,D. Torrico,M,177.0,Right,2,33187,26.0,1988-05-18,,33714,120000.0,BO,Bolivia,120000.0,EUR,https://api.sofascore.app/api/v1/player/33187/image
+Erwin Junior Sánchez,erwin-junior-sanchez,E. J. Sánchez,M,198.0,Left,4,805360,19.0,1992-07-23,,33820,465000.0,BO,Bolivia,465000.0,EUR,https://api.sofascore.app/api/v1/player/805360/image
+Fernando Luna,fernando-luna,F. Luna,M,173.0,Both,2,802897,13.0,1990-01-19,,321264,160000.0,AR,Argentina,160000.0,EUR,https://api.sofascore.app/api/v1/player/802897/image
+Efmamj Jasond González,efmamj-jasond-gonzalez,E. Gonzalez,F,189.0,Right,88,1092323,14.0,1999-06-12,,7663,515000.0,CO,Colombia,515000.0,EUR,https://api.sofascore.app/api/v1/player/1092323/image
+Gabriel Villamil,gabriel-villamil,G. Villamil,M,179.0,Right,114,964296,15.0,2001-06-28,2024-12-31,7059,875000.0,BO,Bolivia,875000.0,EUR,https://api.sofascore.app/api/v1/player/964296/image
+Javier Uzeda,javier-uzeda,J. Uzeda,M,172.0,Left,37,1114091,24.0,2002-07-31,,7059,515000.0,BO,Bolivia,515000.0,EUR,https://api.sofascore.app/api/v1/player/1114091/image
+Moises Paniagua,paniagua-moises,M. Paniagua,F,169.0,,74,1424737,40.0,2007-08-16,,268083,415000.0,BO,Bolivia,415000.0,EUR,https://api.sofascore.app/api/v1/player/1424737/image
+Juan Arce,juan-arce,J. Arce,M,176.0,Right,38,11348,77.0,1985-04-10,,6968,82000.0,BO,Bolivia,82000.0,EUR,https://api.sofascore.app/api/v1/player/11348/image
+Juan Ribera,juan-ribera,J. Ribera,M,174.0,Right,1,1148599,12.0,1995-08-15,,273544,470000.0,BO,Bolivia,470000.0,EUR,https://api.sofascore.app/api/v1/player/1148599/image
+Carmelo Algarañaz,carmelo-algaranaz,C. Algarañaz,F,175.0,Left,44,808183,18.0,1996-01-20,2023-12-31,7059,535000.0,BO,Bolivia,535000.0,EUR,https://api.sofascore.app/api/v1/player/808183/image
+Pedro Taborga,pedro-taborga,P. Taborga,M,,,4,1490611,8.0,1993-02-02,,327910,135000.0,BO,Bolivia,135000.0,EUR,https://api.sofascore.app/api/v1/player/1490611/image
+Oswaldo Blanco,oswaldo-blanco,O. Blanco,F,184.0,Right,9,1020469,7.0,1991-05-21,2023-12-31,33714,325000.0,CO,Colombia,325000.0,EUR,https://api.sofascore.app/api/v1/player/1020469/image
+Eugenio Isnaldo,eugenio-isnaldo,Eugenio Isnaldo,F,180.0,Left,51,312258,21.0,1994-01-07,2023-12-31,32529,480000.0,AR,Argentina,480000.0,EUR,https://api.sofascore.app/api/v1/player/312258/image
+Hermes Hurtado,hermes-hurtado,H. Hurtado,M,,,0,1169067,62.0,1999-10-15,,327860,,BO,Bolivia,,EUR,https://api.sofascore.app/api/v1/player/1169067/image
+Ricardo Sandoval,ricardo-sandoval,R. Sandoval,M,181.0,Right,1,1169074,16.0,2001-11-06,,33820,97000.0,BO,Bolivia,97000.0,EUR,https://api.sofascore.app/api/v1/player/1169074/image
+Carlos Roca,carlos-roca,C. Roca,D,,Left,8,932242,19.0,1997-05-11,,32529,690000.0,BO,Bolivia,690000.0,EUR,https://api.sofascore.app/api/v1/player/932242/image
+Jefinho,jefinho,Jefinho,M,166.0,Left,1,866477,17.0,1998-02-09,2023-12-31,335685,425000.0,BR,Brazil,425000.0,EUR,https://api.sofascore.app/api/v1/player/866477/image
+Alejandro Melean,alejandro-melean,A. Melean,M,183.0,Right,3,147558,8.0,1987-06-16,2023-12-31,47701,68000.0,BO,Bolivia,68000.0,EUR,https://api.sofascore.app/api/v1/player/147558/image
+Daniel Rojas,daniel-rojas,D. Rojas,M,170.0,,3,975062,6.0,2000-02-22,,33820,675000.0,BO,Bolivia,675000.0,EUR,https://api.sofascore.app/api/v1/player/975062/image
+William Álvarez,william-alvarez,W. Alvarez,F,184.0,,2,846369,19.0,1995-09-15,,268082,,BO,Bolivia,,EUR,https://api.sofascore.app/api/v1/player/846369/image
+William Parra,william-parra,W. Parra,M,165.0,Right,14,819170,8.0,1995-03-01,,6114,260000.0,CO,Colombia,260000.0,EUR,https://api.sofascore.app/api/v1/player/819170/image
+Jorge Eduardo Lovera,jorge-eduardo-lovera,J. E. Lovera,M,182.0,,1,856508,23.0,1997-04-18,,47701,445000.0,BO,Bolivia,445000.0,EUR,https://api.sofascore.app/api/v1/player/856508/image
+José Sinisterra,jose-sinisterra,J. Sinisterra,F,171.0,Right,57,914211,38.0,1998-07-23,,6968,740000.0,CO,Colombia,740000.0,EUR,https://api.sofascore.app/api/v1/player/914211/image
+Marvin Bejarano,marvin-bejarano,M. Bejarano,D,168.0,Left,2,47466,17.0,1988-03-06,2023-12-31,273544,115000.0,BO,Bolivia,115000.0,EUR,https://api.sofascore.app/api/v1/player/47466/image
+Samuel Sandoval,sandoval-samuel,S. Sandoval,M,,,3,1474879,38.0,2003-05-21,,33820,,BO,Bolivia,,EUR,https://api.sofascore.app/api/v1/player/1474879/image
+Rodrigo Morales,rodrigo-morales,R. Morales,M,169.0,Right,3,897150,5.0,1994-03-22,,327910,230000.0,AR,Argentina,230000.0,EUR,https://api.sofascore.app/api/v1/player/897150/image
+Padú,padu,Padú,F,180.0,Right,2,1106065,11.0,1997-10-31,,47701,170000.0,BR,Brazil,170000.0,EUR,https://api.sofascore.app/api/v1/player/1106065/image
+Richard Spenhay,spenhay-richard,R. Spenhay,M,168.0,,1,1017447,66.0,1997-09-09,,321264,535000.0,BO,Bolivia,535000.0,EUR,https://api.sofascore.app/api/v1/player/1017447/image
+Erick Cano,erick-cano,E. Cano,M,170.0,Right,3,973545,20.0,1999-03-15,,268082,285000.0,BO,Bolivia,285000.0,EUR,https://api.sofascore.app/api/v1/player/973545/image
+Luiz Fernando Paz,luiz-fernando-paz,L. F. Paz,D,,,3,1394847,29.0,2004-06-09,,7059,,BO,Bolivia,,EUR,https://api.sofascore.app/api/v1/player/1394847/image
+Diego Pariani,diego-pariani,D. Pariani,F,185.0,Right,1,1394163,27.0,1993-08-08,,335685,195000.0,AR,Argentina,195000.0,EUR,https://api.sofascore.app/api/v1/player/1394163/image
+Alan Mercado,alan-mercado,A. Mercado,D,177.0,Left,1,805061,55.0,1993-07-27,,327860,120000.0,BO,Bolivia,120000.0,EUR,https://api.sofascore.app/api/v1/player/805061/image
+José Pinto,jose-pinto,J. Pinto,M,,,1,1017478,28.0,2000-05-06,,268082,,,,,EUR,https://api.sofascore.app/api/v1/player/1017478/image
+Julio Cesar Perez,julio-cesar-perez,J. C. Perez,D,182.0,Left,1,831746,27.0,1991-10-24,,327860,255000.0,BO,Bolivia,255000.0,EUR,https://api.sofascore.app/api/v1/player/831746/image
+Carlos Chore,carlos-chore,C. Chore,D,178.0,Right,2,979780,16.0,2000-06-03,,47701,380000.0,BO,Bolivia,380000.0,EUR,https://api.sofascore.app/api/v1/player/979780/image
+Rodrigo Gómez,rodrigo-gomez,R. Gómez,M,168.0,Right,27,842932,8.0,1993-01-02,,372975,260000.0,AR,Argentina,260000.0,EUR,https://api.sofascore.app/api/v1/player/842932/image
+Enrique Taborga,enrique-taborga,E. Taborga,D,,,6,1197426,6.0,2002-04-03,,268083,310000.0,BO,Bolivia,310000.0,EUR,https://api.sofascore.app/api/v1/player/1197426/image
+Luis Pavia,luis-pavia,L. Pavia,M,170.0,Right,1,873728,8.0,1999-06-13,2023-12-31,47700,465000.0,BO,Bolivia,465000.0,EUR,https://api.sofascore.app/api/v1/player/873728/image
+Angel Vaca,angel-vaca,A. Vaca,M,,,0,1142053,9.0,2002-01-03,,47701,69000.0,BO,Bolivia,69000.0,EUR,https://api.sofascore.app/api/v1/player/1142053/image
+Sebastián Melgar,sebastian-melgar,S. Melgar,F,182.0,Right,3,1200519,9.0,2001-07-16,,321264,130000.0,BO,Bolivia,130000.0,EUR,https://api.sofascore.app/api/v1/player/1200519/image
+Arquímedes Figuera,arquimedes-figuera,A. Figuera,M,170.0,Right,81,123245,45.0,1989-10-06,,6968,170000.0,VE,Venezuela,170000.0,EUR,https://api.sofascore.app/api/v1/player/123245/image
+Mauricio Adorno,mauricio-adorno,M. Adorno,G,174.0,,5,980760,25.0,2001-04-03,,321264,440000.0,BO,Bolivia,440000.0,EUR,https://api.sofascore.app/api/v1/player/980760/image
+Gonzalo Castillo,gonzalo-castillo,G. Castillo,D,179.0,Right,24,247189,22.0,1990-10-17,,32529,410000.0,UY,Uruguay,410000.0,EUR,https://api.sofascore.app/api/v1/player/247189/image
+Elder Arauz,elder-arauz,E. Arauz,G,177.0,,1,1017424,1.0,1990-04-23,,47701,260000.0,BO,Bolivia,260000.0,EUR,https://api.sofascore.app/api/v1/player/1017424/image
+Juan Capurro,juan-capurro,J. Capurro,M,178.0,Right,2,333761,8.0,1994-07-19,,273544,295000.0,AR,Argentina,295000.0,EUR,https://api.sofascore.app/api/v1/player/333761/image
+Lucas Chávez,lucas-chavez,L. Chávez,F,170.0,,29,1116671,30.0,2003-04-17,,7059,515000.0,BO,Bolivia,515000.0,EUR,https://api.sofascore.app/api/v1/player/1116671/image
+Diego Bejarano,diego-bejarano,D. Bejarano,M,174.0,Right,48,163179,8.0,1991-08-24,2023-12-31,7059,420000.0,BO,Bolivia,420000.0,EUR,https://api.sofascore.app/api/v1/player/163179/image
+Jonathan Cristaldo,jonathan-cristaldo,J. Cristaldo,F,175.0,Right,67,80934,37.0,1989-03-05,2023-12-31,33820,390000.0,AR,Argentina,390000.0,EUR,https://api.sofascore.app/api/v1/player/80934/image
+Leandro Zazpe,leandro-zazpe,L. Zazpe,D,184.0,Left,15,166151,,1994-04-29,,241802,335000.0,UY,Uruguay,335000.0,EUR,https://api.sofascore.app/api/v1/player/166151/image
+Álvaro Quiroga,alvaro-quiroga,Á. Quiroga,M,175.0,Right,13,886777,6.0,1995-06-17,,32529,650000.0,BO,Bolivia,650000.0,EUR,https://api.sofascore.app/api/v1/player/886777/image
+Juan Magallanes,juan-magallanes,J. Magallanes,M,174.0,,2,1177432,38.0,2003-01-02,,268082,90000.0,BO,Bolivia,90000.0,EUR,https://api.sofascore.app/api/v1/player/1177432/image
+Oseas Mendieta Cabrera,oseas-mendieta-cabrera,O. M. Cabrera,M,,,0,1495671,42.0,2003-10-06,,423192,,,,,EUR,https://api.sofascore.app/api/v1/player/1495671/image
+Alexandro Zenteno,alexandro-zenteno,A. Zenteno,M,171.0,,2,1413181,30.0,2003-01-20,,268083,135000.0,BO,Bolivia,135000.0,EUR,https://api.sofascore.app/api/v1/player/1413181/image
+Juan Teles,juan-teles,J. Teles,F,180.0,Left,1,1477487,9.0,1995-08-09,,327910,160000.0,BR,Brazil,160000.0,EUR,https://api.sofascore.app/api/v1/player/1477487/image
+Jefferson Ibáñez,jefferson-ibanez,J. Ibáñez,D,181.0,Right,0,876305,15.0,1995-02-12,,47701,265000.0,BO,Bolivia,265000.0,EUR,https://api.sofascore.app/api/v1/player/876305/image
+Jairo Cuellar,jairo-cuellar,J. Cuellar,G,184.0,Right,2,931396,25.0,1999-09-15,,47701,410000.0,BO,Bolivia,410000.0,EUR,https://api.sofascore.app/api/v1/player/931396/image
+Andrés Llano,andres-llano,A. Llano,F,,,1,1495597,24.0,1992-10-22,,268082,,,,,EUR,https://api.sofascore.app/api/v1/player/1495597/image
+Mauricio Chajtur,mauricio-chajtur,M. Chajtur,F,,Right,2,923039,40.0,1996-10-07,,47701,210000.0,BO,Bolivia,210000.0,EUR,https://api.sofascore.app/api/v1/player/923039/image
+Brian López,brian-lopez,B. López,D,182.0,Right,10,1099307,4.0,1999-11-20,,327860,360000.0,DO,Dominican Republic,360000.0,EUR,https://api.sofascore.app/api/v1/player/1099307/image
+Adrián Jusino,adrian-jusino,A. Jusino,D,185.0,Right,19,935010,5.0,1992-07-09,,32529,540000.0,BO,Bolivia,540000.0,EUR,https://api.sofascore.app/api/v1/player/935010/image
+Marco Antonio Barrios,marco-antonio-barrios,M. A. Barrios,M,175.0,Right,1,975104,26.0,1995-02-23,,241802,77000.0,BO,Bolivia,77000.0,EUR,https://api.sofascore.app/api/v1/player/975104/image
+Patrick Torelli,patrick-torelli,P. Torelli,F,183.0,Left,2,1507161,,1996-07-30,2024-05-31,327910,185000.0,BR,Brazil,185000.0,EUR,https://api.sofascore.app/api/v1/player/1507161/image
+Ramiro Mamani,ramiro-mamani,R. Mamani,M,172.0,Right,1,805478,8.0,1991-04-14,,268082,145000.0,BO,Bolivia,145000.0,EUR,https://api.sofascore.app/api/v1/player/805478/image
+Edenilson Michels,edenilson-michels,E. Michels,M,180.0,Right,2,1108501,26.0,,,372975,,BR,Brazil,,EUR,https://api.sofascore.app/api/v1/player/1108501/image
+Diego Buceta,diego-buceta,D. Buceta,M,170.0,,3,1513694,20.0,2004-06-04,,6968,,BO,Bolivia,,EUR,https://api.sofascore.app/api/v1/player/1513694/image
+Martín Chiatti,martin-chiatti,M. Chiatti,D,185.0,,2,1147478,41.0,1992-12-01,,7878,130000.0,AR,Argentina,130000.0,EUR,https://api.sofascore.app/api/v1/player/1147478/image
+Fabricio Moreno,fabricio-moreno,F. Moreno,M,169.0,Right,7,1468412,10.0,1997-07-14,,327860,340000.0,CO,Colombia,340000.0,EUR,https://api.sofascore.app/api/v1/player/1468412/image
+Israel Peña,israel-pena,I. Peña,G,180.0,Right,2,1477486,13.0,1998-11-27,,327910,210000.0,BO,Bolivia,210000.0,EUR,https://api.sofascore.app/api/v1/player/1477486/image
+Carlos Monges,monges-carlos,C. Monges,F,188.0,Left,18,931227,24.0,1996-11-23,,335685,240000.0,PY,Paraguay,240000.0,EUR,https://api.sofascore.app/api/v1/player/931227/image
+Juan Godoy,juan-godoy,J. Godoy,F,172.0,Right,8,1147477,11.0,1993-06-23,,372975,245000.0,PY,Paraguay,245000.0,EUR,https://api.sofascore.app/api/v1/player/1147477/image
+Vladimir Castellón,vladimir-castellon,V. Castellón,F,178.0,Right,3,47233,11.0,1989-08-12,,7878,205000.0,BO,Bolivia,205000.0,EUR,https://api.sofascore.app/api/v1/player/47233/image
+Andrés Moreno,andres-moreno,A. Moreno,M,178.0,,3,1189877,21.0,2002-10-09,,273544,320000.0,BO,Bolivia,320000.0,EUR,https://api.sofascore.app/api/v1/player/1189877/image
+Makerlo Tellez,makerlo-tellez,M. Tellez,M,,Right,1,1495659,87.0,2002-10-22,,423192,,BO,Bolivia,,EUR,https://api.sofascore.app/api/v1/player/1495659/image
+Nelson Cabrera,nelson-cabrera,N. Cabrera,D,191.0,Right,7,33127,21.0,1983-04-22,,47700,26000.0,BO,Bolivia,26000.0,EUR,https://api.sofascore.app/api/v1/player/33127/image
+Hallysson Padilha,hallysson-padilha,H. Padilha,D,190.0,Right,1,1184186,19.0,1994-02-11,2023-12-31,335685,340000.0,BR,Brazil,340000.0,EUR,https://api.sofascore.app/api/v1/player/1184186/image
+Luis Hurtado,luis-hurtado,L. Hurtado,D,187.0,Left,3,249297,11.0,1993-09-27,,321264,275000.0,BO,Bolivia,275000.0,EUR,https://api.sofascore.app/api/v1/player/249297/image
+Emanuel Paniagua,emanuel-paniagua,E. Paniagua,F,170.0,Left,3,1490350,39.0,2005-11-24,,268083,90000.0,BO,Bolivia,90000.0,EUR,https://api.sofascore.app/api/v1/player/1490350/image
+Fernando Rodríguez,fernando-rodriguez,F. Rodríguez,M,169.0,,0,1092592,97.0,1996-01-11,,6968,120000.0,BO,Bolivia,120000.0,EUR,https://api.sofascore.app/api/v1/player/1092592/image
+Fernando Arismendi,fernando-arismendi,J. Arismendi,M,175.0,Right,18,885412,16.0,1991-03-31,,6968,360000.0,UY,Uruguay,360000.0,EUR,https://api.sofascore.app/api/v1/player/885412/image
+Braulio Uraezaña,braulio-uraezana,B. Uraezaña,G,186.0,Right,8,815442,1.0,1995-03-26,,6968,520000.0,BO,Bolivia,520000.0,EUR,https://api.sofascore.app/api/v1/player/815442/image
+Humberto Osorio,humberto-osorio,H. Osorio,F,178.0,Right,24,263439,34.0,1988-06-24,,6233,165000.0,CO,Colombia,165000.0,EUR,https://api.sofascore.app/api/v1/player/263439/image
+Juan Carlos Zampiery,juan-carlos-zampiery,J. C. Zampiery,D,171.0,Right,1,221001,14.0,1989-09-28,,268082,95000.0,BO,Bolivia,95000.0,EUR,https://api.sofascore.app/api/v1/player/221001/image
+Carlos Robles,carlos-robles,C. Robles,M,183.0,Right,16,358158,24.0,1992-05-16,,6104,340000.0,CO,Colombia,340000.0,EUR,https://api.sofascore.app/api/v1/player/358158/image
+Juan Aponte,juan-aponte,J. Aponte,D,172.0,Left,2,589654,7.0,1992-05-18,,7878,135000.0,BO,Bolivia,135000.0,EUR,https://api.sofascore.app/api/v1/player/589654/image
+Jorge Rojas,jorge-rojas,H. Rojas,M,,,4,891849,77.0,1993-12-06,,33820,205000.0,BO,Bolivia,205000.0,EUR,https://api.sofascore.app/api/v1/player/891849/image
+Brahian Egüez,brahian-eguez,B. Egüez,M,175.0,Right,2,975058,29.0,1992-05-14,2023-12-31,47701,165000.0,BO,Bolivia,165000.0,EUR,https://api.sofascore.app/api/v1/player/975058/image
+Adriel Fernandez,adriel-fernandez,A. Fernandez,M,177.0,Left,1,874467,23.0,1996-03-22,,7878,265000.0,BO,Bolivia,265000.0,EUR,https://api.sofascore.app/api/v1/player/874467/image
+Martin Galain,martin-galain,M. Galain,D,183.0,Right,11,47416,18.0,1989-03-02,2023-12-31,47700,190000.0,UY,Uruguay,190000.0,EUR,https://api.sofascore.app/api/v1/player/47416/image
+Carlos Sejas,carlos-sejas,C. Sejas,M,175.0,Right,12,1184152,24.0,2004-01-10,2025-12-30,33714,595000.0,BO,Bolivia,595000.0,EUR,https://api.sofascore.app/api/v1/player/1184152/image
+Santiago Echeverria,santiago-echeverria,S. Echeverria,D,188.0,Right,5,789669,4.0,1990-03-28,,47701,245000.0,AR,Argentina,245000.0,EUR,https://api.sofascore.app/api/v1/player/789669/image
+Diego Josue Hoyos,diego-josue-hoyos,D. J. Hoyos,M,180.0,Right,1,147560,22.0,1992-09-29,,47700,365000.0,BO,Bolivia,365000.0,EUR,https://api.sofascore.app/api/v1/player/147560/image
+Germán Arauz,german-arauz,G. Arauz,G,186.0,,1,987588,13.0,1995-05-25,,372975,310000.0,BO,Bolivia,310000.0,EUR,https://api.sofascore.app/api/v1/player/987588/image
+Luis Alí,luis-ali,L. Alí,M,170.0,Right,4,887156,18.0,1994-04-17,,335685,315000.0,BO,Bolivia,315000.0,EUR,https://api.sofascore.app/api/v1/player/887156/image
+Edward Vaca,edward-vaca,E. Vaca,M,171.0,,1,944160,26.0,1999-09-30,,327860,315000.0,BO,Bolivia,315000.0,EUR,https://api.sofascore.app/api/v1/player/944160/image
+Darlin Rodriguez,darlin-rodriguez,D. Rodriguez,M,,,8,1490615,17.0,2004-05-10,,327910,,BO,Bolivia,,EUR,https://api.sofascore.app/api/v1/player/1490615/image
+Juan Carlos Robles,juan-carlos-robles,J. C. Robles,G,180.0,Right,1,47462,,1985-01-24,,423189,49000.0,BO,Bolivia,49000.0,EUR,https://api.sofascore.app/api/v1/player/47462/image
+Alexir Ibaguary,alexir-ibaguary,A. Ibaguary,F,,,1,1490614,25.0,1996-12-02,,327910,,,,,EUR,https://api.sofascore.app/api/v1/player/1490614/image
+Reyvin de la Rosa,reyvin-de-la-rosa,R. Rosa,D,,,0,1495676,17.0,2000-12-07,,297213,,,,,EUR,https://api.sofascore.app/api/v1/player/1495676/image
+Fernando Saldías,fernando-saldias,F. Saldías,F,170.0,Right,1,893093,11.0,1997-02-27,,423186,77000.0,BO,Bolivia,77000.0,EUR,https://api.sofascore.app/api/v1/player/893093/image
+Carlos Pérez,carlos-perez,C. Pérez,M,175.0,Right,1,964279,31.0,1999-02-19,,7878,52000.0,BO,Bolivia,52000.0,EUR,https://api.sofascore.app/api/v1/player/964279/image
+Walter Flores,walter-flores,W. Flores,D,,,0,1468166,15.0,2003-01-15,,268083,,,,,EUR,https://api.sofascore.app/api/v1/player/1468166/image
+Arturo Mina,arturo-mina,A. Mina,D,189.0,Right,83,387720,44.0,1990-10-08,,321264,260000.0,EC,Ecuador,260000.0,EUR,https://api.sofascore.app/api/v1/player/387720/image
+Sebastian Alvarez,sebastian-alvarez,S. Alvarez,D,190.0,,2,1147182,27.0,2001-08-29,,33820,545000.0,BO,Bolivia,545000.0,EUR,https://api.sofascore.app/api/v1/player/1147182/image
+Denilzon Ramallo,denilzon-ramallo,D. Ramallo,F,,,1,1184180,6.0,1998-05-20,,268082,220000.0,BO,Bolivia,220000.0,EUR,https://api.sofascore.app/api/v1/player/1184180/image
+Ramiro Ballivián,ramiro-ballivian,R. Ballivián,D,166.0,Right,2,47469,21.0,1992-04-08,,33714,310000.0,BO,Bolivia,310000.0,EUR,https://api.sofascore.app/api/v1/player/47469/image
+Jairo Quinteros,jairo-quinteros,J. Quinteros,D,180.0,Right,73,1016159,5.0,2001-02-07,,7059,290000.0,BO,Bolivia,290000.0,EUR,https://api.sofascore.app/api/v1/player/1016159/image
+Jorge Vazquez,jorge-vazquez,J. Vazquez,D,186.0,Left,6,1177423,5.0,1997-02-02,,249194,115000.0,PY,Paraguay,115000.0,EUR,https://api.sofascore.app/api/v1/player/1177423/image
+Eduardo Álvarez,eduardo-alvarez,E. Álvarez,D,184.0,,13,1116654,6.0,2003-04-09,,273544,865000.0,BO,Bolivia,865000.0,EUR,https://api.sofascore.app/api/v1/player/1116654/image
+Fran Supayabe Alpiri,fran-supayabe-alpiri,F. S. Alpiri,D,178.0,,1,923029,3.0,1996-01-12,2024-12-31,47701,590000.0,BO,Bolivia,590000.0,EUR,https://api.sofascore.app/api/v1/player/923029/image
+Mateo Hernandez,mateo-hernandez,M. Hernandez,M,178.0,Right,5,830877,11.0,1998-10-05,,335685,185000.0,AR,Argentina,185000.0,EUR,https://api.sofascore.app/api/v1/player/830877/image
+Marcos Andía,marcos-andia,M. Andía,M,178.0,,1,886599,15.0,1988-02-08,,47700,,BO,Bolivia,,EUR,https://api.sofascore.app/api/v1/player/886599/image
+Daniel Mancilla,daniel-mancilla,D. Mancilla,D,178.0,Left,4,339233,5.0,1991-02-17,2023-12-31,47700,290000.0,BO,Bolivia,290000.0,EUR,https://api.sofascore.app/api/v1/player/339233/image
+Tobías Moriceau,tobias-moriceau,T. Moriceau,D,,Left,4,1111537,3.0,1997-04-09,,273544,340000.0,AR,Argentina,340000.0,EUR,https://api.sofascore.app/api/v1/player/1111537/image
+Rivaldo Méndez,rivaldo-mendez,R. Méndez,D,,,0,1184225,32.0,2002-11-28,,335685,295000.0,BO,Bolivia,295000.0,EUR,https://api.sofascore.app/api/v1/player/1184225/image
+Luis Ruano,luis-ruano,L. Ruano,D,,Right,2,1486636,2.0,1991-11-13,,327860,,GQ,Equatorial Guinea,,EUR,https://api.sofascore.app/api/v1/player/1486636/image
+Miguel Quiroga,miguel-quiroga,M. Quiroga,M,175.0,Left,2,221442,18.0,1991-09-15,,372975,160000.0,BO,Bolivia,160000.0,EUR,https://api.sofascore.app/api/v1/player/221442/image
+Leonardo Villagra,villagra-leonardo,L. Villagra,F,181.0,Left,20,835655,90.0,1990-09-02,,134976,330000.0,PY,Paraguay,330000.0,EUR,https://api.sofascore.app/api/v1/player/835655/image
+Kevin Romay,kevin-romay,K. Romay,F,,,3,1008538,7.0,1994-04-17,,47700,210000.0,BO,Bolivia,210000.0,EUR,https://api.sofascore.app/api/v1/player/1008538/image
+Hugo Silva,hugo-silva,H. Silva,D,176.0,Right,2,830700,20.0,1992-02-04,,273544,270000.0,AR,Argentina,270000.0,EUR,https://api.sofascore.app/api/v1/player/830700/image
+Denis Pinto,denis-pinto,D. Pinto,F,,,1,964421,33.0,1995-08-25,,327910,,,,,EUR,https://api.sofascore.app/api/v1/player/964421/image
+Rodrigo Saucedo,rodrigo-saucedo,R. Saucedo,F,169.0,,1,997288,20.0,1999-03-11,,33820,230000.0,BO,Bolivia,230000.0,EUR,https://api.sofascore.app/api/v1/player/997288/image
+Fernando Aguilar,fernando-aguilar,F. Aguilar,D,,,0,1468331,5.0,,,33714,,,,,EUR,https://api.sofascore.app/api/v1/player/1468331/image
+Carlos Áñez,carlos-anez,C. Áñez,M,174.0,Right,2,805060,5.0,1995-07-06,,273544,515000.0,BO,Bolivia,515000.0,EUR,https://api.sofascore.app/api/v1/player/805060/image
+Edemir Rodriguez,edemir-rodriguez,E. Rodriguez,D,175.0,Right,1,26121,2.0,1984-10-21,,33820,81000.0,BO,Bolivia,81000.0,EUR,https://api.sofascore.app/api/v1/player/26121/image
+Samuel Garzon,garzon-samuel,S. Garzón,F,175.0,Right,3,1184181,7.0,1999-05-12,,6968,205000.0,BO,Bolivia,205000.0,EUR,https://api.sofascore.app/api/v1/player/1184181/image
+Josué Mamani,josue-mamani,J. Mamani,M,170.0,Right,1,886573,26.0,2000-08-20,,7878,190000.0,BO,Bolivia,190000.0,EUR,https://api.sofascore.app/api/v1/player/886573/image
+Guillermo Denis,guillermo-denis,G. Denis,F,,,3,1389906,44.0,1999-07-04,,327860,,CO,Colombia,,EUR,https://api.sofascore.app/api/v1/player/1389906/image
+Franz Parada,franz-parada,F. Parada,M,,,1,1477488,10.0,1992-06-10,,327910,105000.0,BO,Bolivia,105000.0,EUR,https://api.sofascore.app/api/v1/player/1477488/image
+Gustavo Peredo,gustavo-peredo,G. Peredo,M,,,1,962856,7.0,2000-04-07,,47701,450000.0,BO,Bolivia,450000.0,EUR,https://api.sofascore.app/api/v1/player/962856/image
+Sergio Llamas,sergio-llamas,S. L. Pardo,M,178.0,,1,268351,14.0,1993-03-06,,47701,260000.0,ES,Spain,260000.0,EUR,https://api.sofascore.app/api/v1/player/268351/image
+Franz Gonzales,franz-gonzales,F. Gonzales,M,171.0,Right,14,1016168,15.0,2000-06-26,2023-12-31,33820,235000.0,BO,Bolivia,235000.0,EUR,https://api.sofascore.app/api/v1/player/1016168/image
+Manuel Bonilla,manuel-bonilla,M. Bonilla,D,176.0,,0,1189882,16.0,2005-03-12,,273544,,,,,EUR,https://api.sofascore.app/api/v1/player/1189882/image
+Diego Navarro,diego-navarro,D. Navarro,M,179.0,,1,941618,27.0,1992-12-08,,268082,160000.0,BO,Bolivia,160000.0,EUR,https://api.sofascore.app/api/v1/player/941618/image
+Miguel Paredes,miguel-paredes,M. Paredes,D,,,1,1490612,22.0,1998-06-01,,327910,,,,,EUR,https://api.sofascore.app/api/v1/player/1490612/image
+Ricardo Orihuela,ricardo-orihuela,R. Orihuela,F,,,1,975112,23.0,1999-05-02,,321264,,,,,EUR,https://api.sofascore.app/api/v1/player/975112/image
+Andrés Torrico,andres-torrico,A. Torrico,M,,,6,1457532,16.0,2004-08-10,,47700,,BO,Bolivia,,EUR,https://api.sofascore.app/api/v1/player/1457532/image
+Marco Salazar,marco-salazar,M. Salazar,M,171.0,,15,1468161,16.0,2004-10-14,,268083,420000.0,BO,Bolivia,420000.0,EUR,https://api.sofascore.app/api/v1/player/1468161/image
+Juan Mercado,juan-mercado,J. Mercado,M,177.0,Right,3,923030,14.0,1997-01-06,2023-12-31,33820,620000.0,BO,Bolivia,620000.0,EUR,https://api.sofascore.app/api/v1/player/923030/image
+Miguel Agustín Graneros,miguel-agustin-graneros,M. A. Graneros,F,180.0,Right,8,1096363,29.0,1996-04-28,,335685,350000.0,AR,Argentina,350000.0,EUR,https://api.sofascore.app/api/v1/player/1096363/image
+Marco Daniel Vaca,marco-daniel-vaca,M. D. Vaca,G,180.0,Right,1,249283,,1990-03-10,,241802,81000.0,BO,Bolivia,81000.0,EUR,https://api.sofascore.app/api/v1/player/249283/image
+Jorge Ortíz,jorge-ortiz,J. Ortíz,M,173.0,Right,1,883604,14.0,1984-04-01,,327860,,BO,Bolivia,,EUR,https://api.sofascore.app/api/v1/player/883604/image
+Sergio Villamíl,sergio-villamil,S. Villamíl,M,175.0,Right,1,1184148,6.0,1994-12-14,2023-12-31,335685,440000.0,BO,Bolivia,440000.0,EUR,https://api.sofascore.app/api/v1/player/1184148/image
+Federico Sellecchia,federico-sellecchia,F. Sellecchia,F,,,1,1214756,9.0,1994-07-02,,273544,,AR,Argentina,,EUR,https://api.sofascore.app/api/v1/player/1214756/image
+Ramon Coronel,coronel-ramon,R. Coronel,D,172.0,Right,8,1085450,31.0,1991-03-31,,321264,260000.0,PY,Paraguay,260000.0,EUR,https://api.sofascore.app/api/v1/player/1085450/image
+Maximiliano Caire,maximiliano-caire,M. Caire,D,177.0,Right,3,802389,5.0,1988-07-12,2024-12-31,33820,205000.0,AR,Argentina,205000.0,EUR,https://api.sofascore.app/api/v1/player/802389/image
+Jorge Orozco,jorge-orozco,J. Orozco,F,190.0,Right,2,1013156,9.0,2000-01-24,,335685,120000.0,BO,Bolivia,120000.0,EUR,https://api.sofascore.app/api/v1/player/1013156/image
+Franco Martínez,franco-martinez,F. Martínez,M,171.0,Right,19,924870,10.0,1998-11-26,,7878,230000.0,UY,Uruguay,230000.0,EUR,https://api.sofascore.app/api/v1/player/924870/image
+Sebastian Galindo Novillo,sebastian-galindo-novillo,S. G. Novillo,M,176.0,Left,2,878667,29.0,2000-07-29,,268083,180000.0,BO,Bolivia,180000.0,EUR,https://api.sofascore.app/api/v1/player/878667/image
+Matías Galindo,matias-galindo,M. Galindo,M,175.0,Left,14,1424736,,2006-04-10,,48828,225000.0,BO,Bolivia,225000.0,EUR,https://api.sofascore.app/api/v1/player/1424736/image
+Lucas Gaúcho,lucas-gaucho,L. Gaúcho,F,184.0,Right,25,797562,4.0,1991-06-13,,372975,220000.0,BR,Brazil,220000.0,EUR,https://api.sofascore.app/api/v1/player/797562/image
+Leandro Maygua,leandro-maygua,L. Maygua,M,173.0,Right,1,312046,28.0,1992-09-12,,335685,155000.0,BO,Bolivia,155000.0,EUR,https://api.sofascore.app/api/v1/player/312046/image
+Shelove Achelus,shelove-achelus,S. Achelus,M,,Both,98,961899,11.0,1999-09-25,2023-12-31,327860,135000.0,HT,Haiti,135000.0,EUR,https://api.sofascore.app/api/v1/player/961899/image
+Ronny Rodríguez,ronny-rodriguez,R. Rodríguez,M,167.0,Right,3,818960,,1994-06-26,2023-12-31,241802,245000.0,CO,Colombia,245000.0,EUR,https://api.sofascore.app/api/v1/player/818960/image
+David Moura,david-moura,D. Moura,D,,,1,1495614,23.0,1999-11-03,,327910,,,,,EUR,https://api.sofascore.app/api/v1/player/1495614/image
+Randerson,randerson,Randerson,M,,,1,872029,11.0,1994-10-27,,327910,,BR,Brazil,,EUR,https://api.sofascore.app/api/v1/player/872029/image
+Mario Barbery,mario-barbery,M. Barbery,M,178.0,Right,6,985178,,2002-04-01,,241802,160000.0,BO,Bolivia,160000.0,EUR,https://api.sofascore.app/api/v1/player/985178/image
+Christian Arano,christian-arano,C. Arano,M,187.0,Right,1,931429,17.0,1995-02-23,2024-12-31,32529,170000.0,BO,Bolivia,170000.0,EUR,https://api.sofascore.app/api/v1/player/931429/image
+Pablo Laredo,pablo-laredo,P. Laredo,D,175.0,Right,1,932249,30.0,2000-12-12,,268082,96000.0,BO,Bolivia,96000.0,EUR,https://api.sofascore.app/api/v1/player/932249/image
+Miyhel Ortiz,ortiz-miyhel,M. Ortiz,D,,,1,1092596,21.0,2001-10-22,,321264,450000.0,BO,Bolivia,450000.0,EUR,https://api.sofascore.app/api/v1/player/1092596/image
+Iván Vidaurre,ivan-vidaurre,I. Vidaurre,D,176.0,Left,1,973552,4.0,1987-02-02,,268082,135000.0,BO,Bolivia,135000.0,EUR,https://api.sofascore.app/api/v1/player/973552/image
+José Castillo,jose-castillo,J. Castillo,F,181.0,Right,1,886569,11.0,1983-02-09,,33820,,BO,Bolivia,,EUR,https://api.sofascore.app/api/v1/player/886569/image
+Alfredo Alanoca,alanoca-alfredo,A. Alanoca,M,173.0,Right,2,1469365,38.0,1996-03-20,,268083,285000.0,BO,Bolivia,285000.0,EUR,https://api.sofascore.app/api/v1/player/1469365/image
+Luis Cardenas,luis-cardenas,L. Cardenas,G,177.0,,2,931393,12.0,1991-02-06,,33714,250000.0,BO,Bolivia,250000.0,EUR,https://api.sofascore.app/api/v1/player/931393/image
+Óscar Añez,oscar-anez,Ó. Añez,D,172.0,Right,3,931565,14.0,1990-07-23,2023-12-31,47700,170000.0,BO,Bolivia,170000.0,EUR,https://api.sofascore.app/api/v1/player/931565/image
+Mario Ovando,mario-ovando,M. Ovando,M,170.0,Right,1,40070,6.0,1985-09-01,,327860,52000.0,BO,Bolivia,52000.0,EUR,https://api.sofascore.app/api/v1/player/40070/image
+Enrique David Diaz,enrique-david-diaz,E. D. Diaz,D,192.0,Right,5,249293,5.0,1992-09-04,,372975,23000.0,UY,Uruguay,23000.0,EUR,https://api.sofascore.app/api/v1/player/249293/image
+Luis Alberto Gutierrez,luis-alberto-gutierrez,L. A. Gutierrez,D,180.0,Left,1,64884,23.0,1985-01-15,,33820,70000.0,BO,Bolivia,70000.0,EUR,https://api.sofascore.app/api/v1/player/64884/image
+Luis Francisco Rodriguez Zegada,luis-francisco-rodriguez-zegada,L. F. R. Zegada,M,173.0,Left,1,805447,4.0,1994-08-22,,7878,365000.0,BO,Bolivia,365000.0,EUR,https://api.sofascore.app/api/v1/player/805447/image
+Joel Calicho,joel-calicho,J. Calicho,M,,,1,1184199,22.0,1995-06-02,,268082,380000.0,BO,Bolivia,380000.0,EUR,https://api.sofascore.app/api/v1/player/1184199/image
+Gabriel Valverde,gabriel-valverde,G. Valverde,D,178.0,Right,1,220983,3.0,1990-06-24,,6968,215000.0,BO,Bolivia,215000.0,EUR,https://api.sofascore.app/api/v1/player/220983/image
+Richet Gomez Miranda,richet-gomez-miranda,R. G. Miranda,D,175.0,Right,5,1118608,22.0,1998-11-03,2023-12-31,6968,405000.0,BO,Bolivia,405000.0,EUR,https://api.sofascore.app/api/v1/player/1118608/image
+Edwin Rivera,edwin-rivera,E. Rivera,M,180.0,Right,1,868709,23.0,1989-09-01,,372975,165000.0,BO,Bolivia,165000.0,EUR,https://api.sofascore.app/api/v1/player/868709/image
+Heber Leanos,heber-leanos,H. Leanos,D,175.0,Left,2,846381,25.0,1990-06-10,,47700,180000.0,BO,Bolivia,180000.0,EUR,https://api.sofascore.app/api/v1/player/846381/image
+Ivan Huayhuata,ivan-huayhuata,I. Huayhuata,M,171.0,Right,1,47219,89.0,1989-03-09,,47701,180000.0,BO,Bolivia,180000.0,EUR,https://api.sofascore.app/api/v1/player/47219/image
+Amir Bejarano,amir-bejarano,A. Bejarano,M,,,1,1495594,8.0,1996-07-27,,423192,,,,,EUR,https://api.sofascore.app/api/v1/player/1495594/image
+Layonel Figueroa,layonel-figueroa,L. Figueroa,M,180.0,Right,1,975088,80.0,1999-07-06,,47701,300000.0,BO,Bolivia,300000.0,EUR,https://api.sofascore.app/api/v1/player/975088/image
+Jose Andres Alipaz,jose-andres-alipaz,J. A. Alipaz,M,,,1,1457550,32.0,2003-04-06,,268082,,,,,EUR,https://api.sofascore.app/api/v1/player/1457550/image
+Wilfredo Soleto,wilfredo-soleto,W. Soleto,D,178.0,Right,5,936531,3.0,1996-02-21,,33820,535000.0,BO,Bolivia,535000.0,EUR,https://api.sofascore.app/api/v1/player/936531/image
+Denilson Duran,duran-denilson,D. Durán,D,175.0,,8,1457544,4.0,2003-03-24,,6968,545000.0,BO,Bolivia,545000.0,EUR,https://api.sofascore.app/api/v1/player/1457544/image
+Juan Barba,juan-barba,J. Barba,M,,,0,1390320,48.0,2003-08-15,,268083,,BO,Bolivia,,EUR,https://api.sofascore.app/api/v1/player/1390320/image
+Dico Roca,dico-roca,D. Roca,D,172.0,Left,2,923028,21.0,1996-10-22,,327910,310000.0,BO,Bolivia,310000.0,EUR,https://api.sofascore.app/api/v1/player/923028/image
+Matheo Zoch,matheo-zoch,M. Zoch,M,169.0,Right,2,837062,21.0,1996-07-12,,327860,285000.0,BO,Bolivia,285000.0,EUR,https://api.sofascore.app/api/v1/player/837062/image
+Alejandro Ampuero,ampuero-alejandro,A. Ampuero,M,,,1,1386912,29.0,2003-03-30,,33820,,BO,Bolivia,,EUR,https://api.sofascore.app/api/v1/player/1386912/image
+Ronald Bustos,ronald-bustos,R. Bustos,D,,,1,1114100,31.0,,,32529,,,,,EUR,https://api.sofascore.app/api/v1/player/1114100/image
+Yomar Rodriguez,yomar-rodriguez,Y. Rodriguez,D,178.0,,3,1128911,14.0,2003-06-23,,7059,,BO,Bolivia,,EUR,https://api.sofascore.app/api/v1/player/1128911/image
+Daniel Castellón,daniel-castellon,D. Castellón,D,,,1,1184156,25.0,1996-05-02,,372975,195000.0,BO,Bolivia,195000.0,EUR,https://api.sofascore.app/api/v1/player/1184156/image
+Frank Oni,frank-oni,F. Oni,M,179.0,,1,876835,10.0,1989-12-28,,423192,,BO,Bolivia,,EUR,https://api.sofascore.app/api/v1/player/876835/image
+Imanol Cárdenas,imanol-cardenas,I. Cárdenas,M,,Right,1,954360,22.0,2000-04-29,2024-12-31,327860,300000.0,BO,Bolivia,300000.0,EUR,https://api.sofascore.app/api/v1/player/954360/image
+Drulin Cruz,drulin-cruz,D. Cruz,D,,,1,1495618,26.0,1998-12-10,,327910,,,,,EUR,https://api.sofascore.app/api/v1/player/1495618/image
+Darío Torrico,dario-torrico,D. Torrico,M,167.0,Both,1,1093015,30.0,2000-10-18,2023-12-31,33714,465000.0,BO,Bolivia,465000.0,EUR,https://api.sofascore.app/api/v1/player/1093015/image
+Walter Antelo,walter-antelo,W. Antelo,D,182.0,Right,3,1000386,34.0,2000-10-09,,327860,590000.0,BO,Bolivia,590000.0,EUR,https://api.sofascore.app/api/v1/player/1000386/image
+Ronaldo Sánchez,ronaldo-sanchez,R. Sánchez,M,175.0,Right,2,885601,21.0,1997-04-24,,33820,,BO,Bolivia,,EUR,https://api.sofascore.app/api/v1/player/885601/image
+Luis Demiquel,luis-demiquel,L. Demiquel,D,185.0,Left,3,985020,29.0,2000-01-15,,273544,165000.0,BO,Bolivia,165000.0,EUR,https://api.sofascore.app/api/v1/player/985020/image
+Jhon García,jhon-garcia,J. García,M,170.0,Left,12,927209,20.0,2000-04-13,,32529,410000.0,BO,Bolivia,410000.0,EUR,https://api.sofascore.app/api/v1/player/927209/image
+Reyes Camacho,reyes-camacho,R. Camacho,M,,,1,1394846,33.0,2003-01-20,,273544,,,,,EUR,https://api.sofascore.app/api/v1/player/1394846/image
+Brandon Guzman,brandon-guzman,B. Guzman,M,,,0,1102013,28.0,,,273544,,,,,EUR,https://api.sofascore.app/api/v1/player/1102013/image
+Igor Limas,igor-limas,I. Limas,F,,,0,1495632,9.0,1998-01-02,,33714,,,,,EUR,https://api.sofascore.app/api/v1/player/1495632/image
+Sergio Cardenas,sergio-cardenas,S. Cardenas,M,,,0,1503711,39.0,2004-09-13,,7878,,,,,EUR,https://api.sofascore.app/api/v1/player/1503711/image
+Leonardo Viviani,leonardo-viviani,L. Viviani,F,,,0,1521676,32.0,,,7059,,BO,Bolivia,,EUR,https://api.sofascore.app/api/v1/player/1521676/image
+Roy Mollinedo,roy-mollinedo,R. Mollinedo,M,,,0,1523704,17.0,,,372975,,,,,EUR,https://api.sofascore.app/api/v1/player/1523704/image
+Francescoli Bejarano,francescoli-bejarano,F. Bejarano,F,,,0,1495626,28.0,1994-10-26,,423192,,,,,EUR,https://api.sofascore.app/api/v1/player/1495626/image
+Leonardo Fenga,leonardo-fenga,L. Fenga,F,,,10,1176790,21.0,2002-01-03,,6968,255000.0,BR,Brazil,255000.0,EUR,https://api.sofascore.app/api/v1/player/1176790/image
+Daniel Lino,daniel-lino,D. Lino,D,184.0,,3,1184194,4.0,2002-02-18,,32529,185000.0,BO,Bolivia,185000.0,EUR,https://api.sofascore.app/api/v1/player/1184194/image
+Cristhian Abastoflor,cristhian-abastoflor,C. Abastoflor,M,,,0,1114076,25.0,2001-09-18,,33714,26000.0,BO,Bolivia,26000.0,EUR,https://api.sofascore.app/api/v1/player/1114076/image
+Javier Ibánez,javier-ibanez,J. Ibánez,M,170.0,,0,1495634,13.0,1997-01-10,,335685,,,,,EUR,https://api.sofascore.app/api/v1/player/1495634/image
+Jean Pierre El Hage,jean-pierre-el-hage,J. P. E. Hage,F,,,2,1177043,36.0,2004-01-10,,327910,79000.0,BO,Bolivia,79000.0,EUR,https://api.sofascore.app/api/v1/player/1177043/image
+Gabriel Becerra,gabriel-becerra,G. Becerra,M,,,1,1593987,42.0,,,327910,,BO,Bolivia,,EUR,https://api.sofascore.app/api/v1/player/1593987/image
+Ferddy Roca,ferddy-roca,F. Rocca,F,170.0,Right,3,877530,9.0,2000-03-24,,33820,115000.0,BO,Bolivia,115000.0,EUR,https://api.sofascore.app/api/v1/player/877530/image
+Jaffet Sanchez,jaffet-sanchez,J. Sanchez,M,174.0,Right,0,1499988,35.0,2003-02-02,,321264,52000.0,BO,Bolivia,52000.0,EUR,https://api.sofascore.app/api/v1/player/1499988/image
+Santiago Arce,santiago-arce,S. Arce,M,181.0,Right,2,1114102,5.0,2000-05-30,,268083,260000.0,BO,Bolivia,260000.0,EUR,https://api.sofascore.app/api/v1/player/1114102/image
+José Carrasco,jose-carrasco,J. Carrasco,D,186.0,Right,21,1197049,2.0,1997-08-16,,32529,235000.0,BO,Bolivia,235000.0,EUR,https://api.sofascore.app/api/v1/player/1197049/image
+Weverton Braz,weverton-braz,W. Braz,M,180.0,Right,1,925862,34.0,1992-03-24,,327910,82000.0,BR,Brazil,82000.0,EUR,https://api.sofascore.app/api/v1/player/925862/image
+Emerson Velásquez,emerson-velasquez,E. Velásquez,D,188.0,Right,2,1017425,3.0,1999-02-24,,372975,210000.0,BO,Bolivia,210000.0,EUR,https://api.sofascore.app/api/v1/player/1017425/image
+Jesús Sagredo,jesus-sagredo,J. Sagredo,D,180.0,Left,8,1017471,2.0,1994-03-10,,7059,490000.0,BO,Bolivia,490000.0,EUR,https://api.sofascore.app/api/v1/player/1017471/image
+Ronny Montero,ronny-montero,R. Montero,D,182.0,Right,2,127827,16.0,1991-05-15,,321264,205000.0,BO,Bolivia,205000.0,EUR,https://api.sofascore.app/api/v1/player/127827/image
+Nils Huasna,nils-huasna,N. Huasna,D,173.0,Left,1,1485495,33.0,2004-06-16,,321264,260000.0,BO,Bolivia,260000.0,EUR,https://api.sofascore.app/api/v1/player/1485495/image
+Carlos Ribera Guzman,carlos-ribera-guzman,C. R. Guzman,M,175.0,Right,1,923034,21.0,1997-02-06,,268082,360000.0,BO,Bolivia,360000.0,EUR,https://api.sofascore.app/api/v1/player/923034/image
+Milton Garzón,milton-garzon,M. Garzón,F,170.0,,3,1017451,18.0,2001-04-24,,321264,110000.0,BO,Bolivia,110000.0,EUR,https://api.sofascore.app/api/v1/player/1017451/image
+Yerco Vallejos,yerco-vallejos,Y. R. Vallejos,F,180.0,Right,1,941619,32.0,1995-04-03,,33714,235000.0,BO,Bolivia,235000.0,EUR,https://api.sofascore.app/api/v1/player/941619/image
+Mario Alberto Cuellar,mario-alberto-cuellar,M. A. Cuellar,M,178.0,Right,1,846775,5.0,1989-04-05,,7878,185000.0,BO,Bolivia,185000.0,EUR,https://api.sofascore.app/api/v1/player/846775/image
+Enrique Flores,enrique-flores,E. Flores,D,175.0,Left,1,246979,4.0,1994-02-01,,33820,450000.0,BO,Bolivia,450000.0,EUR,https://api.sofascore.app/api/v1/player/246979/image
+Saúl Torres,saul-torres,S. Torres,D,180.0,Right,6,878666,7.0,1990-03-22,2023-12-31,32529,235000.0,BO,Bolivia,235000.0,EUR,https://api.sofascore.app/api/v1/player/878666/image
+Mijaíl Avilés,mijail-aviles,M. Avilés,M,180.0,Right,11,838877,88.0,1987-06-05,,273544,93000.0,VE,Venezuela,93000.0,EUR,https://api.sofascore.app/api/v1/player/838877/image
+Ronaldo Monteiro,ronaldo-monteiro,R. Monteiro,F,191.0,Right,1,874468,9.0,1998-01-11,,268082,180000.0,BO,Bolivia,180000.0,EUR,https://api.sofascore.app/api/v1/player/874468/image
+Darwin Ríos,darwin-rios,D. Ríos,F,186.0,Right,1,1184191,,1991-04-25,,241802,69000.0,BO,Bolivia,69000.0,EUR,https://api.sofascore.app/api/v1/player/1184191/image
+Jordy Candia,jordy-candia,J. Candia,D,179.0,Right,1,875244,33.0,1996-04-20,,268082,,BO,Bolivia,,EUR,https://api.sofascore.app/api/v1/player/875244/image
+Mizael Monteiro,mizael-monteiro,M. Monteiro,D,,,1,1495666,4.0,2000-11-20,,327910,,,,,EUR,https://api.sofascore.app/api/v1/player/1495666/image
+Fabricio Quaglio,fabricio-quaglio,F. Quaglio,F,172.0,Left,10,1184195,18.0,2003-07-30,,32529,310000.0,BO,Bolivia,310000.0,EUR,https://api.sofascore.app/api/v1/player/1184195/image
+Brandon Peña,brandon-pena,B. Peña,M,169.0,Right,2,1495603,6.0,1998-10-03,,372975,,CO,Colombia,,EUR,https://api.sofascore.app/api/v1/player/1495603/image
+Dustin Maldonado,dustin-maldonado,D. Maldonado,M,173.0,Left,3,75850,38.0,1990-03-18,,327910,205000.0,BO,Bolivia,205000.0,EUR,https://api.sofascore.app/api/v1/player/75850/image
+Alejandro Medina,alejandro-medina,A. Medina,F,171.0,Both,1,931395,,1996-09-13,,241802,195000.0,BO,Bolivia,195000.0,EUR,https://api.sofascore.app/api/v1/player/931395/image
+Rodrigo Vargas,rodrigo-vargas,R. Vargas,F,169.0,Right,6,247121,20.0,1994-10-19,,7878,170000.0,BO,Bolivia,170000.0,EUR,https://api.sofascore.app/api/v1/player/247121/image
+Andrés Veizaga,andres-veizaga,A. Veizaga,M,177.0,,1,932239,46.0,1996-11-11,,327860,105000.0,BO,Bolivia,105000.0,EUR,https://api.sofascore.app/api/v1/player/932239/image
+Ronald Cuellar,ronald-cuellar,R. Cuellar,M,,,7,979327,25.0,1997-06-09,,6968,230000.0,BO,Bolivia,230000.0,EUR,https://api.sofascore.app/api/v1/player/979327/image
+Yesit Martínez,yesit-martinez,Y. Martínez,M,170.0,Left,6,1173831,16.0,2002-01-31,,372975,290000.0,BO,Bolivia,290000.0,EUR,https://api.sofascore.app/api/v1/player/1173831/image
+Luis Zeballos,zeballos-luis,L. Zeballos,M,170.0,,1,1214769,17.0,2002-05-07,,33820,385000.0,BO,Bolivia,385000.0,EUR,https://api.sofascore.app/api/v1/player/1214769/image
+Pablo Grass,pablo-grass,P. Grass,D,,,1,1198428,39.0,,,372975,,BO,Bolivia,,EUR,https://api.sofascore.app/api/v1/player/1198428/image
+Ariel Flores,ariel-flores,A. Flores,M,,,2,1495600,27.0,2004-10-08,,33714,,,,,EUR,https://api.sofascore.app/api/v1/player/1495600/image
+Kevin Salvatierra,kevin-salvatierra,K. Salvatierra,M,165.0,,1,932240,10.0,2001-08-05,,273544,340000.0,BO,Bolivia,340000.0,EUR,https://api.sofascore.app/api/v1/player/932240/image
+Cristhian Árabe,cristhian-arabe,C. Árabe,M,178.0,Right,5,588494,7.0,1991-12-25,,33820,410000.0,BO,Bolivia,410000.0,EUR,https://api.sofascore.app/api/v1/player/588494/image
+Bruno Poveda,bruno-poveda,B. Poveda,G,181.0,Left,3,1169063,1.0,2003-10-22,,7878,170000.0,BO,Bolivia,170000.0,EUR,https://api.sofascore.app/api/v1/player/1169063/image
+Enzo Rodriguez,enzo-rodriguez,E. Rodriguez,G,,,2,1464252,1.0,2003-12-12,,327910,320000.0,BO,Bolivia,320000.0,EUR,https://api.sofascore.app/api/v1/player/1464252/image
+Samuel Pozo,samuel-pozo,S. Pozo,M,166.0,Right,1,1017443,25.0,1997-03-23,,327860,310000.0,BO,Bolivia,310000.0,EUR,https://api.sofascore.app/api/v1/player/1017443/image
+Yosimar Quiñónes,yosimar-quinones,Y. Quiñónes,D,189.0,Right,9,886712,3.0,1988-08-04,,327910,81000.0,CO,Colombia,81000.0,EUR,https://api.sofascore.app/api/v1/player/886712/image
+Denilso Fernandez,denilso-fernandez,D. Fernandez,M,,,1,1495615,20.0,2002-07-06,,423192,,,,,EUR,https://api.sofascore.app/api/v1/player/1495615/image
+David Ribera,david-ribera,D. Ribera,F,174.0,Right,1,1102022,18.0,2001-01-19,,273544,440000.0,BO,Bolivia,440000.0,EUR,https://api.sofascore.app/api/v1/player/1102022/image
+Jonathan Lacerda,jonathan-lacerda,J. Lacerda,D,186.0,Left,23,108190,43.0,1987-02-07,2024-12-31,6968,78000.0,UY,Uruguay,78000.0,EUR,https://api.sofascore.app/api/v1/player/108190/image
+Oscar Baldomar,oscar-baldomar,O. Baldomar,D,180.0,Right,1,805218,20.0,1996-02-16,,321264,515000.0,BO,Bolivia,515000.0,EUR,https://api.sofascore.app/api/v1/player/805218/image
+Juan Gómez,juan-gomez,J. Gómez,M,,Right,1,1495644,30.0,1992-09-24,,423192,,AR,Argentina,,EUR,https://api.sofascore.app/api/v1/player/1495644/image
+Joel Fernández,joel-fernandez,J. Fernández,D,175.0,Right,2,978012,14.0,1999-01-13,,327910,335000.0,BO,Bolivia,335000.0,EUR,https://api.sofascore.app/api/v1/player/978012/image
+Richard Peñaranda,richard-penaranda,R. Peñaranda,M,174.0,,1,975113,,1998-02-25,,241802,105000.0,BO,Bolivia,105000.0,EUR,https://api.sofascore.app/api/v1/player/975113/image
+Kadassi Trazie,kadassi-trazie,K. Trazie,M,,,0,1495648,,1996-11-11,2023-12-31,396625,,CI,Ivory Coast,,EUR,https://api.sofascore.app/api/v1/player/1495648/image
+Jorge Arauz,jorge-arauz,J. Arauz,G,187.0,Right,1,815441,22.0,1995-03-15,,273544,320000.0,BO,Bolivia,320000.0,EUR,https://api.sofascore.app/api/v1/player/815441/image
+Bismark Ubah,bismark-ubah,B. Ubah,F,184.0,,3,1102014,9.0,1994-01-05,,7878,115000.0,NG,Nigeria,115000.0,EUR,https://api.sofascore.app/api/v1/player/1102014/image
+Omar Morales,omar-morales,O. Morales,D,180.0,Right,1,39341,28.0,1988-01-18,,372975,110000.0,BO,Bolivia,110000.0,EUR,https://api.sofascore.app/api/v1/player/39341/image
+Mauricio Arroyo,mauricio-arroyo,M. Arroyo,F,,Right,1,1495663,27.0,2004-03-11,,372975,,BO,Bolivia,,EUR,https://api.sofascore.app/api/v1/player/1495663/image
+Bryan Bentaberry,bryan-bentaberry,B. Bentaberry,D,184.0,Right,39,877589,3.0,1997-01-21,2024-12-31,7059,680000.0,UY,Uruguay,680000.0,EUR,https://api.sofascore.app/api/v1/player/877589/image
+Mauricio Serrano,mauricio-serrano,M. Serrano,F,,,1,1462160,6.0,1994-02-05,,321264,,,,,EUR,https://api.sofascore.app/api/v1/player/1462160/image
+Gabriel Poveda,gabriel-poveda,G. Poveda,F,183.0,Right,307,937806,9.0,1998-07-07,2024-06-30,7315,800000.0,BR,Brazil,800000.0,EUR,https://api.sofascore.app/api/v1/player/937806/image
+Jose Bravo,jose-bravo,J. Bravo,F,,,2,1394161,18.0,1997-08-10,,327860,130000.0,BO,Bolivia,130000.0,EUR,https://api.sofascore.app/api/v1/player/1394161/image
+Hernan Luis Rodriguez,hernan-luis-rodriguez,H. L. Rodriguez,M,177.0,Left,1,805224,30.0,1996-09-15,,335685,335000.0,BO,Bolivia,335000.0,EUR,https://api.sofascore.app/api/v1/player/805224/image
+Ricardo Pedriel,ricardo-pedriel,R. Pedriel,F,186.0,Right,7,33709,9.0,1987-01-19,,372975,48000.0,BO,Bolivia,48000.0,EUR,https://api.sofascore.app/api/v1/player/33709/image
+Luis Coplot,luis-coplot,L. Coplot,F,,,0,1488633,5.0,,,327860,,,,,EUR,https://api.sofascore.app/api/v1/player/1488633/image
+Ariel Juarez,ariel-juarez,A. Juarez,M,165.0,Right,1,40939,14.0,1988-03-26,,7878,68000.0,BO,Bolivia,68000.0,EUR,https://api.sofascore.app/api/v1/player/40939/image
+Luis Haquín,luis-haquin,L. Haquín,D,190.0,Right,62,876304,4.0,1997-11-15,2023-12-31,6112,465000.0,BO,Bolivia,465000.0,EUR,https://api.sofascore.app/api/v1/player/876304/image
+Adrian Sandoval Lopez,sandoval-lopez-adrian,A. S. López,D,179.0,Left,1,1397693,26.0,2000-03-22,,33820,290000.0,BO,Bolivia,290000.0,EUR,https://api.sofascore.app/api/v1/player/1397693/image
+Claver Arriaga,claver-arriaga,C. Arriaga,D,,,0,1495611,21.0,1997-06-21,,423192,,,,,EUR,https://api.sofascore.app/api/v1/player/1495611/image
+Guilmar Centella,guilmar-centella,G. Centella,M,,,1,1457541,32.0,2005-03-26,,6968,,BO,Bolivia,,EUR,https://api.sofascore.app/api/v1/player/1457541/image
+Rodrigo Vargas,rodrigo-vargas,R. Vargas,F,177.0,Right,3,146389,7.0,1989-09-01,,268082,73000.0,BO,Bolivia,73000.0,EUR,https://api.sofascore.app/api/v1/player/146389/image
+Denilson Valda,denilson-valda,D. Valda,D,177.0,,2,868704,77.0,1997-06-21,,32529,165000.0,BO,Bolivia,165000.0,EUR,https://api.sofascore.app/api/v1/player/868704/image
+Abraham Cabrera,abraham-cabrera,A. Cabrera,D,180.0,Left,1,146379,31.0,1991-02-20,2023-12-31,6968,160000.0,BO,Bolivia,160000.0,EUR,https://api.sofascore.app/api/v1/player/146379/image
+Diego Panique,diego-panique,D. Panique,M,,,1,886597,19.0,,,389559,,BO,Bolivia,,EUR,https://api.sofascore.app/api/v1/player/886597/image
+Victor Hugo Melgar,victor-hugo-melgar,V. H. Melgar,M,168.0,Right,3,147470,7.0,1988-02-28,,372975,81000.0,BO,Bolivia,81000.0,EUR,https://api.sofascore.app/api/v1/player/147470/image
+José Briceño,jose-briceno,J. Briceño,D,177.0,Right,2,1147179,16.0,2002-01-20,,327910,190000.0,BO,Bolivia,190000.0,EUR,https://api.sofascore.app/api/v1/player/1147179/image
+Nixon Guylherme,nixon-guylherme,N. Guylherme,F,184.0,Right,5,1098807,99.0,1995-12-26,2024-06-30,80811,190000.0,BR,Brazil,190000.0,EUR,https://api.sofascore.app/api/v1/player/1098807/image
+Bryan Espinoza,bryan-espinoza,B. Espinoza,F,,,3,1197418,31.0,2003-01-03,,268083,145000.0,BO,Bolivia,145000.0,EUR,https://api.sofascore.app/api/v1/player/1197418/image
+Mauricio Cabral,mauricio-cabral,M. Cabral,D,175.0,,1,980812,2.0,2000-11-05,,47701,,,,,EUR,https://api.sofascore.app/api/v1/player/980812/image
+Juan Sebastián Reyes,juan-sebastian-reyes,J. S. Reyes,D,189.0,Left,3,876826,36.0,1997-03-12,,33820,545000.0,BO,Bolivia,545000.0,EUR,https://api.sofascore.app/api/v1/player/876826/image
+Diego Wayar,diego-wayar,D. Wayar,D,169.0,Right,7,221800,14.0,1993-10-15,,32529,165000.0,BO,Bolivia,165000.0,EUR,https://api.sofascore.app/api/v1/player/221800/image
+Javier Vargas,vargas-javier,J. Vargas,F,,,6,1468324,35.0,2003-01-28,,33820,,BO,Bolivia,,EUR,https://api.sofascore.app/api/v1/player/1468324/image
+Kevin Mamani,kevin-mamani,K. Mamani,D,,,4,1495650,33.0,2004-11-05,,335685,,,,,EUR,https://api.sofascore.app/api/v1/player/1495650/image
+Amilcar Sanchez,amilcar-sanchez,A. Sanchez,D,173.0,Right,0,561244,20.0,1993-01-23,,33714,180000.0,BO,Bolivia,180000.0,EUR,https://api.sofascore.app/api/v1/player/561244/image
+Alexander Zurita Torrico,alexander-zurita-torrico,A. Z. Torrico,D,170.0,Right,2,1109295,32.0,1997-10-11,2023-12-31,273544,390000.0,AR,Argentina,390000.0,EUR,https://api.sofascore.app/api/v1/player/1109295/image
+Jorge Vargas,jorge-vargas,J. Vargas,M,,,0,1495642,17.0,1997-02-17,,423192,,,,,EUR,https://api.sofascore.app/api/v1/player/1495642/image
+Rai Lima,rai-lima,R. Lima,M,,Left,2,1147180,8.0,2000-04-08,,321264,360000.0,BO,Bolivia,360000.0,EUR,https://api.sofascore.app/api/v1/player/1147180/image
+Diego Cabrera,diego-cabrera,D. Cabrera,M,175.0,Right,2,1177427,28.0,2005-01-29,,33820,77000.0,BO,Bolivia,77000.0,EUR,https://api.sofascore.app/api/v1/player/1177427/image
+Alan Sanchez,alan-sanchez,A. Sanchez,F,181.0,Right,2,1184173,34.0,2004-02-04,,268083,155000.0,BO,Bolivia,155000.0,EUR,https://api.sofascore.app/api/v1/player/1184173/image
+Luis Flores,luis-flores,L. Flores,M,,,0,1503866,65.0,2004-03-09,,372975,,BO,Bolivia,,EUR,https://api.sofascore.app/api/v1/player/1503866/image
+Camilo Mamani,camilo-mamani,C. Mamani,F,,,0,1510596,47.0,,,372975,,BO,Bolivia,,EUR,https://api.sofascore.app/api/v1/player/1510596/image
+Alain de Guzman,de-guzman-alain,A. d. Guzman,M,173.0,Left,3,1169070,18.0,2003-01-24,,33820,93000.0,BO,Bolivia,93000.0,EUR,https://api.sofascore.app/api/v1/player/1169070/image
+Yeffry Paz,yeffry-paz,Y. Paz,M,,,1,1507621,49.0,2003-03-18,,372975,,BO,Bolivia,,EUR,https://api.sofascore.app/api/v1/player/1507621/image
+Joel Bejarano,joel-bejarano,J. Bejarano,M,170.0,Right,1,831013,21.0,1996-03-21,,468587,160000.0,BO,Bolivia,160000.0,EUR,https://api.sofascore.app/api/v1/player/831013/image
+William Velasco,william-velasco,W. Velasco,M,,,1,1000740,17.0,2000-04-21,,423186,69000.0,BO,Bolivia,69000.0,EUR,https://api.sofascore.app/api/v1/player/1000740/image
+Ivan Brun,ivan-brun,I. Brun,G,183.0,Right,2,876823,1.0,1984-01-19,,7060,27000.0,AR,Argentina,27000.0,EUR,https://api.sofascore.app/api/v1/player/876823/image
+Andre Sosa,andre-sosa,A. Sosa,D,,Right,2,1169062,42.0,1998-11-04,,33820,165000.0,BO,Bolivia,165000.0,EUR,https://api.sofascore.app/api/v1/player/1169062/image
+Pedro Martínez,pedro-martinez,P. Martínez,D,,Right,0,1184215,3.0,1992-11-17,,335685,110000.0,BO,Bolivia,110000.0,EUR,https://api.sofascore.app/api/v1/player/1184215/image
+Junior Da Silva,junior-da-silva,J. D. Silva,F,,,1,1092690,36.0,,,7878,,BO,Bolivia,,EUR,https://api.sofascore.app/api/v1/player/1092690/image
+Fabricio Suárez,fabricio-suarez,F. Suárez,F,176.0,,1,1189878,19.0,2003-09-02,,273544,,,,,EUR,https://api.sofascore.app/api/v1/player/1189878/image
+Raul Stefano,raul-stefano,R. Stefano,M,187.0,,0,1116574,15.0,1998-08-25,,327860,,BO,Bolivia,,EUR,https://api.sofascore.app/api/v1/player/1116574/image
+David Ramírez,david-ramirez,D. Ramírez,M,173.0,,0,1475507,24.0,1998-08-03,,321264,,,,,EUR,https://api.sofascore.app/api/v1/player/1475507/image
+José Herrera,jose-herrera,J. Herrera,D,180.0,Right,1,1169068,,2001-07-17,,241802,97000.0,BO,Bolivia,97000.0,EUR,https://api.sofascore.app/api/v1/player/1169068/image
+Wayner Vaca,wayner-vaca,W. Vaca,M,170.0,Left,1,1510216,39.0,2005-04-21,,327910,23000.0,BO,Bolivia,23000.0,EUR,https://api.sofascore.app/api/v1/player/1510216/image
+Guilder Cuellar,guilder-cuellar,G. Cuellar,M,170.0,,0,1510599,5.0,1999-05-21,,268082,,BO,Bolivia,,EUR,https://api.sofascore.app/api/v1/player/1510599/image
+Santos Navarro,santos-navarro,S. Navarro,D,168.0,Left,1,1017441,32.0,1990-11-20,,47701,260000.0,BO,Bolivia,260000.0,EUR,https://api.sofascore.app/api/v1/player/1017441/image
+Marcelo Suárez,marcelo-suarez,M. Suárez,D,178.0,Left,11,975103,4.0,2001-12-20,,268083,440000.0,BO,Bolivia,440000.0,EUR,https://api.sofascore.app/api/v1/player/975103/image
+Sergio Gil,sergio-gil,S. Gil,D,,Right,1,840988,22.0,1994-06-23,,423192,,BO,Bolivia,,EUR,https://api.sofascore.app/api/v1/player/840988/image
+Paolo Alcocer,paolo-alcocer,P. Alcocer,D,180.0,Right,3,975110,15.0,2000-09-03,,321264,69000.0,BO,Bolivia,69000.0,EUR,https://api.sofascore.app/api/v1/player/975110/image
+Denilson Choque,denilson-choque,D. Choque,D,171.0,,1,1197423,24.0,1998-09-23,,327860,115000.0,BO,Bolivia,115000.0,EUR,https://api.sofascore.app/api/v1/player/1197423/image
+Moisés Villarroel,moises-villarroel,M. Villarroel,M,175.0,Left,50,824930,8.0,1998-08-27,,48244,515000.0,BO,Bolivia,515000.0,EUR,https://api.sofascore.app/api/v1/player/824930/image
+Jeferson Virreira Cossio,jeferson-virreira-cossio,J. V. Cossio,D,182.0,Right,1,975078,,1997-01-19,,241802,340000.0,BO,Bolivia,340000.0,EUR,https://api.sofascore.app/api/v1/player/975078/image
+Gerson Malgor,gerson-malgor,G. Malgor,M,172.0,,1,1104156,39.0,2003-11-07,,327860,,BO,Bolivia,,EUR,https://api.sofascore.app/api/v1/player/1104156/image
+Jhon Velasco,jhon-velasco,J. Velasco,D,174.0,Left,14,1159650,19.0,2002-03-08,,47701,410000.0,BO,Bolivia,410000.0,EUR,https://api.sofascore.app/api/v1/player/1159650/image
+Hugo Salvatierra,hugo-salvatierra,H. Salvatierra,M,177.0,Right,2,1102027,13.0,2003-01-15,,47701,340000.0,BO,Bolivia,340000.0,EUR,https://api.sofascore.app/api/v1/player/1102027/image
+Leonardo Justiniano,leonardo-justiniano,L. Justiniano,D,190.0,Right,1,1017466,8.0,2001-07-20,2023-12-31,335685,340000.0,BO,Bolivia,340000.0,EUR,https://api.sofascore.app/api/v1/player/1017466/image
+Pablo Lujan,pablo-lujan,P. Lujan,M,,,2,1013157,14.0,2003-02-26,,6968,165000.0,BO,Bolivia,165000.0,EUR,https://api.sofascore.app/api/v1/player/1013157/image
+Jorge Leonardo Toco,jorge-leonardo-toco,J. L. Toco,D,178.0,Right,2,805339,31.0,1992-01-13,,372975,165000.0,BO,Bolivia,165000.0,EUR,https://api.sofascore.app/api/v1/player/805339/image
+Mirko Tomianovic,mirko-tomianovic,M. Tomianovic,M,167.0,,5,1008537,11.0,2001-10-01,,273544,165000.0,BO,Bolivia,165000.0,EUR,https://api.sofascore.app/api/v1/player/1008537/image
+Luis Rodríguez,luis-rodriguez,L. Rodríguez,D,177.0,,2,1108720,4.0,2002-10-17,,321264,340000.0,BO,Bolivia,340000.0,EUR,https://api.sofascore.app/api/v1/player/1108720/image
+Leonardo Montenegro,leonardo-montenegro,L. Montenegro,D,,,1,1495652,42.0,,,423192,,,,,EUR,https://api.sofascore.app/api/v1/player/1495652/image
+Victor Borobobo,victor-borobobo,V. Borobobo,M,,,1,1495683,6.0,1993-01-30,,327910,,,,,EUR,https://api.sofascore.app/api/v1/player/1495683/image
+César Menacho,cesar-menacho,C. Menacho,F,183.0,Right,7,944161,11.0,1999-08-09,,6968,390000.0,BO,Bolivia,390000.0,EUR,https://api.sofascore.app/api/v1/player/944161/image
+Kevin Pontons,kevin-pontons,K. Pontons,M,172.0,Right,1,1184207,35.0,1997-08-17,,327910,97000.0,BO,Bolivia,97000.0,EUR,https://api.sofascore.app/api/v1/player/1184207/image
+Marcelo De Lima,marcelo-de-lima,M. D. Lima,D,,,1,1457552,9.0,2005-04-08,,268083,,,,,EUR,https://api.sofascore.app/api/v1/player/1457552/image
+Kevin Fernández,kevin-fernandez,K. Fernández,M,,,1,931640,2.0,1996-06-20,,321264,110000.0,BO,Bolivia,110000.0,EUR,https://api.sofascore.app/api/v1/player/931640/image
+Damian Medina,damian-medina,D. Medina,D,170.0,,1,1471233,14.0,2005-10-02,,268083,,BO,Bolivia,,EUR,https://api.sofascore.app/api/v1/player/1471233/image
+Juan Alemán,juan-aleman,J. Alemán,D,180.0,Right,1,1495643,6.0,1990-05-04,,423192,,,,,EUR,https://api.sofascore.app/api/v1/player/1495643/image
+Raúl Rocabado,raul-rocabado,R. Rocabado,M,,,1,1468163,,2004-08-10,,268083,195000.0,BO,Bolivia,195000.0,EUR,https://api.sofascore.app/api/v1/player/1468163/image
+Jorge Carreón,jorge-carreon,J. Carreón,M,170.0,Right,3,1010408,23.0,1997-10-17,,327860,49000.0,ES,Spain,49000.0,EUR,https://api.sofascore.app/api/v1/player/1010408/image
+Henry Torrez,henry-torrez,H. Torrez,F,,,0,885623,,1994-10-28,,241802,47000.0,BO,Bolivia,47000.0,EUR,https://api.sofascore.app/api/v1/player/885623/image
+Edson Perez,edson-perez,E. Perez,F,174.0,,2,246989,14.0,1992-12-16,,372975,,BO,Bolivia,,EUR,https://api.sofascore.app/api/v1/player/246989/image
+Dieguito Rodríguez,dieguito-rodriguez,D. Rodríguez,D,,,1,1495617,4.0,1993-08-28,,423192,,,,,EUR,https://api.sofascore.app/api/v1/player/1495617/image
+Javier Guerra,javier-guerra,J. Guerra,M,179.0,Right,2,1394851,28.0,2004-04-06,,321264,340000.0,BO,Bolivia,340000.0,EUR,https://api.sofascore.app/api/v1/player/1394851/image
+Juan Montenegro,juan-montenegro,J. Montenegro,M,165.0,Left,3,923033,10.0,1997-02-04,,47701,270000.0,BO,Bolivia,270000.0,EUR,https://api.sofascore.app/api/v1/player/923033/image
+Miguel Angel Becerra,becerra-miguel-angel,M. Á. Becerra,D,,,1,1092597,24.0,1992-05-23,,6968,260000.0,BO,Bolivia,260000.0,EUR,https://api.sofascore.app/api/v1/player/1092597/image
+Adrian Pacheco,adrian-pacheco,A. Pacheco,M,177.0,Right,1,1499986,33.0,2005-07-02,,7878,54000.0,BO,Bolivia,54000.0,EUR,https://api.sofascore.app/api/v1/player/1499986/image
+César Romero,romero-cesar,C. Romero,D,188.0,Right,4,1457547,26.0,2001-08-01,,6968,,BO,Bolivia,,EUR,https://api.sofascore.app/api/v1/player/1457547/image
+Samuel Guzman Camargo,samuel-guzman-camargo,S. G. Camargo,D,,,3,973569,24.0,2001-08-29,,33820,,,,,EUR,https://api.sofascore.app/api/v1/player/973569/image
+Guimer Justiniano,guimer-justiniano,G. Justiniano,F,185.0,Left,2,923024,2.0,1989-06-29,,6968,140000.0,BO,Bolivia,140000.0,EUR,https://api.sofascore.app/api/v1/player/923024/image
+Ricardo Menacho,ricardo-menacho,R. Menacho,M,,,1,1471256,33.0,,,33820,,BO,Bolivia,,EUR,https://api.sofascore.app/api/v1/player/1471256/image
+Moises Calero,moises-calero,M. Calero,F,175.0,Right,1,929291,29.0,1998-09-12,,468587,165000.0,BO,Bolivia,165000.0,EUR,https://api.sofascore.app/api/v1/player/929291/image
+Mario Perez,mario-perez,M. Perez,D,172.0,Left,0,1465093,33.0,2005-09-15,,6968,52000.0,BO,Bolivia,52000.0,EUR,https://api.sofascore.app/api/v1/player/1465093/image
+Edson García,edson-garcia,E. García,M,,,0,1510857,40.0,2006-06-04,,321264,,BO,Bolivia,,EUR,https://api.sofascore.app/api/v1/player/1510857/image
+Harry Céspedes,harry-cespedes,H. Céspedes,D,,Left,3,964229,35.0,1998-07-27,2023-12-31,47701,160000.0,BO,Bolivia,160000.0,EUR,https://api.sofascore.app/api/v1/player/964229/image
+Jose Carlos Velasco Moreno,jose-carlos-velasco-moreno,J. C. V. Moreno,M,,,0,1093524,43.0,,,33820,,BO,Bolivia,,EUR,https://api.sofascore.app/api/v1/player/1093524/image
+Gabriel Ríos,gabriel-rios,G. Ríos,M,,,2,883602,11.0,,,423192,,,,,EUR,https://api.sofascore.app/api/v1/player/883602/image
+Diego Arando,diego-arando,D. Arando,M,,,0,1495616,51.0,2003-08-06,,372975,,,,,EUR,https://api.sofascore.app/api/v1/player/1495616/image
+Marcelo Somoya,marcelo-somoya,M. Somoya,M,170.0,Right,2,1483011,25.0,2004-02-27,,32529,68000.0,BO,Bolivia,68000.0,EUR,https://api.sofascore.app/api/v1/player/1483011/image
+Ronald Sagredo,ronald-sagredo,R. Sagredo,D,,,0,1495678,16.0,2005-01-01,,335685,,,,,EUR,https://api.sofascore.app/api/v1/player/1495678/image
+Diego Valverde,diego-valverde,D. Valverde,D,,,2,1177040,2.0,2003-12-07,,273544,115000.0,BO,Bolivia,115000.0,EUR,https://api.sofascore.app/api/v1/player/1177040/image
+Grovert Carrillo,grovert-carrillo,G. Carrillo,D,,,0,1495629,5.0,1996-06-19,,423192,,,,,EUR,https://api.sofascore.app/api/v1/player/1495629/image
+Ronald Gil,ronald-gil,R. Gil,M,,,0,1471660,5.0,2004-12-30,,47701,,,,,EUR,https://api.sofascore.app/api/v1/player/1471660/image
+Saul Severiche,severiche-saul,S. Severiche,D,178.0,Right,1,1184185,39.0,2002-05-17,,6968,105000.0,BO,Bolivia,105000.0,EUR,https://api.sofascore.app/api/v1/player/1184185/image
+Sergio Moruno,sergio-moruno,S. Moruno,M,171.0,,0,1184190,16.0,1993-06-08,,33714,70000.0,BO,Bolivia,70000.0,EUR,https://api.sofascore.app/api/v1/player/1184190/image
+Cristian Fernandez,cristian-fernandez,C. Fernandez,M,182.0,Right,5,1464250,26.0,2003-10-07,,47701,77000.0,BO,Bolivia,77000.0,EUR,https://api.sofascore.app/api/v1/player/1464250/image
+Ramiro Eguez,ramiro-eguez,R. Eguez,M,,,2,1457554,36.0,2004-03-16,,6968,48000.0,BO,Bolivia,48000.0,EUR,https://api.sofascore.app/api/v1/player/1457554/image
+Anderson Rey Salinas,anderson-rey-salinas,A. R. Salinas,D,187.0,Right,1,891844,94.0,1994-09-13,,327860,72000.0,BO,Bolivia,72000.0,EUR,https://api.sofascore.app/api/v1/player/891844/image
+Ayrton Paz,ayrton-paz,A. Paz,D,,,2,1177426,32.0,,,33820,,BO,Bolivia,,EUR,https://api.sofascore.app/api/v1/player/1177426/image
+Daniel Camacho,daniel-camacho,D. Camacho,M,178.0,Right,7,874465,98.0,1998-10-15,,268082,180000.0,BO,Bolivia,180000.0,EUR,https://api.sofascore.app/api/v1/player/874465/image
+Andrée Gustavo Navia Rios,andree-gustavo-navia-rios,A. G. N. Rios,M,,,0,1495596,7.0,2000-07-03,,327860,,,,,EUR,https://api.sofascore.app/api/v1/player/1495596/image
+Luis Condarco,luis-condarco,L. Condarco,M,,,0,1495655,31.0,2004-04-07,,327860,,,,,EUR,https://api.sofascore.app/api/v1/player/1495655/image
+Marlon Esterilla,marlon-esterilla,M. Esterilla,D,176.0,Right,3,1477489,,1994-09-09,,423186,77000.0,EC,Ecuador,77000.0,EUR,https://api.sofascore.app/api/v1/player/1477489/image
+Juan Daniel Ferrufino,ferrufino-juan-daniel,J. D. Ferrufino,F,,,1,1009953,17.0,2001-03-08,,6968,81000.0,BO,Bolivia,81000.0,EUR,https://api.sofascore.app/api/v1/player/1009953/image
+Cristhian Choque,cristhian-choque,C. Choque,M,,,1,932913,52.0,,,372975,,BO,Bolivia,,EUR,https://api.sofascore.app/api/v1/player/932913/image
+Lazaro Crecencio,lazaro-crecencio,L. Crecencio,D,,,0,1490613,15.0,2003-04-10,,327910,,,,,EUR,https://api.sofascore.app/api/v1/player/1490613/image
+José Flores,jose-flores,J. Flores,F,177.0,Right,14,1114093,32.0,2003-08-03,,32529,325000.0,BO,Bolivia,325000.0,EUR,https://api.sofascore.app/api/v1/player/1114093/image
+Adrián Peña,adrian-pena,A. Peña,M,184.0,Left,8,1000475,45.0,2003-12-10,2023-12-31,33820,,BO,Bolivia,,EUR,https://api.sofascore.app/api/v1/player/1000475/image
+Diego Valdivia,valdivia-diego,D. Valdivia,G,186.0,,1,975066,22.0,2001-04-14,,33820,81000.0,BO,Bolivia,81000.0,EUR,https://api.sofascore.app/api/v1/player/975066/image
+Pablo Galindo,pablo-galindo,P. Galindo,D,174.0,Left,1,1116476,,1997-09-03,,241802,52000.0,BO,Bolivia,52000.0,EUR,https://api.sofascore.app/api/v1/player/1116476/image
+Rashid Joffre,rashid-joffre,R. Joffre,M,,,1,1595972,51.0,,,33820,,BO,Bolivia,,EUR,https://api.sofascore.app/api/v1/player/1595972/image
+Nicoll Taboada,nicoll-taboada,N. Taboada,D,175.0,Right,1,1184230,22.0,1990-06-06,,33714,73000.0,BO,Bolivia,73000.0,EUR,https://api.sofascore.app/api/v1/player/1184230/image
+Johan Gutiérrez,johan-gutierrez,J. Gutiérrez,G,182.0,Right,2,891848,34.0,1996-09-27,,6968,220000.0,BO,Bolivia,220000.0,EUR,https://api.sofascore.app/api/v1/player/891848/image
+Nicolas Arteaga,nicolas-arteaga,N. Arteaga,F,173.0,Left,0,1495668,21.0,1996-10-14,,372975,,,,,EUR,https://api.sofascore.app/api/v1/player/1495668/image
+Mauro Ramiro Milano,mauro-ramiro-milano,M. R. Milano,M,168.0,Right,3,33024,,1984-01-18,2023-12-31,241802,24000.0,AR,Argentina,24000.0,EUR,https://api.sofascore.app/api/v1/player/33024/image
+Pedro Tomicha Barboza,pedro-tomicha-barboza,P. T. Barboza,D,,Right,3,921380,16.0,1997-06-29,,423192,,BO,Bolivia,,EUR,https://api.sofascore.app/api/v1/player/921380/image
+Ezequiel Michelli,ezequiel-michelli,E. Michelli,D,183.0,Right,3,295335,31.0,1991-04-29,,33714,71000.0,AR,Argentina,71000.0,EUR,https://api.sofascore.app/api/v1/player/295335/image
+Angel Gutierrez,angel-gutierrez,A. Gutierrez,D,169.0,Right,0,1394165,,2002-01-13,,241802,105000.0,BO,Bolivia,105000.0,EUR,https://api.sofascore.app/api/v1/player/1394165/image
+Yojhani Taborga,yojhani-taborga,Y. Taborga,D,,,0,1495684,19.0,1996-02-13,,423192,,,,,EUR,https://api.sofascore.app/api/v1/player/1495684/image
+José Lara,jose-lara,J. Lara,F,,,0,1184227,17.0,2000-01-14,2023-12-31,327860,260000.0,BO,Bolivia,260000.0,EUR,https://api.sofascore.app/api/v1/player/1184227/image
+Jaime Villamil,jaime-villamil,J. Villamil,D,177.0,Left,5,876827,30.0,1992-10-05,,6968,230000.0,BO,Bolivia,230000.0,EUR,https://api.sofascore.app/api/v1/player/876827/image
+Luis Gómez,luis-gomez,L. Gómez,M,,,0,1468007,27.0,,,47701,,,,,EUR,https://api.sofascore.app/api/v1/player/1468007/image
+Sebastián Claure,sebastian-claure,S. Claure,M,182.0,Right,1,1018548,15.0,1999-10-26,,32529,325000.0,BO,Bolivia,325000.0,EUR,https://api.sofascore.app/api/v1/player/1018548/image
+Iago Mendonça,mendonca-iago,I. Mendonça,D,195.0,Both,14,986570,14.0,1999-08-16,2024-12-31,2021,130000.0,BR,Brazil,130000.0,EUR,https://api.sofascore.app/api/v1/player/986570/image
+Shelton Cordero,shelton-cordero,S. Cordero,D,185.0,Left,1,878668,,1998-12-21,,241802,52000.0,BO,Bolivia,52000.0,EUR,https://api.sofascore.app/api/v1/player/878668/image
+Elias Peralta,elias-peralta,E. Peralta,D,,,0,1495619,45.0,1998-05-25,,372975,,BO,Bolivia,,EUR,https://api.sofascore.app/api/v1/player/1495619/image
+Lorgio Castedo,lorgio-castedo,L. Castedo,G,182.0,Left,1,1507620,34.0,1988-03-02,,372975,,BO,Bolivia,,EUR,https://api.sofascore.app/api/v1/player/1507620/image
+Carlitos Rodriguez,carlitos-rodriguez,C. Rodriguez,M,165.0,Right,4,1386915,19.0,2004-11-22,,7878,185000.0,BO,Bolivia,185000.0,EUR,https://api.sofascore.app/api/v1/player/1386915/image
+Oscar Ribera,oscar-ribera,O. Ribera,D,178.0,Right,3,588518,12.0,1992-02-10,,335685,155000.0,BO,Bolivia,155000.0,EUR,https://api.sofascore.app/api/v1/player/588518/image
+Joel Bernal,joel-bernal,J. Bernal,G,,,2,1177044,1.0,2003-02-01,,273544,71000.0,BO,Bolivia,71000.0,EUR,https://api.sofascore.app/api/v1/player/1177044/image
+Juan Francisco Rivero,juan-francisco-rivero,J. F. Rivero,M,189.0,Right,1,1013129,33.0,1989-12-31,,327860,130000.0,BO,Bolivia,130000.0,EUR,https://api.sofascore.app/api/v1/player/1013129/image
+Mathías Techera,mathias-techera,M. Techera,D,189.0,Right,7,1102723,22.0,1992-02-16,,23427,215000.0,UY,Uruguay,215000.0,EUR,https://api.sofascore.app/api/v1/player/1102723/image
+Ricardo Román Arancibia,ricardo-roman-arancibia,R. R. Arancibia,M,177.0,Right,1,1113387,31.0,1996-03-11,,168098,73000.0,BO,Bolivia,73000.0,EUR,https://api.sofascore.app/api/v1/player/1113387/image
+Asaf Patzi,asaf-patzi,A. Patzi,M,,,2,1511838,72.0,2007-09-14,,372975,,BO,Bolivia,,EUR,https://api.sofascore.app/api/v1/player/1511838/image
+Rodrigo Cabrera,rodrigo-cabrera,R. Cabrera,F,169.0,Left,1,975115,12.0,1997-02-06,,335685,97000.0,BO,Bolivia,97000.0,EUR,https://api.sofascore.app/api/v1/player/975115/image
+Ricardo Suárez,ricardo-suarez,R. Suárez,D,180.0,Left,1,1184220,28.0,1993-10-23,,327910,105000.0,BO,Bolivia,105000.0,EUR,https://api.sofascore.app/api/v1/player/1184220/image
+Brian Hinojosa,brian-hinojosa,B. Hinojosa,D,175.0,Left,0,1495606,16.0,1993-08-12,,7878,,,,,EUR,https://api.sofascore.app/api/v1/player/1495606/image
+Alvaro Ayala,alvaro-ayala,A. Ayala,M,,,2,1522303,36.0,2004-11-01,,321264,,BO,Bolivia,,EUR,https://api.sofascore.app/api/v1/player/1522303/image
+Marcos Rodríguez,marcos-rodriguez,M. Rodríguez,M,,,1,1495660,27.0,2001-07-27,,327910,,,,,EUR,https://api.sofascore.app/api/v1/player/1495660/image
+José Segovia,jose-segovia,J. Segovia,F,172.0,,0,1104165,23.0,2003-09-11,,33714,,BO,Bolivia,,EUR,https://api.sofascore.app/api/v1/player/1104165/image
